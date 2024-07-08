@@ -1,0 +1,266 @@
+ID,GLOSS,CONCEPTICON_ID,CONCEPTICON_GLOSS,Spanish_Gloss,Scientific_Name,Concepticon_SemanticField
+1,agricultural field,212,FIELD,chacra,,Agriculture and vegetation
+2,abandoned agricultural field,,,purma,,Agriculture and vegetation
+3,russet-backed oropendola,,,paucar,Psarocolius angustifrons.,Animals
+4,scarlet macaw,,,guacamayo,Ara macao,Animals
+4_1,red scarlet macaw,,,guacamayo (rojo),Ara macao,Animals
+4_2,blue-yellow scarlet macaw,,,guacamayo (azul-amarillo),Ara macao,Animals
+5,white throated toucan,,,tucán,Ramphastos tucanus,Animals
+5_1,big white throated toucan,,,tucán grande,Ramphastos tucanus,Animals
+5_2,little white throated toucan,,,tucán pequeño,Ramphastos tucanus,Animals
+6,Spix's guan,,,pucacunga,Penelope jacquacu,Animals
+7,yellow crowned parrot,,,aurora,Amazona ochrocephala,Animals
+8,bluewinged parrotlet,,,pihuicho,Forpus xanthopterygius,Animals
+9,ringed kingfisher,,,martín pescador,Megaceryle torquata,Animals
+10,Great kiskadee,,,víctor díaz,Pitangus sulphuratus,Animals
+11,head,1256,HEAD,cabeza,,The body
+12,tooth,1380,TOOTH,diente,,The body
+13,hand,1277,HAND,mano,,The body
+14,face,1560,FACE,cara,,The body
+15,eye,1248,EYE,ojo,,The body
+16,nose,1221,NOSE,nariz,,The body
+17,mouth,674,MOUTH,boca,,The body
+18,foot,1301,FOOT,pie,,The body
+19,neck,1333,NECK,cuello,,The body
+20,ear,1247,EAR,orejas,,The body
+21,shoulder,1482,SHOULDER,hombro,,The body
+22,arm,1673,ARM,brazo,,The body
+22_1,arm (right),,,brazo (derecho),,The body
+22_2,arm (left),,,brazo (izquierdo),,The body
+23,chest,1592,CHEST,pecho,,The body
+24,belly,1251,BELLY,barriga,,The body
+25,leg,1297,LEG,piernas,,The body
+26,penis,1222,PENIS,pene,,The body
+27,vagina,1836,VAGINA,vagina,,The body
+28,buttock,834,BUTTOCKS,nalga,,The body
+29,hair,2648,HAIR (HEAD),pelo,,The body
+30,finger,1303,FINGER,dedos de mano,,The body
+31,toe,1389,TOE,dedos de pie,,The body
+32,back,1291,BACK,espalda,,The body
+33,knee,1371,KNEE,rodilla,,The body
+34,eyebrow,1173,EYEBROW,cejas,,The body
+35,breast,1402,BREAST,senos,,The body
+36,heart,1223,HEART,corazón,,The body
+37,liver,1224,LIVER,hígado,,The body
+38,intestines,1991,INTESTINES,intestinos,,The body
+39,tongue,1205,TONGUE,lengua,,The body
+40,urine,1142,URINE,orine/orina,,The body
+41,excrement,675,FAECES (EXCREMENT),heces/excremento,,The body
+42,blood,946,BLOOD,sangre,,The body
+43,nail,1896,FINGERNAIL OR TOENAIL,uñas,,The body
+44,belly button,1838,NAVEL,ombligo,,The body
+45,saliva,1503,SALIVA,saliva,,The body
+46,ankle,803,ANKLE,tobillo,,The body
+47,earring,770,EARRING,arete,,Clothing and grooming
+48,feather crown,,,corona de plumas,,Clothing and grooming
+49,men's traditional robe,,,cushma,,Clothing and grooming
+50,necklace,1961,NECKLACE,collar,,Clothing and grooming
+51,armored catfish,,,carachama,Hypostomus sp.,Animals
+52,electric eel,2443,ELECTRIC EEL,anguila,Electrophorus electricus,Animals
+53,stingray,1910,STINGRAY,raya,Potamotrygoncastexi,Animals
+54,pirarucu,,,paiche,Arapaima gigas,Animals
+55,prochilodontid fish,,,boquichico,Prochilodus sp.,Animals
+56,silver mylossoma,,,palometa,Mylossoma duriventre,Animals
+57,piranha,317,PIRANHA,piraña,Serrasalmus nigricans,Animals
+58,catfish (Pseudoplatystoma fasciatum),,,doncella,Pseudoplatystoma fasciatum,Animals
+59,catfish (Callichthys Callichthys),,,bagre,Callichthys Callichthys,Animals
+60,catfish (Zungaro zungaro),,,zúngaro,Zungaro zungaro,Animals
+61,cichlids fish,,,bujurqui,Bujurquina cordemadi,Animals
+62,wild banana,,,bijao,Calathea lutea,Animals
+63,wild garlic,,,ajosacha,Mansoa alliacea (Lam.) A Gentry,Agriculture and vegetation
+64,cush-cush yam,,,sachapapa,Dioscorea sp,Agriculture and vegetation
+65,sacha inchi,,,sachainchi,Plukenetia volubilis,Agriculture and vegetation
+66,peanut,595,GROUNDNUT (PEANUT),maní,Arachis hypogaea L,Agriculture and vegetation
+67,manioc,925,CASSAVA,yuca,Manihot esculenta,Agriculture and vegetation
+68,piripiri,,,piripiri,Cyperus sp.,Agriculture and vegetation
+69,cacao tree,,,cacao,Theobroma cacao L.,Agriculture and vegetation
+70,mocambo tree,,,macambo,Theobroma bicolor,Agriculture and vegetation
+71,chestnut,2318,CHESTNUT,castaña,Castanea sativa,Agriculture and vegetation
+72,cashew,2441,CASHEW,cashew/marañón,Anacardium occidentale,Agriculture and vegetation
+73,culantro,,,sachaculantro,Eryngium foetidum,Agriculture and vegetation
+74,tobacco,974,TOBACCO,tabaco,Nicotiana tabacum,Agriculture and vegetation
+75,peach palm,3919,PEACH PALM,pijuayo,Bactris gasipaes,Agriculture and vegetation
+76,aguaje,,,aguaje,Mauritia flexuosa,Agriculture and vegetation
+77,patawa,,,ungurahui,Oenucarpus bataua,Agriculture and vegetation
+78,coconut,970,COCONUT,coco,Cocos nucifera,Agriculture and vegetation
+79,cocona,,,cocona,Solanum sessiliflorum,Agriculture and vegetation
+80,taro,351,TARO,pituca,Colocasia esculenta schott,Agriculture and vegetation
+81,strangler fig,,,renaco,Picus schultesi,Agriculture and vegetation
+82,camu-camu,,,camu camu,Myrciaria dubia,Agriculture and vegetation
+83,giant ceiba tree,,,lupuna,Ceiba pentandra,Agriculture and vegetation
+84,cedar,3929,BRAZILIAN CEDAR,cedro,Cedrus sp,Agriculture and vegetation
+85,mahogany,,,caoba,Cedrelinga catenaeformis Ducke,Agriculture and vegetation
+86,annatto,,,achiote,Bixa orellana L.,Agriculture and vegetation
+87,huito,,,huito,Genipa americana,Agriculture and vegetation
+88,Lepidocaryum tenue,,,irapay,Lepidocaryum tenue,Agriculture and vegetation
+89,soapapple,,,zapote,Pouteria sapota,Agriculture and vegetation
+90,ajospiro,,,ajospiro,,Agriculture and vegetation
+91,hot pepper,919,CHILI PEPPER,ají,,Agriculture and vegetation
+92,wayruru,,,huairuro,Ormosia coccinea,Agriculture and vegetation
+93,manioc drink,,,masato,,Food and drink
+94,plantain drink,,,chapo,,Food and drink
+95,fish-based food,,,patarashca,,Food and drink
+96,arrow,977,ARROW,flecha,,Warfare and hunting
+97,bow,994,BOW,arco,,Warfare and hunting
+98,harpoon,,,arpón,,Warfare and hunting
+99,fish trap,389,FISH TRAP,trampera,,Warfare and hunting
+100,spear,945,SPEAR,lanza,,Warfare and hunting
+101,temporary shelter,,,tambo,,Warfare and hunting
+102,blowgun,432,BLOWGUN,cerbatana/pucuna,,Warfare and hunting
+103,shotgun,3948,SHOTGUN,escopeta,,Warfare and hunting
+104,fishing hook,1074,FISHHOOK,anzuelo,,Warfare and hunting
+105,fish poison vine,,,barbasco,Deguelia lonchocarpus,Warfare and hunting
+106,fish poison shrub,,,huaca,Clibadium sp,Warfare and hunting
+107,chaman,,,chamán,,Religion and belief
+108,healer,394,SHAMAN (FOLK HEALER),curandero,,Religion and belief
+109,song,1096,SONG,canto,,Religion and belief
+110,design,,,diseño,,Religion and belief
+111,perforation,,,perforació,,Religion and belief
+111_1,perforation (oreja),,,perforació (oreja),,Religion and belief
+111_2,perforation (naɾiz),,,perforació (naɾiz),,Religion and belief
+111_3,perforation (boca),,,perforació (boca),,Religion and belief
+111_4,perforation (ceja),,,perforació (ceja),,Religion and belief
+112,ayahuasca,276,BANISTERIUM,ayahuasca,Banisteriopsis caapi,Religion and belief
+113,angel's tears,,,toé,Brugmansia suaveolens,Religion and belief
+114,kambo,,,kambo/ácate,,Religion and belief
+115,berry bugs,,,isango,Trombiculidae,Animals
+116,South American palm weevil larva,,,suri,Rhynchophorus palmarum,Animals
+117,louse,1392,LOUSE,piojo,Phthiraptera sp,Animals
+118,wasp,1517,WASP,avispa,Apocrita sp,Animals
+119,bullet ant,,,isula,Paraponera clavata,Animals
+120,dragonfly,2352,DRAGONFLY,libélula/chinchilejo,Anisoptera sp,Animals
+121,butterfly,1791,BUTTERFLY,mariposa,Lepidoptera sp,Animals
+122,mosquito,1509,MOSQUITO,mosquito (zancudo),Culicidae sp.,Animals
+123,leafcutter ant,,,curuhinsi,Atta sexdens,Animals
+124,spider,843,SPIDER,araña,Aranae sp.,Animals
+125,father,1217,FATHER,padre,,Kinship
+126,mother,1216,MOTHER,madre,,Kinship
+127,brother of man,559,BROTHER (OF MAN),hermano de hombre (son del mismo género),,Kinship
+128,man's sister,,,hermana de hombre,,Kinship
+129,woman's brother,,,hermano de mujer,,Kinship
+130,woman's sister,,,hermana de mujer (son del mismo género),,Kinship
+131_1,son,1620,SON,hijo,,Kinship
+131,son of man,3779,SON (OF MALE EGO),hijo de hombre,,Kinship
+132,son of woman,,,hijo de mujer,,Kinship
+133,daughter of man,,,hija de hombre,,Kinship
+134,daughter of woman,3930,DAUGHTER (OF WOMAN),hija de mujer,,Kinship
+135,river,666,RIVER,río,,The physical world
+136,lagoon,623,LAGOON,laguna,,The physical world
+137,sun,1343,SUN,sol,,The physical world
+138,moon,1313,MOON,luna,,The physical world
+139,rain,658,RAIN (PRECIPITATION),lluvia,,The physical world
+140,cloud,1489,CLOUD,nube,,The physical world
+141,mountain,639,MOUNTAIN,montaña (cerro),,The physical world
+142,lightning,1654,LIGHTNING,relámpago,,The physical world
+143,thunder,1150,THUNDER,trueno,,The physical world
+144,rock,668,ROCK,roca,,The physical world
+145,leaf,628,LEAF,hoja,,The physical world
+146,fire,221,FIRE,fuego,,The physical world
+147,water,948,WATER,agua,,The physical world
+148,star,1430,STAR,estrella,,The physical world
+149,"soil, earth",1228,EARTH (SOIL),tierra,,The physical world
+150,tapir,312,TAPIR,sachavaca,Tapirus sp,Animals
+151,agouti,313,AGOUTI,añuje,Dasyprocta punctata,Animals
+152,lowland paca,,,majas,Cuniculus paca,Animals
+153,white-lipped peccary,436,WHITE-LIPPED PECCARY,huangana,Tayassu pecari,Animals
+154,capybara,314,CAPYBARA,ronsoco,Hydrochoerus hydrochaeris,Animals
+155,jaguar,1250,JAGUAR,jaguar,Panthera onca,Animals
+156,spider monkey,434,SPIDER MONKEY,maquisapa,Ateles belzebuth,Animals
+157,red howler (aullador),,,aullador,Alouatta seniculus,Animals
+158,red howler (cotomono),,,cotomono,Alouatta seniculus,Animals
+159,South American coati,,,achuni (coatí),Nasua nasua,Animals
+160,Nancy Ma's night monkey,,,musmuqui,Aotus nancymaae,Animals
+161,squirrel monkey (frailecillo),,,frailecillo,Saimiri sciureus,Animals
+162,squirrel monkey (martín),,,martín,Saimiri sciureus,Animals
+163,Amazon river dolphin,,,bufeo,Inia geoffrensis,Animals
+164,sloth,2446,SLOTH,pelejo,Bradypus/Choloepus sp,Animals
+165,armadillo,1885,ARMADILLO,armadillo/carachupa,Dasypodidae sp,Animals
+166,anteater,181,ANTEATER,oso hormiguero,Vermilingua sp.,Animals
+167,tamandua anteater,,,tamandúa,Vermilingua sp.,Animals
+168,woolly monkey,,,monochoro,Oreonax flavicauda,Animals
+169,white-faced capuchin,,,capuchino,Cebus capucinus,Animals
+170,fabric,1641,SILK,telas,,Clothing and grooming
+172,pitcher,120,PITCHER,cántaro,,Basic actions and technology
+173,dye,157,DYE,tinte,,Basic actions and technology
+173_1,black dye,,,tinte negro,,Basic actions and technology
+173_2,red dye,,,tinte rojo,,Basic actions and technology
+174,tattoo,68,TATTOO,tatuaje (hacer diseño),,Clothing and grooming
+175,house,1252,HOUSE,casa,,The house
+176,quena,,,quena/yupana,,Speech and language
+177,drum,908,DRUM,tambor,,Speech and language
+178,manguaré,,,manguaré,,Speech and language
+179,one,1493,ONE,uno,,Quantity
+180,two,1498,TWO,dos,,Quantity
+181,three,492,THREE,tres,,Quantity
+182,four,1500,FOUR,cuatro,,Quantity
+183,five,493,FIVE,cinco,,Quantity
+184,few,1242,FEW,pocos,,Quantity
+185,several,1241,SOME,varios,,Quantity
+186,country fellow,,,paisano,,Social and political relations
+187,foreign,109,FOREIGN,extranjero,,Social and political relations
+187_2,foreign (mestizo),,,extranjero (mestizo),,Social and political relations
+188,language,1307,LANGUAGE,lengua (idioma),,Speech and language
+189,man,1554,MAN,hombre,,Kinship
+190,woman,962,WOMAN,mujer,,Kinship
+191,I,1209,I,1sg,,Kinship
+192,you 2sg,1213,YOU,2sg,,Kinship
+193,he/she,2642,HE OR SHE,3sg,,Kinship
+193_1,he,1211,HE,3sg masc,,Kinship
+193_2,she,1834,SHE,3sg fem,,Kinship
+194,"we (all, INcl.)",1131,WE (INCLUSIVE),1incl,,Kinship
+195,"we (all, EXcl.)",1130,WE (EXCLUSIVE),1excl,,Kinship
+196,you 2pl,1215,THOU,2pl,,Kinship
+197,they,817,THEY,3pl,,Kinship
+197_1,they (masc.),,,3pl masc,,Kinship
+197_2,they (fem.),,,3pl fem,,Kinship
+198,some,1241,SOME,algunos,,Quantity
+199,several,1241,SOME,varios,,Quantity
+200,many,1198,MANY,muchos,,Quantity
+201,none,,,ninguno,,Quantity
+202,few,1242,FEW,pocos,,Quantity
+203,all,98,ALL,todos,,Quantity
+204,half,816,HALF,media (mitad),,Quantity
+205,bunch,1966,BUNCH,trozo/puñado (pedazo),,Quantity
+206,pair,1888,PAIR,par,,Quantity
+207,both,,,ambos,,Quantity
+208,Southern American bushmaster,,,shushupe,Lachesis muta,Animals
+209,Lizard,632,LIZARD,lagarto,Lacertilia,Animals
+210,yellow-footed tortoise,,,motelo,Chelonoidis denticulata,Animals
+211,yellow-spotted Amazon river turtle,,,taricaya,Podocnemis unifilis,Animals
+212,Amazon river turtle,,,charapa,Podocnemis sp.,Animals
+213,Anacondas,,,anaconda,Eunectes sp.,Animals
+214,common lancehead,,,jergón,Bothrops atrox,Animals
+215,frog,503,FROG,rana (que se come),Rana sp.,Animals
+216,iguana,1578,IGUANA,iguana,Iguana sp.,Animals
+217,basilisco(?),,,basilisco(?),,Animals
+218,here,136,HERE,acá/aquí,,Spatial relations
+219,there,1937,THERE,allá/allí,,Spatial relations
+219_2,further more,,,allá (más),,Spatial relations
+220,before,1882,BEFORE,antes,,Time
+221,after,1685,AFTER,después,,Time
+222,now,1376,NOW,ahora,,Time
+223,machete,2680,MACHETE,machete,,Basic actions and technology
+224,hammock,2019,HAMMOCK,hamaca,,The house
+225,pipe,1124,PIPE,pipa,,Basic actions and technology
+226,canoe,1970,CANOE,canoa,,Motion
+227,rowing,,,remo,,Basic actions and technology
+228,basket,1539,BASKET,canasta,,Basic actions and technology
+229,rope,1218,ROPE,cuerda/soga,,Basic actions and technology
+230,plate,480,PLATE,plato,,Basic actions and technology
+231,table,1775,TABLE,mesa,,The house
+232,bed,1663,BED,cama,,The house
+233,strainer,,,cernidor,,Basic actions and technology
+234,fan,1971,FAN (OBJECT),abanico,,Basic actions and technology
+235,walk,1443,WALK,caminar,,Motion
+236,cook,1100,COOK (SOMETHING),cocinar,,Food and drink
+237,fish,227,FISH,pescar,,Warfare and hunting
+238,dance,1879,DANCE,bailar,,Motion
+239,sing,1261,SING,cantar,,Speech and language
+240,tell (stories),1711,TELL,contar (cuentos),,Speech and language
+241,eat,1336,EAT,comer,,Food and drink
+242,drink,731,BEVERAGE,beber,,Food and drink
+243,urinate,592,PISS,orinar,,The body
+244,defecate,676,SHIT (DEFECATE),defecar,,The body
+245,boil,2493,BOIL,hervir,,Food and drink
+246,breathe,1407,BREATHE,respirar,,The body
+247,work,984,WORK (LABOUR),trabajar,,Basic actions and technology
