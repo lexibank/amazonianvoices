@@ -5,19 +5,33 @@ import re
 import shutil
 import unicodedata
 
-import csvw
+import csv
+from csvw.metadata import URITemplate
 import pylexibank
 
 from clldutils.path import Path
 from clldutils.misc import slug
 
 
+@attr.s
+class CustomConcept(pylexibank.Concept):
+    Spanish_Gloss = attr.ib(default=None)
+    Scientific_Name = attr.ib(default=None)
+    Concepticon_SemanticField = attr.ib(default=None)
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "amazonvoices"
 
+    concept_class = CustomConcept
+
     form_spec = pylexibank.FormSpec(
         missing_data=['-'],
+        replacements=[
+            (':', 'ː'),
+        ],
+        normalize_unicode='NFC',
     )
 
     def cmd_download(self, args):
@@ -158,4 +172,73 @@ class Dataset(pylexibank.Dataset):
                             w.writerows(sorted(data, key=(lambda i: int(i[0].split('_')[0]))))
 
     def cmd_makecldf(self, args):
-        pass
+
+        with args.writer as ds:
+
+            for c in self.concepts:
+                ds.add_concept(**c)
+
+            valid_lang_ids = set()
+            for lg in self.languages:
+                valid_lang_ids.add(lg['ID'])
+                ds.add_language(**lg)
+
+            ds.cldf.add_component(
+                'MediaTable',
+                'objid',
+                {'name': 'size', 'datatype': 'integer'},
+                {
+                    'name': 'Form_ID',
+                    'required': True,
+                    'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference',
+                    'datatype': 'string'
+                },
+                {
+                    'name': 'mimetype',
+                    'required': True,
+                    'datatype': {'base': 'string', 'format': '[^/]+/.+'}
+                },
+            )
+            ds.cldf.remove_columns('MediaTable', 'Download_URL')
+            ds.cldf.remove_columns('MediaTable', 'Description')
+            ds.cldf.remove_columns('MediaTable', 'Path_In_Zip')
+            ds.cldf.remove_columns('MediaTable', 'Media_Type')
+            ds.cldf['MediaTable', 'ID'].valueUrl = URITemplate('https://cdstar.eva.mpg.de/bitstreams/{objid}/{Name}')
+            ds.cldf['MediaTable', 'mimetype'].propertyUrl = URITemplate('http://cldf.clld.org/v1.0/terms.rdf#mediaType')
+
+            sound_cat = self.raw_dir.read_json('catalog.json')
+            sound_map = dict()
+            # for k, v in sound_cat.items():
+            #     sound_map[v['metadata']['name']] = k
+
+            for lang_dir in pylexibank.progressbar(
+                    sorted((self.raw_dir / 'csv').iterdir(), key=lambda f: f.name),
+                    desc="adding new data"):
+
+                if not lang_dir.is_dir():
+                    continue
+
+                lang_id = lang_dir.name
+
+                if lang_id not in valid_lang_ids:
+                    continue
+
+                with open(lang_dir / 'data.csv') as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        new = ds.add_form(
+                            Language_ID=lang_id,
+                            Local_ID='',
+                            Parameter_ID=row['param_id'],
+                            Value=row['form'],
+                            Form=self.form_spec.clean(row['form']),
+                        )
+                        if row['audio']:
+                            ds.objects['MediaTable'].append({
+                                'ID': new['ID'],
+                                'Name': new['ID'],
+                                'objid': new['ID'],
+                                'mimetype': 'audio/wav',
+                                'size': 1,
+                                'Form_ID': new['ID'],
+                            })
