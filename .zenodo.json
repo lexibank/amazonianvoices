@@ -1,0 +1,29 @@
+{
+    "title": "Amazonian Voices",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Roberto Zariquiey"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Russell Gray"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
