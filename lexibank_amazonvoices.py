@@ -6,6 +6,7 @@ import shutil
 import unicodedata
 
 import csv
+import csvw
 from csvw.metadata import URITemplate
 import pylexibank
 
@@ -27,7 +28,7 @@ class Dataset(pylexibank.Dataset):
     concept_class = CustomConcept
 
     form_spec = pylexibank.FormSpec(
-        missing_data=['-'],
+        missing_data=['-', '- -'],
         replacements=[
             (':', 'ː'),
         ],
@@ -108,6 +109,8 @@ class Dataset(pylexibank.Dataset):
                                         assert header
                                         d = dict(zip(header, row))
                                         word = d['segment'].strip()
+                                        if word == '' or word in ['-', '- -']:
+                                            continue
                                         cid = get_concept_id(d)
                                         if cid is None:
                                             if word and last_cid is not None:
@@ -116,8 +119,6 @@ class Dataset(pylexibank.Dataset):
                                                 continue
                                         last_cid = cid
                                         if cid not in valid_param_ids:
-                                            continue
-                                        if word == '' or word == '-':
                                             continue
                                         aid = norm(get_audio_id(d))
                                         audio_path = None
@@ -156,11 +157,11 @@ class Dataset(pylexibank.Dataset):
                                                 else:
                                                     wav_o = wav
                                                 n = 1
-                                                fp = ap / f'{cid}__{n}.wav'
+                                                fp = ap / f'{lg_id}_{cid}__{n}.wav'
                                                 while fp.exists():
                                                     n += 1
-                                                    fp = ap / f'{cid}__{n}.wav'
-                                                audio_name = f'{cid}__{n}.wav'
+                                                    fp = ap / f'{lg_id}_{cid}__{n}.wav'
+                                                audio_name = f'{lg_id}_{cid}__{n}.wav'
                                                 wav_o.export(str(fp), format='wav', codec='copy')
                                         data.append([cid, word, audio_name])
                                 break
