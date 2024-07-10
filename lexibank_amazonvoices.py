@@ -208,8 +208,8 @@ class Dataset(pylexibank.Dataset):
 
             sound_cat = self.raw_dir.read_json('catalog.json')
             sound_map = dict()
-            # for k, v in sound_cat.items():
-            #     sound_map[v['metadata']['name']] = k
+            for k, v in sound_cat.items():
+                sound_map[v['metadata']['name']] = k
 
             for lang_dir in pylexibank.progressbar(
                     sorted((self.raw_dir / 'csv').iterdir(), key=lambda f: f.name),
@@ -234,11 +234,16 @@ class Dataset(pylexibank.Dataset):
                             Form=self.form_spec.clean(row['form']),
                         )
                         if row['audio']:
-                            ds.objects['MediaTable'].append({
-                                'ID': new['ID'],
-                                'Name': new['ID'],
-                                'objid': new['ID'],
-                                'mimetype': 'audio/wav',
-                                'size': 1,
-                                'Form_ID': new['ID'],
-                            })
+                            if row['audio'] in sound_map:
+                                for bs in sorted(sound_cat[sound_map[media_id]]['bitstreams'],
+                                                 key=lambda x: x['content-type']):
+                                    ds.objects['MediaTable'].append({
+                                        'ID': bs['checksum'],
+                                        'Name': bs['bitstreamid'],
+                                        'objid': sound_map[media_id],
+                                        'mimetype': bs['content-type'],
+                                        'size': bs['filesize'],
+                                        'Form_ID': new['ID'],
+                                    })
+                            else:
+                                args.log.warning(f'audio file {row["audio"]} not found in catalog')
