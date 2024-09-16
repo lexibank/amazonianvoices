@@ -5,100 +5,90 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 2453 | ✓ | ✓ |
-| i | 1834 | ✓ | ✓ |
-| t | 1047 | ✓ | ✓ |
-| n | 984 | ✓ | ✓ |
-| ɨ | 950 | ✓ | ✓ |
-| k | 873 | ✓ | ✓ |
-| u | 767 | ✓ | ✓ |
-| p | 656 | ✓ | ✓ |
-| ɾ | 639 | ✓ | ✓ |
-| o | 604 | ✓ | ✓ |
-| m | 498 | ✓ | ✓ |
-| s | 490 | ✓ | ✓ |
-| tʃ | 394 | ✓ | ✓ |
-| w | 355 | ✓ | ✓ |
-| j | 332 | ✓ | ✓ |
-| e | 324 | ✓ | ✓ |
-| ʃ | 304 | ✓ | ✓ |
-| ʂ | 250 | ✓ | ✓ |
-| ʔ | 237 | ✓ | ✓ |
-| d | 232 | ✓ | ✓ |
-| ʊ | 220 | ✓ | ✓ |
-| b | 204 | ✓ | ✓ |
-| + | 191 | ✓ | ✓ |
-| h | 174 | ✓ | ✓ |
-| ɸ | 159 | ✓ | ✓ |
-| β | 126 | ✓ | ✓ |
-| ã | 122 | ✓ | ✓ |
-| ɪ | 119 | ✓ | ✓ |
-| g | 86 | ✓ | ✓ |
-| ŋ | 81 | ✓ | ✓ |
-| ɸʷ | 70 | ✓ | ✓ |
-| ĩ | 68 | ✓ | ✓ |
-| aː | 61 | ✓ | ✓ |
-| ɲ | 49 | ✓ | ✓ |
-| l | 46 | ✓ | ✓ |
+| a | 2262 | ✓ | ✓ |
+| i | 1660 | ✓ | ✓ |
+| n | 921 | ✓ | ✓ |
+| ɨ | 864 | ✓ | ✓ |
+| k | 791 | ✓ | ✓ |
+| t | 760 | ✓ | ✓ |
+| u | 689 | ✓ | ✓ |
+| ɾ | 599 | ✓ | ✓ |
+| p | 588 | ✓ | ✓ |
+| o | 564 | ✓ | ✓ |
+| m | 479 | ✓ | ✓ |
+| tʃ | 366 | ✓ | ✓ |
+| e | 327 | ✓ | ✓ |
+| w | 326 | ✓ | ✓ |
+| j | 303 | ✓ | ✓ |
+| ʃ | 277 | ✓ | ✓ |
+| s | 236 | ✓ | ✓ |
+| ʔ | 231 | ✓ | ✓ |
+| ʊ | 223 | ✓ | ✓ |
+| ʂ | 211 | ✓ | ✓ |
+| ts | 208 | ✓ | ✓ |
+| d | 176 | ✓ | ✓ |
+| b | 174 | ✓ | ✓ |
+| h | 173 | ✓ | ✓ |
+| + | 143 | ✓ | ✓ |
+| ɪ | 122 | ✓ | ✓ |
+| β | 120 | ✓ | ✓ |
+| ɸ | 105 | ✓ | ✓ |
+| ã | 99 | ✓ | ✓ |
+| g | 84 | ✓ | ✓ |
+| ŋ | 80 | ✓ | ✓ |
+| ɸʷ | 73 | ✓ | ✓ |
+| ĩ | 58 | ✓ | ✓ |
+| aː | 50 | ✓ | ✓ |
+| ɲ | 45 | ✓ | ✓ |
+| l | 43 | ✓ | ✓ |
 | ç | 41 | ✓ | ✓ |
 | ɣ | 41 | ✓ | ✓ |
-| iː | 39 | ✓ | ✓ |
-| ũ | 31 | ✓ | ✓ |
-| ɻ | 31 | ✓ | ✓ |
-| ʐ | 31 | ✓ | ✓ |
-| ɨ̃ | 28 | ✓ | ✓ |
+| iː | 32 | ✓ | ✓ |
+| ɻ | 30 | ✓ | ✓ |
+| ʐ | 30 | ✓ | ✓ |
 | ɫ | 25 | ✓ | ✓ |
+| kʰ | 22 | ✓ | ✓ |
 | i̥ | 21 | ✓ | ✓ |
-| kʰ | 20 | ✓ | ✓ |
-| õ | 19 | ✓ | ✓ |
-| z | 18 | ✓ | ✓ |
-| w̃ | 17 | ✓ | ✓ |
-| uː | 16 | ✓ | ✓ |
+| ũ | 21 | ✓ | ✓ |
+| z | 17 | ✓ | ✓ |
+| ɨ̃ | 17 | ✓ | ✓ |
+| dʒ | 16 | ✓ | ✓ |
+| w̃ | 16 | ✓ | ✓ |
+| oː | 15 | ✓ | ✓ |
 | r | 15 | ✓ | ✓ |
-| ɨː | 15 | ✓ | ✓ |
-| oː | 14 | ✓ | ✓ |
-| ʒ | 13 | ✓ | ✓ |
-| í | 12 | ✓ | ✓ |
+| ɨː | 14 | ✓ | ✓ |
+| õ | 13 | ✓ | ✓ |
 | ɘ | 12 | ✓ | ✓ |
 | ʊ̃ | 12 | ✓ | ✓ |
 | βʷ | 12 | ✓ | ✓ |
 | j̃ | 11 | ✓ | ✓ |
-| ú | 9 | ✓ | ✓ |
+| uː | 11 | ✓ | ✓ |
 | ɯ | 9 | ✓ | ✓ |
 | ə | 8 | ✓ | ✓ |
-| ɨ̃ː | 8 | ✓ | ✓ |
 | ɨ̥ | 8 | ✓ | ✓ |
-| á | 7 | ✓ | ✓ |
+| ɨ̃ː | 7 | ✓ | ✓ |
 | ʊː | 6 | ✓ | ✓ |
 | ʝ | 6 | ✓ | ✓ |
 | ᵊ | 6 | ? | ? |
-| kʷ | 5 | ✓ | ✓ |
 | c | 4 | ✓ | ✓ |
 | i̯ | 4 | ✓ | ✓ |
-| ts | 4 | ✓ | ✓ |
+| kʷ | 4 | ✓ | ✓ |
 | tʃʲ | 4 | ✓ | ✓ |
-| ãː | 4 | ✓ | ✓ |
 | ĩː | 4 | ✓ | ✓ |
 | eː | 3 | ✓ | ✓ |
+| k̚ | 3 | ✓ | ✓ |
 | pʷ | 3 | ✓ | ✓ |
 | p̚ | 3 | ✓ | ✓ |
-| â | 3 | ✓ | ✓ |
-| ó | 3 | ✓ | ✓ |
-| úː | 3 | ✓ | ✓ |
-| ī | 3 | ✓ | ✓ |
-| ū | 3 | ✓ | ✓ |
+| ãː | 3 | ✓ | ✓ |
 | ᵐb | 3 | ✓ | ✓ |
-| ⁿd | 3 | ✓ | ✓ |
 | a̰ | 2 | ✓ | ✓ |
 | bʷ | 2 | ✓ | ✓ |
 | hʷ | 2 | ✓ | ✓ |
-| k̚ | 2 | ✓ | ✓ |
 | mʷ | 2 | ✓ | ✓ |
 | o̯ | 2 | ✓ | ✓ |
 | s̺ | 2 | ✓ | ✓ |
 | u̯ | 2 | ✓ | ✓ |
 | x | 2 | ✓ | ✓ |
-| y | 2 | ✓ | ✓ |
 | æ | 2 | ✓ | ✓ |
 | ũː | 2 | ✓ | ✓ |
 | ɖ̚ | 2 | ✓ | ✓ |
@@ -108,18 +98,18 @@
 | ʂʷ | 2 | ✓ | ✓ |
 | ʎ | 2 | ✓ | ✓ |
 | ẽ | 2 | ✓ | ✓ |
+| ⁿd | 2 | ✓ | ✓ |
 | aʰ | 1 | ? | ? |
 | e̯ | 1 | ✓ | ✓ |
 | h̃ | 1 | ✓ | ✓ |
 | nː | 1 | ✓ | ✓ |
 | pʰ | 1 | ✓ | ✓ |
 | tʲ | 1 | ✓ | ✓ |
-| áː | 1 | ✓ | ✓ |
-| ì | 1 | ✓ | ✓ |
+| y | 1 | ✓ | ✓ |
+| í | 1 | ✓ | ✓ |
 | ñ | 1 | ✓ | ✓ |
-| ā | 1 | ✓ | ✓ |
 | ɒ | 1 | ✓ | ✓ |
-| ɖ | 1 | ✓ | ✓ |
+| ɖʐ | 1 | ✓ | ✓ |
 | ə̥ | 1 | ✓ | ✓ |
 | ɟ | 1 | ✓ | ✓ |
 | ɣʲ | 1 | ✓ | ✓ |
@@ -136,7 +126,7 @@
 | ḁ | 1 | ✓ | ✓ |
 | ḭ | 1 | ✓ | ✓ |
 
-(130 rows)
+(120 rows)
 
 
 
@@ -152,29 +142,17 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------|:--------------|----------:|:---------------------------------------------|:---------------------------------------------------------|
-| marinawa-82-1 | marinawa | 82 | -- | + + |
-| matsigenka-162-1 | matsigenka | 162 | ʃito ¿? | ʃ i t o + |
-| sharanahua-208-1 | sharanahua | 208 | kambuʃɨˀɨ | k a m b u ʃ ɨ <s> ˀ </s> ɨ |
-| shawandawa-106-1 | shawandawa | 106 | puikámá / pɨsmi | p u i k á m á + + p ɨ s m i |
-| shawandawa-107-1 | shawandawa | 107 | juɸɨ̃n / ʃuɸɨ̃n | j u ɸ ɨ̃ n + + ʃ u ɸ ɨ̃ n |
-| shawandawa-123-1 | shawandawa | 123 | kuɾu'insi ¿? | k u ɾ u i n s i + |
-| shawandawa-131-1 | shawandawa | 131 | ɸɨɾɨna ¿? | ɸ ɨ ɾ ɨ n a + |
-| shawandawa-132-1 | shawandawa | 132 | ɸakɨ ¿? | ɸ a k ɨ + |
-| shawandawa-133-1 | shawandawa | 133 | ɸakɨ ¿? | ɸ a k ɨ + |
-| shawandawa-134-1 | shawandawa | 134 | ainɸo ¿? | a i n ɸ o + |
-| shawandawa-195-1 | shawandawa | 195 | i ¿? | i + |
-| shawandawa-205-1 | shawandawa | 205 | kaʂkɨʂta / tʃutʃuʃtá | k a ʂ k ɨ ʂ t a + + tʃ u tʃ u ʃ t á |
-| shawandawa-232-1 | shawandawa | 232 | ¿buski.'tĩ.o / bus.ki.'tĩ.o / bus.kiː.'tĩ.o? | b u s k i t ĩ o + + b u s k i t ĩ o + + b u s k iː t ĩ o |
-| shipibokonibo-64-1 | shipibokonibo | 64 | pwaʰ | p w <s> aʰ </s> |
-| yinepiro-117-1 | yinepiro | 117 | ʃepᵊtʃi | ʃ e p <s> ᵊ </s> tʃ i |
-| yinepiro-211-1 | yinepiro | 211 | sɨpᶤɾɨ | s ɨ p <s> ᶤ </s> ɾ ɨ |
-| yinepiro-221-1 | yinepiro | 221 | wanepᵊɾɨtɘ | w a n e p <s> ᵊ </s> ɾ ɨ t ɘ |
-| yinepiro-240-1 | yinepiro | 240 | hiŋkakᵊɫɨ | h i ŋ k a k <s> ᵊ </s> ɫ ɨ |
-| yinepiro-42-1 | yinepiro | 42 | hᵊɾantʃi | h <s> ᵊ </s> ɾ a n tʃ i |
-| yinepiro-60-1 | yinepiro | 60 | tsᵊɾoʃima | t s <s> ᵊ </s> ɾ o ʃ i m a |
-| yinepiro-64-1 | yinepiro | 64 | makᵊna | m a k <s> ᵊ </s> n a |
+|:----------------------------------------------|:--------------|:-----------------------------------|:-----------|:-----------------------------|
+| sharanahua-208_southernamericanbushmaster-1 | sharanahua | 208_southernamericanbushmaster | kambuʃɨˀɨ | k a m b u ʃ ɨ <s> ˀ </s> ɨ |
+| shipibokonibo-64_cushcushyam-1 | shipibokonibo | 64_cushcushyam | pwaʰ | p w <s> aʰ </s> |
+| yinepiro-117_louse-1 | yinepiro | 117_louse | ʃepᵊtʃi | ʃ e p <s> ᵊ </s> tʃ i |
+| yinepiro-211_yellowspottedamazonriverturtle-1 | yinepiro | 211_yellowspottedamazonriverturtle | sɨpᶤɾɨ | s ɨ p <s> ᶤ </s> ɾ ɨ |
+| yinepiro-221_after-1 | yinepiro | 221_after | wanepᵊɾɨtɘ | w a n e p <s> ᵊ </s> ɾ ɨ t ɘ |
+| yinepiro-240_tellstories-1 | yinepiro | 240_tellstories | hiŋkakᵊɫɨ | h i ŋ k a k <s> ᵊ </s> ɫ ɨ |
+| yinepiro-42_blood-1 | yinepiro | 42_blood | hᵊɾantʃi | h <s> ᵊ </s> ɾ a n tʃ i |
+| yinepiro-60_catfishzungarozungaro-1 | yinepiro | 60_catfishzungarozungaro | tsᵊɾoʃima | ts <s> ᵊ </s> ɾ o ʃ i m a |
+| yinepiro-64_cushcushyam-1 | yinepiro | 64_cushcushyam | makᵊna | m a k <s> ᵊ </s> n a |
 
-(21 rows)
+(9 rows)
 
 
