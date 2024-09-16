@@ -1,9 +1,12 @@
 import attr
+import datetime
 import openpyxl
 import pydub
 import re
 import shutil
 import unicodedata
+
+from collections import defaultdict
 
 import csv
 import csvw
@@ -16,6 +19,7 @@ from clldutils.misc import slug
 
 @attr.s
 class CustomConcept(pylexibank.Concept):
+    Local_ID = attr.ib(default=None)
     Spanish_Gloss = attr.ib(default=None)
     Scientific_Name = attr.ib(default=None)
     Concepticon_SemanticField = attr.ib(default=None)
@@ -23,12 +27,12 @@ class CustomConcept(pylexibank.Concept):
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
-    id = "amazonvoices"
+    id = "amazonianvoices"
 
     concept_class = CustomConcept
 
     form_spec = pylexibank.FormSpec(
-        missing_data=['-', '- -'],
+        missing_data=['-', '--', '- -'],
         replacements=[
             (':', 'ː'),
         ],
@@ -56,10 +60,18 @@ class Dataset(pylexibank.Dataset):
                 return aid
             return None
 
-        def get_concept_id(d):
+        def get_concept_id(d, id_replacements):
             cid = d['concept-id'].replace('cbr_sr', 'cbrsr').strip()
             if cid == '':
                 return None
+            if cid in id_replacements:
+                for np in id_replacements[cid]:
+                    if len(np[1]) == 0:
+                        cid = np[0]
+                    else:
+                        if d['spanish'] == np[1]:
+                            cid = np[0]
+                            break
             ids = cid.split('_')[1:]
             return '_'.join(map(lambda x: str(int(x)), ids))
 
@@ -82,7 +94,12 @@ class Dataset(pylexibank.Dataset):
             return None
 
         valid_lg_ids = [lg['ID'] for lg in self.languages]
-        valid_param_ids = [c['ID'] for c in self.concepts]
+        valid_param_ids = [c['Local_ID'] for c in self.concepts]
+        new_params_id_map = {c['Local_ID']: c['ID'] for c in self.concepts}
+
+        id_replacements = defaultdict(list)
+        for row in self.etc_dir.read_csv('id_replacements.tsv', delimiter='\t'):
+            id_replacements[row[1]].append((row[2], row[3]))
 
         data_header = ['param_id', 'form', 'audio']
 
@@ -93,7 +110,12 @@ class Dataset(pylexibank.Dataset):
                 if lg_id not in valid_lg_ids:
                     continue
                 data = []
-                shutil.rmtree(self.raw_dir / 'csv' / lg_id / 'audio', ignore_errors=True)
+                cdir = self.raw_dir / 'csv' / lg_id
+                cdir.mkdir(exist_ok=True)
+                try:
+                    shutil.rmtree(self.raw_dir / 'csv' / lg_id / 'audio', ignore_errors=True)
+                except Exception:
+                    pass
                 for xlsx in sorted(f.glob('**/*.xlsx')):
                     if 'concept' in xlsx.stem.lower() and '/~' not in str(xlsx):
                         wb = openpyxl.load_workbook(xlsx, data_only=True)
@@ -108,10 +130,10 @@ class Dataset(pylexibank.Dataset):
                                     else:
                                         assert header
                                         d = dict(zip(header, row))
-                                        word = d['segment'].strip()
-                                        if word == '' or word in ['-', '- -']:
+                                        word = d['segment'].replace('  ', ' ').strip()
+                                        if word == '' or word in ['-', '--', '- -']:
                                             continue
-                                        cid = get_concept_id(d)
+                                        cid = get_concept_id(d, id_replacements)
                                         if cid is None:
                                             if word and last_cid is not None:
                                                 cid = last_cid
@@ -140,7 +162,7 @@ class Dataset(pylexibank.Dataset):
                                                 fp = audio_dir / f'{n}.wav'
                                                 if fp.exists() and fp.is_file():
                                                     audio_path = fp
-                                                    # args.log.info(f'found heuristically {f.stem} {cid} {aid}')
+                                                    args.log.info(f'found heuristically {f.stem} {cid} {aid}')
                                             if audio_path is None:
                                                 audio_path = ''
                                                 args.log.info(f'audio missing for {f.stem} {cid} {word} "{get_audio_id(d)}"')
@@ -157,31 +179,37 @@ class Dataset(pylexibank.Dataset):
                                                 else:
                                                     wav_o = wav
                                                 n = 1
-                                                fp = ap / f'{lg_id}_{cid}__{n}.wav'
+                                                cid_ = new_params_id_map[cid]
+
+                                                fp = ap / f'{lg_id}_{cid_}__{n}.wav'
                                                 while fp.exists():
                                                     n += 1
-                                                    fp = ap / f'{lg_id}_{cid}__{n}.wav'
-                                                audio_name = f'{lg_id}_{cid}__{n}.wav'
-                                                wav_o.export(str(fp), format='wav', codec='copy')
-                                        data.append([cid, word, audio_name])
+                                                    fp = ap / f'{lg_id}_{cid_}__{n}.wav'
+
+                                                audio_name = f'{lg_id}_{cid_}__{n}'
+                                                wav_o = wav_o.fade_in(duration=50).fade_out(duration=50)
+                                                wav_o = pydub.effects.normalize(wav_o, 4.)
+                                                md = {
+                                                    'artist': lg_id,
+                                                    'title': '{}: {}'.format(audio_name, word),
+                                                    'album': 'amazonianvoices',
+                                                    'date': datetime.date.today().isoformat(),
+                                                    'genre': 'Speech'}
+                                                wav_o.export(str(ap / audio_name) + '.wav', tags=md, format='wav', codec='copy')
+                                                wav_o.export(str(ap / audio_name) + '.mp3', tags=md, format='mp3', bitrate='128k')
+                                                wav_o.export(str(ap / audio_name) + '.ogg', tags=md, format='ogg', bitrate='128k')
+                                        data.append([new_params_id_map[cid], word, audio_name])
                                 break
 
-                        cdir = self.raw_dir / 'csv' / lg_id
-                        cdir.mkdir(exist_ok=True)
                         with csvw.UnicodeWriter(cdir / 'data.csv') as w:
                             w.writerow(data_header)
-                            w.writerows(sorted(data, key=(lambda i: int(i[0].split('_')[0]))))
+                            w.writerows(sorted(data, key=(lambda i: float(i[0].split('_')[0].replace('x', '.')))))
 
     def cmd_makecldf(self, args):
 
         with args.writer as ds:
 
-            for c in self.concepts:
-                ds.add_concept(**c)
-
-            valid_lang_ids = set()
             for lg in self.languages:
-                valid_lang_ids.add(lg['ID'])
                 ds.add_language(**lg)
 
             ds.cldf.add_component(
@@ -212,6 +240,8 @@ class Dataset(pylexibank.Dataset):
             for k, v in sound_cat.items():
                 sound_map[v['metadata']['name']] = k
 
+            seen_param_ids = set()
+
             for lang_dir in pylexibank.progressbar(
                     sorted((self.raw_dir / 'csv').iterdir(), key=lambda f: f.name),
                     desc="adding new data"):
@@ -220,9 +250,6 @@ class Dataset(pylexibank.Dataset):
                     continue
 
                 lang_id = lang_dir.name
-
-                if lang_id not in valid_lang_ids:
-                    continue
 
                 with open(lang_dir / 'data.csv') as f:
                     reader = csv.DictReader(f)
@@ -234,8 +261,10 @@ class Dataset(pylexibank.Dataset):
                             Value=row['form'],
                             Form=self.form_spec.clean(row['form']),
                         )
+                        seen_param_ids.add(row['param_id'])
                         if row['audio']:
-                            if row['audio'] in sound_map:
+                            media_id = row['audio']
+                            if media_id in sound_map:
                                 for bs in sorted(sound_cat[sound_map[media_id]]['bitstreams'],
                                                  key=lambda x: x['content-type']):
                                     ds.objects['MediaTable'].append({
@@ -248,3 +277,14 @@ class Dataset(pylexibank.Dataset):
                                     })
                             else:
                                 args.log.warning(f'audio file {row["audio"]} not found in catalog')
+
+            for c in self.concepts:
+                if c['ID'] in seen_param_ids:
+                    ds.add_concept(**c)
+
+            ds.objects['LanguageTable'].sort(key=lambda r: r['ID'])
+            ds.objects['ParameterTable'].sort(key=lambda r: float(r['ID'].split('_')[0].replace('x', '.')))
+            ds.objects['FormTable'].sort(key=lambda r: (
+                r['Language_ID'],
+                float(r['Parameter_ID'].split('_')[0].replace('x', '.')),
+                int(r['ID'].split('-')[2])))
