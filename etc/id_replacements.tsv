@@ -1,7 +1,9 @@
 ashaninka	cni_030	cni_030	dedos de mano
 ashaninka	cni_030	cni_031	dedos de pie
 ashaninka	cni_030	cni_030_1	dedos
+ashaninka	cni_199	cni_185	
 chananiwa	chan_030	chan_031	dedos de pie
+chananiwa	chan_199	chan_185	
 kakataibosinchiroca	cbrsr_125_1	cbrsr_125	
 kakataibosinchiroca	cbrsr_125_2	cbrsr_125	
 kakataibosinchiroca	cbrsr_130_1	cbrsr_130	
@@ -10,6 +12,7 @@ kakataibosinchiroca	cbrsr_176_1	cbrsr_176
 kakataibosinchiroca	cbrsr_176_2	cbrsr_176	
 kakataibosinchiroca	cbrsr_187_1	cbrsr_187	
 kakataibosinchiroca	cbrsr_187_2	cbrsr_187	
+kakataibosinchiroca	cbrsr_199	cbrsr_1990000	
 kakataibosinchiroca	cbrsr_230_1	cbrsr_230	
 kakataibosinchiroca	cbrsr_230_2	cbrsr_230	
 kakataibosinchiroca	cbrsr_244_1	cbrsr_244	
@@ -24,22 +27,30 @@ marinawa	maw_131_1	maw_131
 marinawa	maw_131_2	maw_131_1	
 marinawa	maw_187_1	maw_187	
 marinawa	maw_187_2	maw_187	
+marinawa	maw_199	maw_1990000	
 mastanawa	mcd_030	mcd_031	dedos de pie
+mastanawa	mcd_199	mcd_185	
 matsigenka	mcb_030	mcb_030_1	
 matsigenka	mcb_060_1	mcb_060	
 matsigenka	mcb_060_2	mcb_060	
 matsigenka	mcb_063_1	mcb_063	
 matsigenka	mcb_063_2	mcb_063	
+matsigenka	mcb_185	mcb_1850000	
+matsigenka	mcb_199	mcb_185	
 sharanahua	srw_030	srw_031	dedos de pie
 sharanahua	srw_131_1	srw_131	
 sharanahua	srw_131_2	srw_131_1	
+sharanahua	srw_199	srw_185	
+shawi	cbt_199	cbt_185	
 shawi	cbt_205_1	cbt_205	
 shawi	cbt_205_2	cbt_205	
 shipibokonibo	shp_131_2	shp_131	
+shipibokonibo	shp_199	shp_185	
 wampis	hub_004_2	hub_004_9	
 wampis	hub_004_3	hub_004_2	
 wampis	hub_141_1	hub_141	
 wampis	hub_195_1	hub_195	
+wampis	hub_199	hub_185	
 wampis	hub_195_2	hub_195	
 wampis	hub_202_1	hub_202	
 wampis	hub_219_1	hub_219	
@@ -59,6 +70,7 @@ yinepiro	pib_129_1	pib_129
 yinepiro	pib_129_2	pib_129	
 yinepiro	pib_130_1	pib_130	
 yinepiro	pib_130_2	pib_130	
+yinepiro	pib_199	pib_185	
 yinepiro	pib_193	pib_193_1	3sg (masculino)
 yinepiro	pib_193	pib_193_2	3sg (femenino)
 yinepiro	pib_220_1	pib_220	

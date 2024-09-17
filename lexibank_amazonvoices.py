@@ -119,6 +119,7 @@ class Dataset(pylexibank.Dataset):
                 for xlsx in sorted(f.glob('**/*.xlsx')):
                     if 'concept' in xlsx.stem.lower() and '/~' not in str(xlsx):
                         wb = openpyxl.load_workbook(xlsx, data_only=True)
+                        all_words_for_pid = defaultdict(list)
                         for sname in wb.sheetnames:
                             if sname.lower() == 'concepts':
                                 sheet = wb[sname]
@@ -142,6 +143,9 @@ class Dataset(pylexibank.Dataset):
                                         last_cid = cid
                                         if cid not in valid_param_ids:
                                             continue
+                                        if word in all_words_for_pid[new_params_id_map[cid]]:
+                                            continue
+                                        all_words_for_pid[new_params_id_map[cid]].append(word)
                                         aid = norm(get_audio_id(d))
                                         audio_path = None
                                         audio_name = ''
@@ -180,7 +184,6 @@ class Dataset(pylexibank.Dataset):
                                                     wav_o = wav
                                                 n = 1
                                                 cid_ = new_params_id_map[cid]
-
                                                 fp = ap / f'{lg_id}_{cid_}__{n}.wav'
                                                 while fp.exists():
                                                     n += 1
