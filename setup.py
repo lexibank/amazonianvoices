@@ -21,7 +21,7 @@ setup(
     install_requires=[
         'pylexibank>=3.5.0',
         'cldfbench>=1.14.0',
-        'cldfcatalog>=1.5.1'
+        'cldfcatalog>=1.5.1',
         'zenodoclient>=0.5.0',
         'csvw>=3.1.3',
     ],
