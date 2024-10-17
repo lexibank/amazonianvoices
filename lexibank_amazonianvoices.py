@@ -280,6 +280,8 @@ class Dataset(pylexibank.Dataset):
                                     })
                             else:
                                 args.log.warning(f'audio file {row["audio"]} not found in catalog')
+                        else:
+                            args.log.info(f'audio missing for {lang_id} {row["param_id"]}')
 
             for c in self.concepts:
                 if c['ID'] in seen_param_ids:
