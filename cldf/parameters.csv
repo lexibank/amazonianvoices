@@ -114,6 +114,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Local_ID,Spanish_Gloss,Scientific_Name,
 109_song,song,1096,SONG,109,canto,,Religion and belief
 110_design,design,,,110,diseño,,Religion and belief
 111_perforation,perforation,,,111,perforació,,Religion and belief
+111x1_perforationoreja,perforation (oreja),,,111_1,perforació (oreja),,Religion and belief
+111x2_perforationnaiz,perforation (naɾiz),,,111_2,perforació (naɾiz),,Religion and belief
+111x3_perforationboca,perforation (boca),,,111_3,perforació (boca),,Religion and belief
+111x4_perforationceja,perforation (ceja),,,111_4,perforació (ceja),,Religion and belief
 112_ayahuasca,ayahuasca,276,BANISTERIUM,112,ayahuasca,Banisteriopsis caapi,Religion and belief
 113_angelstears,angel's tears,,,113,toé,Brugmansia suaveolens,Religion and belief
 114_kambo,kambo,,,114,kambo/ácate,,Religion and belief
@@ -191,6 +195,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Local_ID,Spanish_Gloss,Scientific_Name,
 185_several,several,1241,SOME,185,varios,,Quantity
 186_countryfellow,country fellow,,,186,paisano,,Social and political relations
 187_foreign,foreign,109,FOREIGN,187,extranjero,,Social and political relations
+187x2_foreignmestizo,foreign (mestizo),,,187_2,extranjero (mestizo),,Social and political relations
 188_language,language,1307,LANGUAGE,188,lengua (idioma),,Speech and language
 189_man,man,1554,MAN,189,hombre,,Kinship
 190_woman,woman,962,WOMAN,190,mujer,,Kinship

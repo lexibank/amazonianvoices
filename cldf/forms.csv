@@ -1629,6 +1629,254 @@ sharanahua-244_defecate-1,,sharanahua,244_defecate,pʊwi,pʊwi,p ʊ w i,,,,,^ p 
 sharanahua-245_boil-1,,sharanahua,245_boil,kuɸi,kuɸi,k u ɸ i,,,,,^ k u ɸ i $,default
 sharanahua-246_breathe-1,,sharanahua,246_breathe,ʂakɨjki,ʂakɨjki,ʂ a k ɨ j k i,,,,,^ ʂ a k ɨ j k i $,default
 sharanahua-247_work-1,,sharanahua,247_work,ɟunduj,ɟunduj,ɟ u n d u j,,,,,^ ɟ u n d u j $,default
+shawandawa-1_agriculturalfield-1,,shawandawa,1_agriculturalfield,baɨ,baɨ,b a ɨ,,,,,^ b a ɨ $,default
+shawandawa-2_abandonedagriculturalfield-1,,shawandawa,2_abandonedagriculturalfield,diʃpũ,diʃpũ,d i ʃ p ũ,,,,,^ d i ʃ p ũ $,default
+shawandawa-3_russetbackedoropendola-1,,shawandawa,3_russetbackedoropendola,isku,isku,i s k u,,,,,^ i s k u $,default
+shawandawa-4x1_redscarletmacaw-1,,shawandawa,4x1_redscarletmacaw,ʃãwã,ʃãwã,ʃ ã w ã,,,,,^ ʃ ã w ã $,default
+shawandawa-4x2_blueyellowscarletmacaw-1,,shawandawa,4x2_blueyellowscarletmacaw,kada,kada,k a d a,,,,,^ k a d a $,default
+shawandawa-5_whitethroatedtoucan-1,,shawandawa,5_whitethroatedtoucan,tʃainʃkwa,tʃainʃkwa,tʃ a i n ʃ k w a,,,,,^ tʃ a i n ʃ k w a $,default
+shawandawa-6_spixsguan-1,,shawandawa,6_spixsguan,kɨhʊ,kɨhʊ,k ɨ h ʊ,,,,,^ k ɨ h ʊ $,default
+shawandawa-7_yellowcrownedparrot-1,,shawandawa,7_yellowcrownedparrot,tʊbɪ,tʊbɪ,t ʊ b ɪ,,,,,^ t ʊ b ɪ $,default
+shawandawa-8_bluewingedparrotlet-1,,shawandawa,8_bluewingedparrotlet,pitsʊ,pitsʊ,p i ts ʊ,,,,,^ p i ts ʊ $,default
+shawandawa-9_ringedkingfisher-1,,shawandawa,9_ringedkingfisher,tʃapiʃi,tʃapiʃi,tʃ a p i ʃ i,,,,,^ tʃ a p i ʃ i $,default
+shawandawa-10_greatkiskadee-1,,shawandawa,10_greatkiskadee,pispiɾi,pispiɾi,p i s p i ɾ i,,,,,^ p i s p i ɾ i $,default
+shawandawa-11_head-1,,shawandawa,11_head,bapo,bapo,b a p o,,,,,^ b a p o $,default
+shawandawa-12_tooth-1,,shawandawa,12_tooth,piti:,pitiː,p i t iː,,,,,^ p i t iː $,default
+shawandawa-13_hand-1,,shawandawa,13_hand,bɨkɨ̃,bɨkɨ̃,b ɨ k ɨ̃,,,,,^ b ɨ k ɨ̃ $,default
+shawandawa-14_face-1,,shawandawa,14_face,ɸɨmana,ɸɨmana,ɸ ɨ m a n a,,,,,^ ɸ ɨ m a n a $,default
+shawandawa-15_eye-1,,shawandawa,15_eye,ɸɨɾʊ,ɸɨɾʊ,ɸ ɨ ɾ ʊ,,,,,^ ɸ ɨ ɾ ʊ $,default
+shawandawa-16_nose-1,,shawandawa,16_nose,ʂakajnti,ʂakajnti,ʂ a k a j n t i,,,,,^ ʂ a k a j n t i $,default
+shawandawa-17_mouth-1,,shawandawa,17_mouth,aʂɸa,aʂɸa,a ʂ ɸ a,,,,,^ a ʂ ɸ a $,default
+shawandawa-18_foot-1,,shawandawa,18_foot,taɨ,taɨ,t a ɨ,,,,,^ t a ɨ $,default
+shawandawa-19_neck-1,,shawandawa,19_neck,tɨstõ,tɨstõ,t ɨ s t õ,,,,,^ t ɨ s t õ $,default
+shawandawa-20_ear-1,,shawandawa,20_ear,dikatɪ,dikatɪ,d i k a t ɪ,,,,,^ d i k a t ɪ $,default
+shawandawa-21_shoulder-1,,shawandawa,21_shoulder,puti,puti,p u t i,,,,,^ p u t i $,default
+shawandawa-22_arm-1,,shawandawa,22_arm,pũɲã,pũɲã,p ũ ɲ ã,,,,,^ p ũ ɲ ã $,default
+shawandawa-23_chest-1,,shawandawa,23_chest,ʂutʃi,ʂutʃi,ʂ u tʃ i,,,,,^ ʂ u tʃ i $,default
+shawandawa-24_belly-1,,shawandawa,24_belly,pustõn,pustõn,p u s t õ n,,,,,^ p u s t õ n $,default
+shawandawa-25_leg-1,,shawandawa,25_leg,kipusto,kipusto,k i p u s t o,,,,,^ k i p u s t o $,default
+shawandawa-25_leg-2,,shawandawa,25_leg,ɸitaʃɨ,ɸitaʃɨ,ɸ i t a ʃ ɨ,,,,,^ ɸ i t a ʃ ɨ $,default
+shawandawa-26_penis-1,,shawandawa,26_penis,ɸuʂki,ɸuʂki,ɸ u ʂ k i,,,,,^ ɸ u ʂ k i $,default
+shawandawa-27_vagina-1,,shawandawa,27_vagina,tʃiʃpi,tʃiʃpi,tʃ i ʃ p i,,,,,^ tʃ i ʃ p i $,default
+shawandawa-28_buttock-1,,shawandawa,28_buttock,tʃipã,tʃipã,tʃ i p ã,,,,,^ tʃ i p ã $,default
+shawandawa-29_hair-1,,shawandawa,29_hair,ɸuː,ɸuː,ɸ uː,,,,,^ ɸ uː $,default
+shawandawa-30_finger-1,,shawandawa,30_finger,natiβi,natiβi,n a t i β i,,,,,^ n a t i β i $,default
+shawandawa-31_toe-1,,shawandawa,31_toe,natiβi,natiβi,n a t i β i,,,,,^ n a t i β i $,default
+shawandawa-32_back-1,,shawandawa,32_back,pɨtʃi,pɨtʃi,p ɨ tʃ i,,,,,^ p ɨ tʃ i $,default
+shawandawa-33_knee-1,,shawandawa,33_knee,ɾatoko,ɾatoko,ɾ a t o k o,,,,,^ ɾ a t o k o $,default
+shawandawa-34_eyebrow-1,,shawandawa,34_eyebrow,ɸɨʃpi,ɸɨʃpi,ɸ ɨ ʃ p i,,,,,^ ɸ ɨ ʃ p i $,default
+shawandawa-35_breast-1,,shawandawa,35_breast,ʂumba,ʂumba,ʂ u m b a,,,,,^ ʂ u m b a $,default
+shawandawa-36_heart-1,,shawandawa,36_heart,ũĩntɪ,ũĩntɪ,ũ ĩ n t ɪ,,,,,^ ũ ĩ n t ɪ $,default
+shawandawa-37_liver-1,,shawandawa,37_liver,taka,taka,t a k a,,,,,^ t a k a $,default
+shawandawa-38_intestines-1,,shawandawa,38_intestines,puku,puku,p u k u,,,,,^ p u k u $,default
+shawandawa-39_tongue-1,,shawandawa,39_tongue,ada,ada,a d a,,,,,^ a d a $,default
+shawandawa-40_urine-1,,shawandawa,40_urine,isõn,isõn,i s õ n,,,,,^ i s õ n $,default
+shawandawa-41_excrement-1,,shawandawa,41_excrement,puwi,puwi,p u w i,,,,,^ p u w i $,default
+shawandawa-42_blood-1,,shawandawa,42_blood,ibi,ibi,i b i,,,,,^ i b i $,default
+shawandawa-43_nail-1,,shawandawa,43_nail,bɨtsisi,bɨtsisi,b ɨ ts i s i,,,,,^ b ɨ ts i s i $,default
+shawandawa-44_bellybutton-1,,shawandawa,44_bellybutton,tukuɾɨʂpi,tukuɾɨʂpi,t u k u ɾ ɨ ʂ p i,,,,,^ t u k u ɾ ɨ ʂ p i $,default
+shawandawa-45_saliva-1,,shawandawa,45_saliva,kɨbʊ,kɨbʊ,k ɨ b ʊ,,,,,^ k ɨ b ʊ $,default
+shawandawa-46_ankle-1,,shawandawa,46_ankle,tʃitʃokʊ,tʃitʃokʊ,tʃ i tʃ o k ʊ,,,,,^ tʃ i tʃ o k ʊ $,default
+shawandawa-47_earring-1,,shawandawa,47_earring,paɾotabɨti,paɾotabɨti,p a ɾ o t a b ɨ t i,,,,,^ p a ɾ o t a b ɨ t i $,default
+shawandawa-48_feathercrown-1,,shawandawa,48_feathercrown,bajti,bajti,b a j t i,,,,,^ b a j t i $,default
+shawandawa-49_menstraditionalrobe-1,,shawandawa,49_menstraditionalrobe,ʃuɾiti,ʃuɾiti,ʃ u ɾ i t i,,,,,^ ʃ u ɾ i t i $,default
+shawandawa-50_necklace-1,,shawandawa,50_necklace,ɾauti,ɾauti,ɾ a u t i,,,,,^ ɾ a u t i $,default
+shawandawa-51_armoredcatfish-1,,shawandawa,51_armoredcatfish,kɨʃinwã,kɨʃinwã,k ɨ ʃ i n w ã,,,,,^ k ɨ ʃ i n w ã $,default
+shawandawa-52_electriceel-1,,shawandawa,52_electriceel,kudi,kudi,k u d i,,,,,^ k u d i $,default
+shawandawa-53_stingray-1,,shawandawa,53_stingray,pajʊ,pajʊ,p a j ʊ,,,,,^ p a j ʊ $,default
+shawandawa-54_pirarucu-1,,shawandawa,54_pirarucu,ɸɨ̃ɾɨ̃wã,ɸɨ̃ɾɨ̃wã,ɸ ɨ̃ ɾ ɨ̃ w ã,,,,,^ ɸ ɨ̃ ɾ ɨ̃ w ã $,default
+shawandawa-55_prochilodontidfish-1,,shawandawa,55_prochilodontidfish,kapiɾiba,kapiɾiba,k a p i ɾ i b a,,,,,^ k a p i ɾ i b a $,default
+shawandawa-56_silvermylossoma-1,,shawandawa,56_silvermylossoma,palometa,palometa,p a l o m e t a,,,,,^ p a l o m e t a $,default
+shawandawa-57_piranha-1,,shawandawa,57_piranha,bakɨ,bakɨ,b a k ɨ,,,,,^ b a k ɨ $,default
+shawandawa-58_catfishpseudoplatystomafasciatum-1,,shawandawa,58_catfishpseudoplatystomafasciatum,ʃimakɨdɨja,ʃimakɨdɨja,ʃ i m a k ɨ d ɨ j a,,,,,^ ʃ i m a k ɨ d ɨ j a $,default
+shawandawa-59_catfishcallichthyscallichthys-1,,shawandawa,59_catfishcallichthyscallichthys,tʊ̃nõ,tʊ̃nõ,t ʊ̃ n õ,,,,,^ t ʊ̃ n õ $,default
+shawandawa-60_catfishzungarozungaro-1,,shawandawa,60_catfishzungarozungaro,pãɲõ,pãɲõ,p ã ɲ õ,,,,,^ p ã ɲ õ $,default
+shawandawa-61_cichlidsfish-1,,shawandawa,61_cichlidsfish,ɾɨtɨko,ɾɨtɨko,ɾ ɨ t ɨ k o,,,,,^ ɾ ɨ t ɨ k o $,default
+shawandawa-62_wildbanana-1,,shawandawa,62_wildbanana,bandi pɨj,bandi pɨj,b a n d i + p ɨ j,,,,,^ b a n d i + p ɨ j $,default
+shawandawa-63_wildgarlic-1,,shawandawa,63_wildgarlic,ɸuwajtsa,ɸuwajtsa,ɸ u w a j ts a,,,,,^ ɸ u w a j ts a $,default
+shawandawa-64_cushcushyam-1,,shawandawa,64_cushcushyam,ɸisʊpa,ɸisʊpa,ɸ i s ʊ p a,,,,,^ ɸ i s ʊ p a $,default
+shawandawa-65_sachainchi-1,,shawandawa,65_sachainchi,sijʊ,sijʊ,s i j ʊ,,,,,^ s i j ʊ $,default
+shawandawa-66_peanut-1,,shawandawa,66_peanut,taba,taba,t a b a,,,,,^ t a b a $,default
+shawandawa-67_manioc-1,,shawandawa,67_manioc,atsa,atsa,a ts a,,,,,^ a ts a $,default
+shawandawa-68_piripiri-1,,shawandawa,68_piripiri,sɨoti,sɨoti,s ɨ o t i,,,,,^ s ɨ o t i $,default
+shawandawa-69_cacaotree-1,,shawandawa,69_cacaotree,ɾɨʂɨɸi,ɾɨʂɨɸi,ɾ ɨ ʂ ɨ ɸ i,,,,,^ ɾ ɨ ʂ ɨ ɸ i $,default
+shawandawa-70_mocambotree-1,,shawandawa,70_mocambotree,kuɾiuɸi,kuɾiuɸi,k u ɾ i u ɸ i,,,,,^ k u ɾ i u ɸ i $,default
+shawandawa-71_chestnut-1,,shawandawa,71_chestnut,kastaɲa,kastaɲa,k a s t a ɲ a,,,,,^ k a s t a ɲ a $,default
+shawandawa-72_cashew-1,,shawandawa,72_cashew,kaʃu,kaʃu,k a ʃ u,,,,,^ k a ʃ u $,default
+shawandawa-73_culantro-1,,shawandawa,73_culantro,kulandɾo ɨwapa,kulandɾo ɨwapa,k u l a n d ɾ o + ɨ w a p a,,,,,^ k u l a n d ɾ o + ɨ w a p a $,default
+shawandawa-74_tobacco-1,,shawandawa,74_tobacco,taɸakʊ,taɸakʊ,t a ɸ a k ʊ,,,,,^ t a ɸ a k ʊ $,default
+shawandawa-75_peachpalm-1,,shawandawa,75_peachpalm,ʃinimã,ʃinimã,ʃ i n i m ã,,,,,^ ʃ i n i m ã $,default
+shawandawa-76_aguaje-1,,shawandawa,76_aguaje,aɣwaxe,aɣwaxe,a ɣ w a x e,,,,,^ a ɣ w a x e $,default
+shawandawa-77_patawa-1,,shawandawa,77_patawa,isa mãwã,isa mãwã,i s a + m ã w ã,,,,,^ i s a + m ã w ã $,default
+shawandawa-78_coconut-1,,shawandawa,78_coconut,koko,koko,k o k o,,,,,^ k o k o $,default
+shawandawa-79_cocona-1,,shawandawa,79_cocona,pupʊ,pupʊ,p u p ʊ,,,,,^ p u p ʊ $,default
+shawandawa-80_taro-1,,shawandawa,80_taro,βɨtʊ,βɨtʊ,β ɨ t ʊ,,,,,^ β ɨ t ʊ $,default
+shawandawa-81_stranglerfig-1,,shawandawa,81_stranglerfig,ʂudã,ʂudã,ʂ u d ã,,,,,^ ʂ u d ã $,default
+shawandawa-83_giantceibatree-1,,shawandawa,83_giantceibatree,ʂũnũã,ʂũnũã,ʂ ũ n ũ ã,,,,,^ ʂ ũ n ũ ã $,default
+shawandawa-84_cedar-1,,shawandawa,84_cedar,kuʂã,kuʂã,k u ʂ ã,,,,,^ k u ʂ ã $,default
+shawandawa-85_mahogany-1,,shawandawa,85_mahogany,iʃtanati,iʃtanati,i ʃ t a n a t i,,,,,^ i ʃ t a n a t i $,default
+shawandawa-86_annatto-1,,shawandawa,86_annatto,tʃaʂkan,tʃaʂkan,tʃ a ʂ k a n,,,,,^ tʃ a ʂ k a n $,default
+shawandawa-87_huito-1,,shawandawa,87_huito,dadɨ,dadɨ,d a d ɨ,,,,,^ d a d ɨ $,default
+shawandawa-88_lepidocaryumtenue-1,,shawandawa,88_lepidocaryumtenue,ʂɨpã,ʂɨpã,ʂ ɨ p ã,,,,,^ ʂ ɨ p ã $,default
+shawandawa-89_soapapple-1,,shawandawa,89_soapapple,itʃiɸi,itʃiɸi,i tʃ i ɸ i,,,,,^ i tʃ i ɸ i $,default
+shawandawa-91_hotpepper-1,,shawandawa,91_hotpepper,ju:tʃi,juːtʃi,j uː tʃ i,,,,,^ j uː tʃ i $,default
+shawandawa-92_wayruru-1,,shawandawa,92_wayruru,ʂɨpɨsɸɨɾɨɸi,ʂɨpɨsɸɨɾɨɸi,ʂ ɨ p ɨ s ɸ ɨ ɾ ɨ ɸ i,,,,,^ ʂ ɨ p ɨ s ɸ ɨ ɾ ɨ ɸ i $,default
+shawandawa-93_maniocdrink-1,,shawandawa,93_maniocdrink,pɨti,pɨti,p ɨ t i,,,,,^ p ɨ t i $,default
+shawandawa-94_plantaindrink-1,,shawandawa,94_plantaindrink,butsã,butsã,b u ts ã,,,,,^ b u ts ã $,default
+shawandawa-95_fishbasedfood-1,,shawandawa,95_fishbasedfood,kaːwa,kaːwa,k aː w a,,,,,^ k aː w a $,default
+shawandawa-96_arrow-1,,shawandawa,96_arrow,pija,pija,p i j a,,,,,^ p i j a $,default
+shawandawa-97_bow-1,,shawandawa,97_bow,kati,kati,k a t i,,,,,^ k a t i $,default
+shawandawa-98_harpoon-1,,shawandawa,98_harpoon,aʃi,aʃi,a ʃ i,,,,,^ a ʃ i $,default
+shawandawa-99_fishtrap-1,,shawandawa,99_fishtrap,ɾisi,ɾisi,ɾ i s i,,,,,^ ɾ i s i $,default
+shawandawa-100_spear-1,,shawandawa,100_spear,ɾansa,ɾansa,ɾ a n s a,,,,,^ ɾ a n s a $,default
+shawandawa-101_temporaryshelter-1,,shawandawa,101_temporaryshelter,tãpãsɨ̃,tãpãsɨ̃,t ã p ã s ɨ̃,,,,,^ t ã p ã s ɨ̃ $,default
+shawandawa-102_blowgun-1,,shawandawa,102_blowgun,pũwati,pũwati,p ũ w a t i,,,,,^ p ũ w a t i $,default
+shawandawa-103_shotgun-1,,shawandawa,103_shotgun,tɨkɨti,tɨkɨti,t ɨ k ɨ t i,,,,,^ t ɨ k ɨ t i $,default
+shawandawa-104_fishinghook-1,,shawandawa,104_fishinghook,biʃkinbatɪ,biʃkinbatɪ,b i ʃ k i n b a t ɪ,,,,,^ b i ʃ k i n b a t ɪ $,default
+shawandawa-105_fishpoisonvine-1,,shawandawa,105_fishpoisonvine,tsika,tsika,ts i k a,,,,,^ ts i k a $,default
+shawandawa-106_fishpoisonshrub-1,,shawandawa,106_fishpoisonshrub,pɨsmi,pɨsmi,p ɨ s m i,,,,,^ p ɨ s m i $,default
+shawandawa-106_fishpoisonshrub-2,,shawandawa,106_fishpoisonshrub,puikama,puikama,p u i k a m a,,,,,^ p u i k a m a $,default
+shawandawa-107_chaman-1,,shawandawa,107_chaman,juɸɨ̃n,juɸɨ̃n,j u ɸ ɨ̃ n,,,,,^ j u ɸ ɨ̃ n $,default
+shawandawa-108_healer-1,,shawandawa,108_healer,kajawambisi,kajawambisi,k a j a w a m b i s i,,,,,^ k a j a w a m b i s i $,default
+shawandawa-110_design-1,,shawandawa,110_design,dukujuːsi,dukujuːsi,d u k u j uː s i,,,,,^ d u k u j uː s i $,default
+shawandawa-111x1_perforationoreja-1,,shawandawa,111x1_perforationoreja,papɨsika,papɨsika,p a p ɨ s i k a,,,,,^ p a p ɨ s i k a $,default
+shawandawa-111x2_perforationnaiz-1,,shawandawa,111x2_perforationnaiz,ɾɨpɨsika,ɾɨpɨsika,ɾ ɨ p ɨ s i k a,,,,,^ ɾ ɨ p ɨ s i k a $,default
+shawandawa-111x3_perforationboca-1,,shawandawa,111x3_perforationboca,kɨpɨsika,kɨpɨsika,k ɨ p ɨ s i k a,,,,,^ k ɨ p ɨ s i k a $,default
+shawandawa-111x4_perforationceja-1,,shawandawa,111x4_perforationceja,ɸɨpɨsika,ɸɨpɨsika,ɸ ɨ p ɨ s i k a,,,,,^ ɸ ɨ p ɨ s i k a $,default
+shawandawa-112_ayahuasca-1,,shawandawa,112_ayahuasca,ʂuɾi,ʂuɾi,ʂ u ɾ i,,,,,^ ʂ u ɾ i $,default
+shawandawa-113_angelstears-1,,shawandawa,113_angelstears,baʃaɾubapu,baʃaɾubapu,b a ʃ a ɾ u b a p u,,,,,^ b a ʃ a ɾ u b a p u $,default
+shawandawa-115_berrybugs-1,,shawandawa,115_berrybugs,ipuʂɨ,ipuʂɨ,i p u ʂ ɨ,,,,,^ i p u ʂ ɨ $,default
+shawandawa-116_southamericanpalmweevillarva-1,,shawandawa,116_southamericanpalmweevillarva,tado,tado,t a d o,,,,,^ t a d o $,default
+shawandawa-117_louse-1,,shawandawa,117_louse,ija,ija,i j a,,,,,^ i j a $,default
+shawandawa-118_wasp-1,,shawandawa,118_wasp,ɸida,ɸida,ɸ i d a,,,,,^ ɸ i d a $,default
+shawandawa-119_bulletant-1,,shawandawa,119_bulletant,diːɸu,diːɸu,d iː ɸ u,,,,,^ d iː ɸ u $,default
+shawandawa-120_dragonfly-1,,shawandawa,120_dragonfly,tsɨ̃nwã,tsɨ̃nwã,ts ɨ̃ n w ã,,,,,^ ts ɨ̃ n w ã $,default
+shawandawa-121_butterfly-1,,shawandawa,121_butterfly,awaɸɨda,awaɸɨda,a w a ɸ ɨ d a,,,,,^ a w a ɸ ɨ d a $,default
+shawandawa-122_mosquito-1,,shawandawa,122_mosquito,ʃio,ʃio,ʃ i o,,,,,^ ʃ i o $,default
+shawandawa-123_leafcutterant-1,,shawandawa,123_leafcutterant,kuɾuisi,kuɾuisi,k u ɾ u i s i,,,,,^ k u ɾ u i s i $,default
+shawandawa-124_spider-1,,shawandawa,124_spider,jutã,jutã,j u t ã,,,,,^ j u t ã $,default
+shawandawa-124_spider-2,,shawandawa,124_spider,ʃidãndiɸu,ʃidãndiɸu,ʃ i d ã n d i ɸ u,,,,,^ ʃ i d ã n d i ɸ u $,default
+shawandawa-125_father-1,,shawandawa,125_father,ɨpã,ɨpã,ɨ p ã,,,,,^ ɨ p ã $,default
+shawandawa-126_mother-1,,shawandawa,126_mother,ɨwa,ɨwa,ɨ w a,,,,,^ ɨ w a $,default
+shawandawa-127_brotherofman-1,,shawandawa,127_brotherofman,utʃi,utʃi,u tʃ i,,,,,^ u tʃ i $,default
+shawandawa-128_manssister-1,,shawandawa,128_manssister,tʃiku,tʃiku,tʃ i k u,,,,,^ tʃ i k u $,default
+shawandawa-129_womansbrother-1,,shawandawa,129_womansbrother,ɨʂto,ɨʂto,ɨ ʂ t o,,,,,^ ɨ ʂ t o $,default
+shawandawa-130_womanssister-1,,shawandawa,130_womanssister,tʃipi,tʃipi,tʃ i p i,,,,,^ tʃ i p i $,default
+shawandawa-131_sonofman-1,,shawandawa,131_sonofman,ɸɨɾɨna ɸakɨ,ɸɨɾɨna ɸakɨ,ɸ ɨ ɾ ɨ n a + ɸ a k ɨ,,,,,^ ɸ ɨ ɾ ɨ n a + ɸ a k ɨ $,default
+shawandawa-132_sonofwoman-1,,shawandawa,132_sonofwoman,ɸɨɾɨna ɸakɨ,ɸɨɾɨna ɸakɨ,ɸ ɨ ɾ ɨ n a + ɸ a k ɨ,,,,,^ ɸ ɨ ɾ ɨ n a + ɸ a k ɨ $,default
+shawandawa-133_daughterofman-1,,shawandawa,133_daughterofman,ɸakɨ ainɸo,ɸakɨ ainɸo,ɸ a k ɨ + a i n ɸ o,,,,,^ ɸ a k ɨ + a i n ɸ o $,default
+shawandawa-134_daughterofwoman-1,,shawandawa,134_daughterofwoman,ɸakɨ ainɸo,ɸakɨ ainɸo,ɸ a k ɨ + a i n ɸ o,,,,,^ ɸ a k ɨ + a i n ɸ o $,default
+shawandawa-135_river-1,,shawandawa,135_river,ɨdɨ,ɨdɨ,ɨ d ɨ,,,,,^ ɨ d ɨ $,default
+shawandawa-136_lagoon-1,,shawandawa,136_lagoon,ĩɲã,ĩɲã,ĩ ɲ ã,,,,,^ ĩ ɲ ã $,default
+shawandawa-137_sun-1,,shawandawa,137_sun,ɸaɾi,ɸaɾi,ɸ a ɾ i,,,,,^ ɸ a ɾ i $,default
+shawandawa-138_moon-1,,shawandawa,138_moon,uʂɨ,uʂɨ,u ʂ ɨ,,,,,^ u ʂ ɨ $,default
+shawandawa-139_rain-1,,shawandawa,139_rain,uwi,uwi,u w i,,,,,^ u w i $,default
+shawandawa-140_cloud-1,,shawandawa,140_cloud,daj,daj,d a j,,,,,^ d a j $,default
+shawandawa-141_mountain-1,,shawandawa,141_mountain,diː,diː,d iː,,,,,^ d iː $,default
+shawandawa-142_lightning-1,,shawandawa,142_lightning,ɸaka iki,ɸaka iki,ɸ a k a + i k i,,,,,^ ɸ a k a + i k i $,default
+shawandawa-143_thunder-1,,shawandawa,143_thunder,tɨɾɨ inci,tɨɾɨ inci,t ɨ ɾ ɨ + i n c i,,,,,^ t ɨ ɾ ɨ + i n c i $,default
+shawandawa-144_rock-1,,shawandawa,144_rock,tukiɾi,tukiɾi,t u k i ɾ i,,,,,^ t u k i ɾ i $,default
+shawandawa-145_leaf-1,,shawandawa,145_leaf,pɨj,pɨj,p ɨ j,,,,,^ p ɨ j $,default
+shawandawa-146_fire-1,,shawandawa,146_fire,tʃiː,tʃiː,tʃ iː,,,,,^ tʃ iː $,default
+shawandawa-147_water-1,,shawandawa,147_water,ɨdɨ,ɨdɨ,ɨ d ɨ,,,,,^ ɨ d ɨ $,default
+shawandawa-148_star-1,,shawandawa,148_star,ɸiʃi,ɸiʃi,ɸ i ʃ i,,,,,^ ɸ i ʃ i $,default
+shawandawa-149_soilearth-1,,shawandawa,149_soilearth,bai,bai,b a i,,,,,^ b a i $,default
+shawandawa-150_tapir-1,,shawandawa,150_tapir,a:wa,aːwa,aː w a,,,,,^ aː w a $,default
+shawandawa-151_agouti-1,,shawandawa,151_agouti,baɾi,baɾi,b a ɾ i,,,,,^ b a ɾ i $,default
+shawandawa-152_lowlandpaca-1,,shawandawa,152_lowlandpaca,ãdo,ãdo,ã d o,,,,,^ ã d o $,default
+shawandawa-153_whitelippedpeccary-1,,shawandawa,153_whitelippedpeccary,jawa,jawa,j a w a,,,,,^ j a w a $,default
+shawandawa-154_capybara-1,,shawandawa,154_capybara,amɨ̃,amɨ̃,a m ɨ̃,,,,,^ a m ɨ̃ $,default
+shawandawa-155_jaguar-1,,shawandawa,155_jaguar,indo,indo,i n d o,,,,,^ i n d o $,default
+shawandawa-156_spidermonkey-1,,shawandawa,156_spidermonkey,isʊ,isʊ,i s ʊ,,,,,^ i s ʊ $,default
+shawandawa-158_redhowlercotomono-1,,shawandawa,158_redhowlercotomono,ɾuː,ɾuː,ɾ uː,,,,,^ ɾ uː $,default
+shawandawa-159_southamericancoati-1,,shawandawa,159_southamericancoati,ʃíʃi,ʃíʃi,ʃ í ʃ i,,,,,^ ʃ í ʃ i $,default
+shawandawa-160_nancymasnightmonkey-1,,shawandawa,160_nancymasnightmonkey,ɾiɾʊ,ɾiɾʊ,ɾ i ɾ ʊ,,,,,^ ɾ i ɾ ʊ $,default
+shawandawa-161_squirrelmonkeyfrailecillo-1,,shawandawa,161_squirrelmonkeyfrailecillo,ʂindu ɸisʊ,ʂindu ɸisʊ,ʂ i n d u + ɸ i s ʊ,,,,,^ ʂ i n d u + ɸ i s ʊ $,default
+shawandawa-162_squirrelmonkeymartin-1,,shawandawa,162_squirrelmonkeymartin,ʃidʊ ʊʂʊ,ʃidʊ ʊʂʊ,ʃ i d ʊ + ʊ ʂ ʊ,,,,,^ ʃ i d ʊ + ʊ ʂ ʊ $,default
+shawandawa-163_amazonriverdolphin-1,,shawandawa,163_amazonriverdolphin,ɨdɨ ʃajnti,ɨdɨ ʃajnti,ɨ d ɨ + ʃ a j n t i,,,,,^ ɨ d ɨ + ʃ a j n t i $,default
+shawandawa-164_sloth-1,,shawandawa,164_sloth,nai,nai,n a i,,,,,^ n a i $,default
+shawandawa-165_armadillo-1,,shawandawa,165_armadillo,kaʂta,kaʂta,k a ʂ t a,,,,,^ k a ʂ t a $,default
+shawandawa-166_anteater-1,,shawandawa,166_anteater,ʂaɨ,ʂaɨ,ʂ a ɨ,,,,,^ ʂ a ɨ $,default
+shawandawa-167_tamanduaanteater-1,,shawandawa,167_tamanduaanteater,ɸiβi,ɸiβi,ɸ i β i,,,,,^ ɸ i β i $,default
+shawandawa-168_woollymonkey-1,,shawandawa,168_woollymonkey,isʊkoɾo,isʊkoɾo,i s ʊ k o ɾ o,,,,,^ i s ʊ k o ɾ o $,default
+shawandawa-169_whitefacedcapuchin-1,,shawandawa,169_whitefacedcapuchin,ɾukãwã,ɾukãwã,ɾ u k ã w ã,,,,,^ ɾ u k ã w ã $,default
+shawandawa-170_fabric-1,,shawandawa,170_fabric,paːdʊ,paːdʊ,p aː d ʊ,,,,,^ p aː d ʊ $,default
+shawandawa-172_pitcher-1,,shawandawa,172_pitcher,tɨtsʊ,tɨtsʊ,t ɨ ts ʊ,,,,,^ t ɨ ts ʊ $,default
+shawandawa-173_dye-1,,shawandawa,173_dye,ɸiso ati,ɸiso ati,ɸ i s o + a t i,,,,,^ ɸ i s o + a t i $,default
+shawandawa-174_tattoo-1,,shawandawa,174_tattoo,taʃi,taʃi,t a ʃ i,,,,,^ t a ʃ i $,default
+shawandawa-175_house-1,,shawandawa,175_house,pɨʂɨ,pɨʂɨ,p ɨ ʂ ɨ,,,,,^ p ɨ ʂ ɨ $,default
+shawandawa-176_quena-1,,shawandawa,176_quena,ʂajnti,ʂajnti,ʂ a j n t i,,,,,^ ʂ a j n t i $,default
+shawandawa-177_drum-1,,shawandawa,177_drum,tapuɾa,tapuɾa,t a p u ɾ a,,,,,^ t a p u ɾ a $,default
+shawandawa-179_one-1,,shawandawa,179_one,ɸɨsti,ɸɨsti,ɸ ɨ s t i,,,,,^ ɸ ɨ s t i $,default
+shawandawa-180_two-1,,shawandawa,180_two,ɾaɸɨ,ɾaɸɨ,ɾ a ɸ ɨ,,,,,^ ɾ a ɸ ɨ $,default
+shawandawa-181_three-1,,shawandawa,181_three,ɾaɸɨno ɸɨsti,ɾaɸɨno ɸɨsti,ɾ a ɸ ɨ n o + ɸ ɨ s t i,,,,,^ ɾ a ɸ ɨ n o + ɸ ɨ s t i $,default
+shawandawa-182_four-1,,shawandawa,182_four,ɾaɸɨ no ɾaɸɨɾi,ɾaɸɨ no ɾaɸɨɾi,ɾ a ɸ ɨ + n o + ɾ a ɸ ɨ ɾ i,,,,,^ ɾ a ɸ ɨ + n o + ɾ a ɸ ɨ ɾ i $,default
+shawandawa-183_five-1,,shawandawa,183_five,bɨɸi ɸɨstiti,bɨɸi ɸɨstiti,b ɨ ɸ i + ɸ ɨ s t i t i,,,,,^ b ɨ ɸ i + ɸ ɨ s t i t i $,default
+shawandawa-185_several-1,,shawandawa,185_several,itʃapa,itʃapa,i tʃ a p a,,,,,^ i tʃ a p a $,default
+shawandawa-185_several-2,,shawandawa,185_several,nati ɸiʂʊn,nati ɸiʂʊn,n a t i + ɸ i ʂ ʊ n,,,,,^ n a t i + ɸ i ʂ ʊ n $,default
+shawandawa-186_countryfellow-1,,shawandawa,186_countryfellow,kajɸu,kajɸu,k a j ɸ u,,,,,^ k a j ɸ u $,default
+shawandawa-187_foreign-1,,shawandawa,187_foreign,uʂun dawa,uʂun dawa,u ʂ u n + d a w a,,,,,^ u ʂ u n + d a w a $,default
+shawandawa-187x2_foreignmestizo-1,,shawandawa,187x2_foreignmestizo,dawa,dawa,d a w a,,,,,^ d a w a $,default
+shawandawa-188_language-1,,shawandawa,188_language,tsãĩ,tsãĩ,ts ã ĩ,,,,,^ ts ã ĩ $,default
+shawandawa-189_man-1,,shawandawa,189_man,dukɨɸɨnɨn,dukɨɸɨnɨn,d u k ɨ ɸ ɨ n ɨ n,,,,,^ d u k ɨ ɸ ɨ n ɨ n $,default
+shawandawa-190_woman-1,,shawandawa,190_woman,ajnɸo,ajnɸo,a j n ɸ o,,,,,^ a j n ɸ o $,default
+shawandawa-191_i-1,,shawandawa,191_i,ɨn,ɨn,ɨ n,,,,,^ ɨ n $,default
+shawandawa-192_you2sg-1,,shawandawa,192_you2sg,miː,miː,m iː,,,,,^ m iː $,default
+shawandawa-193x1_he-1,,shawandawa,193x1_he,uwaː,uwaː,u w aː,,,,,^ u w aː $,default
+shawandawa-193x2_she-1,,shawandawa,193x2_she,aː,aː,aː,,,,,^ aː $,default
+shawandawa-194_weallincl-1,,shawandawa,194_weallincl,nuː,nuː,n uː,,,,,^ n uː $,default
+shawandawa-196_you2pl-1,,shawandawa,196_you2pl,maɸu,maɸu,m a ɸ u,,,,,^ m a ɸ u $,default
+shawandawa-197x1_theymasc-1,,shawandawa,197x1_theymasc,uwaɸu,uwaɸu,u w a ɸ u,,,,,^ u w a ɸ u $,default
+shawandawa-197x2_theyfem-1,,shawandawa,197x2_theyfem,na,na,n a,,,,,^ n a $,default
+shawandawa-198_some-1,,shawandawa,198_some,juɾaɸɨtsa,juɾaɸɨtsa,j u ɾ a ɸ ɨ ts a,,,,,^ j u ɾ a ɸ ɨ ts a $,default
+shawandawa-200_many-1,,shawandawa,200_many,naːti ɸiʂon,naːti ɸiʂon,n aː t i + ɸ i ʂ o n,,,,,^ n aː t i + ɸ i ʂ o n $,default
+shawandawa-201_none-1,,shawandawa,201_none,tsuamba,tsuamba,ts u a m b a,,,,,^ ts u a m b a $,default
+shawandawa-202_few-1,,shawandawa,202_few,itʃapabaʂta,itʃapabaʂta,i tʃ a p a b a ʂ t a,,,,,^ i tʃ a p a b a ʂ t a $,default
+shawandawa-203_all-1,,shawandawa,203_all,naːtiɸi,naːtiɸi,n aː t i ɸ i,,,,,^ n aː t i ɸ i $,default
+shawandawa-204_half-1,,shawandawa,204_half,kaʂkɨ,kaʂkɨ,k a ʂ k ɨ,,,,,^ k a ʂ k ɨ $,default
+shawandawa-205_bunch-1,,shawandawa,205_bunch,kaʂkɨʂta,kaʂkɨʂta,k a ʂ k ɨ ʂ t a,,,,,^ k a ʂ k ɨ ʂ t a $,default
+shawandawa-205_bunch-2,,shawandawa,205_bunch,tʃutʃuʃta,tʃutʃuʃta,tʃ u tʃ u ʃ t a,,,,,^ tʃ u tʃ u ʃ t a $,default
+shawandawa-207_both-1,,shawandawa,207_both,ɾaɸɨ,ɾaɸɨ,ɾ a ɸ ɨ,,,,,^ ɾ a ɸ ɨ $,default
+shawandawa-208_southernamericanbushmaster-1,,shawandawa,208_southernamericanbushmaster,kabuʂɨ,kabuʂɨ,k a b u ʂ ɨ,,,,,^ k a b u ʂ ɨ $,default
+shawandawa-209_lizard-1,,shawandawa,209_lizard,ɸaβa,ɸaβa,ɸ a β a,,,,,^ ɸ a β a $,default
+shawandawa-210_yellowfootedtortoise-1,,shawandawa,210_yellowfootedtortoise,ʂawɨ,ʂawɨ,ʂ a w ɨ,,,,,^ ʂ a w ɨ $,default
+shawandawa-211_yellowspottedamazonriverturtle-1,,shawandawa,211_yellowspottedamazonriverturtle,dɨʂʊ,dɨʂʊ,d ɨ ʂ ʊ,,,,,^ d ɨ ʂ ʊ $,default
+shawandawa-212_amazonriverturtle-1,,shawandawa,212_amazonriverturtle,dɨʂũw̃ã,dɨʂũw̃ã,d ɨ ʂ ũ w̃ ã,,,,,^ d ɨ ʂ ũ w̃ ã $,default
+shawandawa-213_anacondas-1,,shawandawa,213_anacondas,ɾʊdʊ ɨwapa,ɾʊdʊ ɨwapa,ɾ ʊ d ʊ + ɨ w a p a,,,,,^ ɾ ʊ d ʊ + ɨ w a p a $,default
+shawandawa-214_commonlancehead-1,,shawandawa,214_commonlancehead,ʃândo,ʃândo,ʃ â n d o,,,,,^ ʃ â n d o $,default
+shawandawa-215_frog-1,,shawandawa,215_frog,kãpũ,kãpũ,k ã p ũ,,,,,^ k ã p ũ $,default
+shawandawa-216_iguana-1,,shawandawa,216_iguana,tɨtʃupanɨ̃n,tɨtʃupanɨ̃n,t ɨ tʃ u p a n ɨ̃ n,,,,,^ t ɨ tʃ u p a n ɨ̃ n $,default
+shawandawa-218_here-1,,shawandawa,218_here,dɨdo,dɨdo,d ɨ d o,,,,,^ d ɨ d o $,default
+shawandawa-219_there-1,,shawandawa,219_there,udo,udo,u d o,,,,,^ u d o $,default
+shawandawa-220_before-1,,shawandawa,220_before,ipawdi,ipawdi,i p a w d i,,,,,^ i p a w d i $,default
+shawandawa-221_after-1,,shawandawa,221_after,tʃipo,tʃipo,tʃ i p o,,,,,^ tʃ i p o $,default
+shawandawa-222_now-1,,shawandawa,222_now,datia,datia,d a t i a,,,,,^ d a t i a $,default
+shawandawa-223_machete-1,,shawandawa,223_machete,dupɨ,dupɨ,d u p ɨ,,,,,^ d u p ɨ $,default
+shawandawa-224_hammock-1,,shawandawa,224_hammock,padɪ,padɪ,p a d ɪ,,,,,^ p a d ɪ $,default
+shawandawa-225_pipe-1,,shawandawa,225_pipe,kaʃimʊ,kaʃimʊ,k a ʃ i m ʊ,,,,,^ k a ʃ i m ʊ $,default
+shawandawa-226_canoe-1,,shawandawa,226_canoe,ʂãʂõ,ʂãʂõ,ʂ ã ʂ õ,,,,,^ ʂ ã ʂ õ $,default
+shawandawa-227_rowing-1,,shawandawa,227_rowing,saɾapi,saɾapi,s a ɾ a p i,,,,,^ s a ɾ a p i $,default
+shawandawa-228_basket-1,,shawandawa,228_basket,ʃiwati,ʃiwati,ʃ i w a t i,,,,,^ ʃ i w a t i $,default
+shawandawa-229_rope-1,,shawandawa,229_rope,diʃi,diʃi,d i ʃ i,,,,,^ d i ʃ i $,default
+shawandawa-230_plate-1,,shawandawa,230_plate,kɨtʃã,kɨtʃã,k ɨ tʃ ã,,,,,^ k ɨ tʃ ã $,default
+shawandawa-230_plate-2,,shawandawa,230_plate,pɨɾatʊ,pɨɾatʊ,p ɨ ɾ a t ʊ,,,,,^ p ɨ ɾ a t ʊ $,default
+shawandawa-231_table-1,,shawandawa,231_table,sapa,sapa,s a p a,,,,,^ s a p a $,default
+shawandawa-232_bed-1,,shawandawa,232_bed,bʊskitio,bʊskitio,b ʊ s k i t i o,,,,,^ b ʊ s k i t i o $,default
+shawandawa-233_strainer-1,,shawandawa,233_strainer,tuati,tuati,t u a t i,,,,,^ t u a t i $,default
+shawandawa-234_fan-1,,shawandawa,234_fan,pajati,pajati,p a j a t i,,,,,^ p a j a t i $,default
+shawandawa-235_walk-1,,shawandawa,235_walk,ɸaĩn kai,ɸaĩn kai,ɸ a ĩ n + k a i,,,,,^ ɸ a ĩ n + k a i $,default
+shawandawa-236_cook-1,,shawandawa,236_cook,pitʃaĩ,pitʃaĩ,p i tʃ a ĩ,,,,,^ p i tʃ a ĩ $,default
+shawandawa-237_fish-1,,shawandawa,237_fish,dɨʂi kai,dɨʂi kai,d ɨ ʂ i + k a i,,,,,^ d ɨ ʂ i + k a i $,default
+shawandawa-238_dance-1,,shawandawa,238_dance,budɨj,budɨj,b u d ɨ j,,,,,^ b u d ɨ j $,default
+shawandawa-239_sing-1,,shawandawa,239_sing,ɸana iki,ɸana iki,ɸ a n a + i k i,,,,,^ ɸ a n a + i k i $,default
+shawandawa-240_tellstories-1,,shawandawa,240_tellstories,juwi,juwi,j u w i,,,,,^ j u w i $,default
+shawandawa-241_eat-1,,shawandawa,241_eat,piː,piː,p iː,,,,,^ p iː $,default
+shawandawa-242_drink-1,,shawandawa,242_drink,ajaj,ajaj,a j a j,,,,,^ a j a j $,default
+shawandawa-243_urinate-1,,shawandawa,243_urinate,iːsuĩ,iːsuĩ,iː s u ĩ,,,,,^ iː s u ĩ $,default
+shawandawa-244_defecate-1,,shawandawa,244_defecate,puːwi,puːwi,p uː w i,,,,,^ p uː w i $,default
+shawandawa-245_boil-1,,shawandawa,245_boil,kuɸĩ,kuɸĩ,k u ɸ ĩ,,,,,^ k u ɸ ĩ $,default
+shawandawa-246_breathe-1,,shawandawa,246_breathe,ʂakainki,ʂakainki,ʂ a k a i n k i,,,,,^ ʂ a k a i n k i $,default
+shawandawa-247_work-1,,shawandawa,247_work,juduj,juduj,j u d u j,,,,,^ j u d u j $,default
 shawi-1_agriculturalfield-1,,shawi,1_agriculturalfield,imi,imi,i m i,,,,,^ i m i $,default
 shawi-2_abandonedagriculturalfield-1,,shawi,2_abandonedagriculturalfield,pahkanan,pahkanan,p a h k a n a n,,,,,^ p a h k a n a n $,default
 shawi-3_russetbackedoropendola-1,,shawi,3_russetbackedoropendola,ʃiɾʊ,ʃiɾʊ,ʃ i ɾ ʊ,,,,,^ ʃ i ɾ ʊ $,default

@@ -21,28 +21,28 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 ![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
 ![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
 
-- **Varieties:** 11 (linked to 11 different Glottocodes)
-- **Concepts:** 255 (linked to 161 different Concepticon concept sets)
-- **Lexemes:** 2,572
+- **Varieties:** 12 (linked to 12 different Glottocodes)
+- **Concepts:** 260 (linked to 161 different Concepticon concept sets)
+- **Lexemes:** 2,820
 - **Sources:** 0
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 14,993
-- **Segments:** 120 (4 BIPA errors, 4 CLTS sound class errors, 116 CLTS modified)
-- **Inventory size (avg):** 46.64
+- **Tokens:** 16,326
+- **Segments:** 121 (4 BIPA errors, 4 CLTS sound class errors, 117 CLTS modified)
+- **Inventory size (avg):** 46.42
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 2572/2572 (100.00%)
+- Entries missing sources: 2820/2820 (100.00%)
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Roberto Zariquiey  |  | Author | Author
-Alonso Vasquez  |  | Author | Author
+Alonso Vásquez  |  | Author | Author
 Hans-Jörg Bibiko | @Bibiko | Programmer and maintainer of the data repository | Author
 Russell Gray |  | Director of the Department of Linguistic and Cultural Evolution | Author
 
