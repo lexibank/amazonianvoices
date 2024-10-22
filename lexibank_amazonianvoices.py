@@ -111,6 +111,8 @@ class Dataset(pylexibank.Dataset):
                     continue
                 data = []
                 cdir = self.raw_dir / 'csv' / lg_id
+                if cdir.exists():
+                    continue
                 cdir.mkdir(exist_ok=True)
                 try:
                     shutil.rmtree(self.raw_dir / 'csv' / lg_id / 'audio', ignore_errors=True)
