@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/lexibank/amazonianvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "9555a8d",
+            "dc:created": "a5090ba",
             "dc:title": "Repository"
         },
         {
@@ -54,7 +54,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 2820,
+            "dc:extent": 3052,
             "tableSchema": {
                 "columns": [
                     {
@@ -157,7 +157,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 12,
+            "dc:extent": 13,
             "tableSchema": {
                 "columns": [
                     {
@@ -271,7 +271,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 8241,
+            "dc:extent": 8937,
             "tableSchema": {
                 "columns": [
                     {
