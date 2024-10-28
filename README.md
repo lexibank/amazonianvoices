@@ -21,21 +21,21 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 ![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
 ![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
 
-- **Varieties:** 13 (linked to 13 different Glottocodes)
+- **Varieties:** 14 (linked to 14 different Glottocodes)
 - **Concepts:** 260 (linked to 161 different Concepticon concept sets)
-- **Lexemes:** 3,052
+- **Lexemes:** 3,283
 - **Sources:** 0
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 17,561
-- **Segments:** 123 (4 BIPA errors, 4 CLTS sound class errors, 119 CLTS modified)
-- **Inventory size (avg):** 46.46
+- **Tokens:** 18,787
+- **Segments:** 129 (4 BIPA errors, 4 CLTS sound class errors, 125 CLTS modified)
+- **Inventory size (avg):** 47.14
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 3052/3052 (100.00%)
+- Entries missing sources: 3283/3283 (100.00%)
 
 # Contributors
 
