@@ -922,6 +922,202 @@ chaninawa-244_defecate-1,,chaninawa,244_defecate,pũwɪ,pũwɪ,p ũ w ɪ,,,,,^
 chaninawa-245_boil-1,,chaninawa,245_boil,kʰũɸʷĩ,kʰũɸʷĩ,kʰ ũ ɸʷ ĩ,,,,,^ kʰ ũ ɸʷ ĩ $,default
 chaninawa-246_breathe-1,,chaninawa,246_breathe,ʂaʔaʔi,ʂaʔaʔi,ʂ a ʔ a ʔ i,,,,,^ ʂ a ʔ a ʔ i $,default
 chaninawa-247_work-1,,chaninawa,247_work,judʊɨ̃,judʊɨ̃,j u d ʊ ɨ̃,,,,,^ j u d ʊ ɨ̃ $,default
+iskonahua-1_agriculturalfield-1,,iskonahua,1_agriculturalfield,waj,waj,w a j,,,,,^ w a j $,default
+iskonahua-2_abandonedagriculturalfield-1,,iskonahua,2_abandonedagriculturalfield,nawɨ,nawɨ,n a w ɨ,,,,,^ n a w ɨ $,default
+iskonahua-4_scarletmacaw-1,,iskonahua,4_scarletmacaw,hãwã,hãwã,h ã w ã,,,,,^ h ã w ã $,default
+iskonahua-4_scarletmacaw-2,,iskonahua,4_scarletmacaw,kãnᵈã,kãnᵈã,k ã n <<ᵈ>> ã,,,,,^ k ã n <ᵈ> ã $,default
+iskonahua-5_whitethroatedtoucan-1,,iskonahua,5_whitethroatedtoucan,hukɨ,hukɨ,h u k ɨ,,,,,^ h u k ɨ $,default
+iskonahua-6_spixsguan-1,,iskonahua,6_spixsguan,kɨβo,kɨβo,k ɨ β o,,,,,^ k ɨ β o $,default
+iskonahua-7_yellowcrownedparrot-1,,iskonahua,7_yellowcrownedparrot,bawa,bawa,b a w a,,,,,^ b a w a $,default
+iskonahua-8_bluewingedparrotlet-1,,iskonahua,8_bluewingedparrotlet,pit͡su,pit͡su,p i ts u,,,,,^ p i t͡s u $,default
+iskonahua-9_ringedkingfisher-1,,iskonahua,9_ringedkingfisher,tʃaɾaʃ,tʃaɾaʃ,tʃ a ɾ a ʃ,,,,,^ tʃ a ɾ a ʃ $,default
+iskonahua-11_head-1,,iskonahua,11_head,buhka,buhka,b u h k a,,,,,^ b u h k a $,default
+iskonahua-12_tooth-1,,iskonahua,12_tooth,hɨta,hɨta,h ɨ t a,,,,,^ h ɨ t a $,default
+iskonahua-13_hand-1,,iskonahua,13_hand,bɨbi,bɨbi,b ɨ b i,,,,,^ b ɨ b i $,default
+iskonahua-14_face-1,,iskonahua,14_face,bɨmanaʔ,bɨmanaʔ,b ɨ m a n a ʔ,,,,,^ b ɨ m a n a ʔ $,default
+iskonahua-15_eye-1,,iskonahua,15_eye,bɨɾu,bɨɾu,b ɨ ɾ u,,,,,^ b ɨ ɾ u $,default
+iskonahua-16_nose-1,,iskonahua,16_nose,ɾɨkĩ,ɾɨkĩ,ɾ ɨ k ĩ,,,,,^ ɾ ɨ k ĩ $,default
+iskonahua-17_mouth-1,,iskonahua,17_mouth,kɨha,kɨha,k ɨ h a,,,,,^ k ɨ h a $,default
+iskonahua-18_foot-1,,iskonahua,18_foot,taɨ,taɨ,t a ɨ,,,,,^ t a ɨ $,default
+iskonahua-19_neck-1,,iskonahua,19_neck,tɨkaʔ,tɨkaʔ,t ɨ k a ʔ,,,,,^ t ɨ k a ʔ $,default
+iskonahua-20_ear-1,,iskonahua,20_ear,paβĩkiʔ,paβĩkiʔ,p a β ĩ k i ʔ,,,,,^ p a β ĩ k i ʔ $,default
+iskonahua-21_shoulder-1,,iskonahua,21_shoulder,hawã tɨʃpaβi,hawã tɨʃpaβi,h a w ã + t ɨ ʃ p a β i,,,,,^ h a w ã + t ɨ ʃ p a β i $,default
+iskonahua-22_arm-1,,iskonahua,22_arm,puɲã,puɲã,p u ɲ ã,,,,,^ p u ɲ ã $,default
+iskonahua-23_chest-1,,iskonahua,23_chest,hunt͡ʃi,hunt͡ʃi,h u n tʃ i,,,,,^ h u n t͡ʃ i $,default
+iskonahua-24_belly-1,,iskonahua,24_belly,nahβa,nahβa,n a h β a,,,,,^ n a h β a $,default
+iskonahua-25_leg-1,,iskonahua,25_leg,kiʃiʔ,kiʃiʔ,k i ʃ i ʔ,,,,,^ k i ʃ i ʔ $,default
+iskonahua-26_penis-1,,iskonahua,26_penis,βuʃki,βuʃki,β u ʃ k i,,,,,^ β u ʃ k i $,default
+iskonahua-27_vagina-1,,iskonahua,27_vagina,maʃpi,maʃpi,m a ʃ p i,,,,,^ m a ʃ p i $,default
+iskonahua-28_buttock-1,,iskonahua,28_buttock,puiŋki,puiŋki,p u i ŋ k i,,,,,^ p u i ŋ k i $,default
+iskonahua-29_hair-1,,iskonahua,29_hair,βu,βu,β u,,,,,^ β u $,default
+iskonahua-30_finger-1,,iskonahua,30_finger,mɨβi haku,mɨβi haku,m ɨ β i + h a k u,,,,,^ m ɨ β i + h a k u $,default
+iskonahua-31_toe-1,,iskonahua,31_toe,taɨ haku,taɨ haku,t a ɨ + h a k u,,,,,^ t a ɨ + h a k u $,default
+iskonahua-32_back-1,,iskonahua,32_back,pɨtʃi,pɨtʃi,p ɨ tʃ i,,,,,^ p ɨ tʃ i $,default
+iskonahua-33_knee-1,,iskonahua,33_knee,ɾatuhku,ɾatuhku,ɾ a t u h k u,,,,,^ ɾ a t u h k u $,default
+iskonahua-34_eyebrow-1,,iskonahua,34_eyebrow,βɨʃpi,βɨʃpi,β ɨ ʃ p i,,,,,^ β ɨ ʃ p i $,default
+iskonahua-35_breast-1,,iskonahua,35_breast,huma,huma,h u m a,,,,,^ h u m a $,default
+iskonahua-36_heart-1,,iskonahua,36_heart,uinti,uinti,u i n t i,,,,,^ u i n t i $,default
+iskonahua-37_liver-1,,iskonahua,37_liver,taka,taka,t a k a,,,,,^ t a k a $,default
+iskonahua-38_intestines-1,,iskonahua,38_intestines,puku,puku,p u k u,,,,,^ p u k u $,default
+iskonahua-39_tongue-1,,iskonahua,39_tongue,anᵈa,anᵈa,a n <<ᵈ>> a,,,,,^ a n <ᵈ> a $,default
+iskonahua-40_urine-1,,iskonahua,40_urine,isojn,isojn,i s o j n,,,,,^ i s o j n $,default
+iskonahua-41_excrement-1,,iskonahua,41_excrement,pui,pui,p u i,,,,,^ p u i $,default
+iskonahua-42_blood-1,,iskonahua,42_blood,imᵇi,imᵇi,i m <<ᵇ>> i,,,,,^ i m <ᵇ> i $,default
+iskonahua-43_nail-1,,iskonahua,43_nail,intsis,intsis,i n ts i s,,,,,^ i n ts i s $,default
+iskonahua-44_bellybutton-1,,iskonahua,44_bellybutton,tõnkõ,tõnkõ,t õ n k õ,,,,,^ t õ n k õ $,default
+iskonahua-45_saliva-1,,iskonahua,45_saliva,kɨmu,kɨmu,k ɨ m u,,,,,^ k ɨ m u $,default
+iskonahua-46_ankle-1,,iskonahua,46_ankle,upuhku,upuhku,u p u h k u,,,,,^ u p u h k u $,default
+iskonahua-47_earring-1,,iskonahua,47_earring,paɾahiti,paɾahiti,p a ɾ a h i t i,,,,,^ p a ɾ a h i t i $,default
+iskonahua-48_feathercrown-1,,iskonahua,48_feathercrown,maiti,maiti,m a i t i,,,,,^ m a i t i $,default
+iskonahua-49_menstraditionalrobe-1,,iskonahua,49_menstraditionalrobe,taɾi,taɾi,t a ɾ i,,,,,^ t a ɾ i $,default
+iskonahua-50_necklace-1,,iskonahua,50_necklace,t͡ʃopɨ,t͡ʃopɨ,tʃ o p ɨ,,,,,^ t͡ʃ o p ɨ $,default
+iskonahua-51_armoredcatfish-1,,iskonahua,51_armoredcatfish,ipu,ipu,i p u,,,,,^ i p u $,default
+iskonahua-52_electriceel-1,,iskonahua,52_electriceel,kunĩwã,kunĩwã,k u n ĩ w ã,,,,,^ k u n ĩ w ã $,default
+iskonahua-53_stingray-1,,iskonahua,53_stingray,iwi,iwi,i w i,,,,,^ i w i $,default
+iskonahua-54_pirarucu-1,,iskonahua,54_pirarucu,wamᵇɨ,wamᵇɨ,w a m <<ᵇ>> ɨ,,,,,^ w a m <ᵇ> ɨ $,default
+iskonahua-55_prochilodontidfish-1,,iskonahua,55_prochilodontidfish,buɨ,buɨ,b u ɨ,,,,,^ b u ɨ $,default
+iskonahua-57_piranha-1,,iskonahua,57_piranha,makɨ,makɨ,m a k ɨ,,,,,^ m a k ɨ $,default
+iskonahua-58_catfishpseudoplatystomafasciatum-1,,iskonahua,58_catfishpseudoplatystomafasciatum,βawĩ,βawĩ,β a w ĩ,,,,,^ β a w ĩ $,default
+iskonahua-59_catfishcallichthyscallichthys-1,,iskonahua,59_catfishcallichthyscallichthys,tũnũ,tũnũ,t ũ n ũ,,,,,^ t ũ n ũ $,default
+iskonahua-61_cichlidsfish-1,,iskonahua,61_cichlidsfish,mãj̃,mãj̃,m ã j̃,,,,,^ m ã j̃ $,default
+iskonahua-62_wildbanana-1,,iskonahua,62_wildbanana,mani,mani,m a n i,,,,,^ m a n i $,default
+iskonahua-66_peanut-1,,iskonahua,66_peanut,tamᵇa,tamᵇa,t a m <<ᵇ>> a,,,,,^ t a m <ᵇ> a $,default
+iskonahua-67_manioc-1,,iskonahua,67_manioc,atsa,atsa,a ts a,,,,,^ a ts a $,default
+iskonahua-68_piripiri-1,,iskonahua,68_piripiri,mɨkiɾau,mɨkiɾau,m ɨ k i ɾ a u,,,,,^ m ɨ k i ɾ a u $,default
+iskonahua-69_cacaotree-1,,iskonahua,69_cacaotree,nɨsa pɨt͡ʃabi,nɨsa pɨt͡ʃabi,n ɨ s a + p ɨ tʃ a b i,,,,,^ n ɨ s a + p ɨ t͡ʃ a b i $,default
+iskonahua-70_mocambotree-1,,iskonahua,70_mocambotree,iβi ɾɨhaβi,iβi ɾɨhaβi,i β i + ɾ ɨ h a β i,,,,,^ i β i + ɾ ɨ h a β i $,default
+iskonahua-72_cashew-1,,iskonahua,72_cashew,bɨʃki tɨt͡ʃuɾu,bɨʃki tɨt͡ʃuɾu,b ɨ ʃ k i + t ɨ tʃ u ɾ u,,,,,^ b ɨ ʃ k i + t ɨ t͡ʃ u ɾ u $,default
+iskonahua-74_tobacco-1,,iskonahua,74_tobacco,ɾumɨ,ɾumɨ,ɾ u m ɨ,,,,,^ ɾ u m ɨ $,default
+iskonahua-75_peachpalm-1,,iskonahua,75_peachpalm,wãnĩ,wãnĩ,w ã n ĩ,,,,,^ w ã n ĩ $,default
+iskonahua-76_aguaje-1,,iskonahua,76_aguaje,wĩnõn,wĩnõn,w ĩ n õ n,,,,,^ w ĩ n õ n $,default
+iskonahua-77_patawa-1,,iskonahua,77_patawa,isã,isã,i s ã,,,,,^ i s ã $,default
+iskonahua-78_coconut-1,,iskonahua,78_coconut,koko,koko,k o k o,,,,,^ k o k o $,default
+iskonahua-79_cocona-1,,iskonahua,79_cocona,popo,popo,p o p o,,,,,^ p o p o $,default
+iskonahua-80_taro-1,,iskonahua,80_taro,ɾunu tɨntobiʔ,ɾunu tɨntobiʔ,ɾ u n u + t ɨ n t o b i ʔ,,,,,^ ɾ u n u + t ɨ n t o b i ʔ $,default
+iskonahua-81_stranglerfig-1,,iskonahua,81_stranglerfig,ĩntʃibi,ĩntʃibi,ĩ n tʃ i b i,,,,,^ ĩ n tʃ i b i $,default
+iskonahua-82_camucamu-1,,iskonahua,82_camucamu,kamu kamu,kamu kamu,k a m u + k a m u,,,,,^ k a m u + k a m u $,default
+iskonahua-84_cedar-1,,iskonahua,84_cedar,wiʃtinipɪ,wiʃtinipɪ,w i ʃ t i n i p ɪ,,,,,^ w i ʃ t i n i p ɪ $,default
+iskonahua-86_annatto-1,,iskonahua,86_annatto,ɨtɨ βimi,ɨtɨ βimi,ɨ t ɨ + β i m i,,,,,^ ɨ t ɨ + β i m i $,default
+iskonahua-87_huito-1,,iskonahua,87_huito,t͡ʃɨhɨ βimi,t͡ʃɨhɨ βimi,tʃ ɨ h ɨ + β i m i,,,,,^ t͡ʃ ɨ h ɨ + β i m i $,default
+iskonahua-89_soapapple-1,,iskonahua,89_soapapple,itʃabi,itʃabi,i tʃ a b i,,,,,^ i tʃ a b i $,default
+iskonahua-91_hotpepper-1,,iskonahua,91_hotpepper,nutʃi,nutʃi,n u tʃ i,,,,,^ n u tʃ i $,default
+iskonahua-92_wayruru-1,,iskonahua,92_wayruru,ʃɨpɨ βɨɾo,ʃɨpɨ βɨɾo,ʃ ɨ p ɨ + β ɨ ɾ o,,,,,^ ʃ ɨ p ɨ + β ɨ ɾ o $,default
+iskonahua-92_wayruru-2,,iskonahua,92_wayruru,hɨpɨ βɨɾo,hɨpɨ βɨɾo,h ɨ p ɨ + β ɨ ɾ o,,,,,^ h ɨ p ɨ + β ɨ ɾ o $,default
+iskonahua-93_maniocdrink-1,,iskonahua,93_maniocdrink,atsa aja,atsa aja,a ts a + a j a,,,,,^ a ts a + a j a $,default
+iskonahua-94_plantaindrink-1,,iskonahua,94_plantaindrink,paɾanta aja,paɾanta aja,p a ɾ a n t a + a j a,,,,,^ p a ɾ a n t a + a j a $,default
+iskonahua-95_fishbasedfood-1,,iskonahua,95_fishbasedfood,kawa,kawa,k a w a,,,,,^ k a w a $,default
+iskonahua-96_arrow-1,,iskonahua,96_arrow,kaβiti,kaβiti,k a β i t i,,,,,^ k a β i t i $,default
+iskonahua-97_bow-1,,iskonahua,97_bow,tɨnkunti,tɨnkunti,t ɨ n k u n t i,,,,,^ t ɨ n k u n t i $,default
+iskonahua-98_harpoon-1,,iskonahua,98_harpoon,kua,kua,k u a,,,,,^ k u a $,default
+iskonahua-100_spear-1,,iskonahua,100_spear,pĩãŋki,pĩãŋki,p ĩ ã ŋ k i,,,,,^ p ĩ ã ŋ k i $,default
+iskonahua-101_temporaryshelter-1,,iskonahua,101_temporaryshelter,tapas,tapas,t a p a s,,,,,^ t a p a s $,default
+iskonahua-103_shotgun-1,,iskonahua,103_shotgun,toatɪ,toatɪ,t o a t ɪ,,,,,^ t o a t ɪ $,default
+iskonahua-104_fishinghook-1,,iskonahua,104_fishinghook,miʃkiti,miʃkiti,m i ʃ k i t i,,,,,^ m i ʃ k i t i $,default
+iskonahua-105_fishpoisonvine-1,,iskonahua,105_fishpoisonvine,βaɾβasku,βaɾβasku,β a ɾ β a s k u,,,,,^ β a ɾ β a s k u $,default
+iskonahua-106_fishpoisonshrub-1,,iskonahua,106_fishpoisonshrub,wakaɾʊmɨ,wakaɾʊmɨ,w a k a ɾ ʊ m ɨ,,,,,^ w a k a ɾ ʊ m ɨ $,default
+iskonahua-107_chaman-1,,iskonahua,107_chaman,hanubu,hanubu,h a n u b u,,,,,^ h a n u b u $,default
+iskonahua-108_healer-1,,iskonahua,108_healer,ɾawmbiʂ,ɾawmbiʂ,ɾ a w m b i ʂ,,,,,^ ɾ a w m b i ʂ $,default
+iskonahua-110_design-1,,iskonahua,110_design,kɨnᵈɨ,kɨnᵈɨ,k ɨ n <<ᵈ>> ɨ,,,,,^ k ɨ n <ᵈ> ɨ $,default
+iskonahua-115_berrybugs-1,,iskonahua,115_berrybugs,ĩpõh,ĩpõh,ĩ p õ h,,,,,^ ĩ p õ h $,default
+iskonahua-116_southamericanpalmweevillarva-1,,iskonahua,116_southamericanpalmweevillarva,ʃiʃiwɨ,ʃiʃiwɨ,ʃ i ʃ i w ɨ,,,,,^ ʃ i ʃ i w ɨ $,default
+iskonahua-117_louse-1,,iskonahua,117_louse,ia,ia,i a,,,,,^ i a $,default
+iskonahua-118_wasp-1,,iskonahua,118_wasp,binᵈa,binᵈa,b i n <<ᵈ>> a,,,,,^ b i n <ᵈ> a $,default
+iskonahua-119_bulletant-1,,iskonahua,119_bulletant,bunᵈa,bunᵈa,b u n <<ᵈ>> a,,,,,^ b u n <ᵈ> a $,default
+iskonahua-120_dragonfly-1,,iskonahua,120_dragonfly,ʃinti,ʃinti,ʃ i n t i,,,,,^ ʃ i n t i $,default
+iskonahua-121_butterfly-1,,iskonahua,121_butterfly,popokiɾi,popokiɾi,p o p o k i ɾ i,,,,,^ p o p o k i ɾ i $,default
+iskonahua-122_mosquito-1,,iskonahua,122_mosquito,ʃiu,ʃiu,ʃ i u,,,,,^ ʃ i u $,default
+iskonahua-123_leafcutterant-1,,iskonahua,123_leafcutterant,buna,buna,b u n a,,,,,^ b u n a $,default
+iskonahua-124_spider-1,,iskonahua,124_spider,ʃina haka,ʃina haka,ʃ i n a + h a k a,,,,,^ ʃ i n a + h a k a $,default
+iskonahua-125_father-1,,iskonahua,125_father,ɨpa,ɨpa,ɨ p a,,,,,^ ɨ p a $,default
+iskonahua-126_mother-1,,iskonahua,126_mother,ɨwa,ɨwa,ɨ w a,,,,,^ ɨ w a $,default
+iskonahua-127_brotherofman-1,,iskonahua,127_brotherofman,awɨn wit͡sa,awɨn wit͡sa,a w ɨ n + w i ts a,,,,,^ a w ɨ n + w i t͡s a $,default
+iskonahua-128_manssister-1,,iskonahua,128_manssister,awɨ nanɨ,awɨ nanɨ,a w ɨ + n a n ɨ,,,,,^ a w ɨ + n a n ɨ $,default
+iskonahua-129_womansbrother-1,,iskonahua,129_womansbrother,awɨn wit͡sa,awɨn wit͡sa,a w ɨ n + w i ts a,,,,,^ a w ɨ n + w i t͡s a $,default
+iskonahua-131_sonofman-1,,iskonahua,131_sonofman,βakɨ,βakɨ,β a k ɨ,,,,,^ β a k ɨ $,default
+iskonahua-132_sonofwoman-1,,iskonahua,132_sonofwoman,awɨn towa,awɨn towa,a w ɨ n + t o w a,,,,,^ a w ɨ n + t o w a $,default
+iskonahua-133_daughterofman-1,,iskonahua,133_daughterofman,ajnβo βakɨ,ajnβo βakɨ,a j n β o + β a k ɨ,,,,,^ a j n β o + β a k ɨ $,default
+iskonahua-135_river-1,,iskonahua,135_river,waka,waka,w a k a,,,,,^ w a k a $,default
+iskonahua-136_lagoon-1,,iskonahua,136_lagoon,iã,iã,i ã,,,,,^ i ã $,default
+iskonahua-137_sun-1,,iskonahua,137_sun,βaɾi,βaɾi,β a ɾ i,,,,,^ β a ɾ i $,default
+iskonahua-138_moon-1,,iskonahua,138_moon,ohnɨ,ohnɨ,o h n ɨ,,,,,^ o h n ɨ $,default
+iskonahua-139_rain-1,,iskonahua,139_rain,ui,ui,u i,,,,,^ u i $,default
+iskonahua-140_cloud-1,,iskonahua,140_cloud,diwɨ,diwɨ,d i w ɨ,,,,,^ d i w ɨ $,default
+iskonahua-141_mountain-1,,iskonahua,141_mountain,maʃiʔ,maʃiʔ,m a ʃ i ʔ,,,,,^ m a ʃ i ʔ $,default
+iskonahua-142_lightning-1,,iskonahua,142_lightning,kãnᵈã βiɾi,kãnᵈã βiɾi,k ã n <<ᵈ>> ã + β i ɾ i,,,,,^ k ã n <ᵈ> ã + β i ɾ i $,default
+iskonahua-142_lightning-2,,iskonahua,142_lightning,naj tʃambi,naj tʃambi,n a j + tʃ a m b i,,,,,^ n a j + tʃ a m b i $,default
+iskonahua-143_thunder-1,,iskonahua,143_thunder,daj tɨkɨj,daj tɨkɨj,d a j + t ɨ k ɨ j,,,,,^ d a j + t ɨ k ɨ j $,default
+iskonahua-144_rock-1,,iskonahua,144_rock,ɾuɨ,ɾuɨ,ɾ u ɨ,,,,,^ ɾ u ɨ $,default
+iskonahua-145_leaf-1,,iskonahua,145_leaf,peɨ,peɨ,p e ɨ,,,,,^ p e ɨ $,default
+iskonahua-146_fire-1,,iskonahua,146_fire,hɨna,hɨna,h ɨ n a,,,,,^ h ɨ n a $,default
+iskonahua-147_water-1,,iskonahua,147_water,ɨpaha,ɨpaha,ɨ p a h a,,,,,^ ɨ p a h a $,default
+iskonahua-148_star-1,,iskonahua,148_star,daj t͡ʃamᵇi,daj t͡ʃamᵇi,d a j + tʃ a m <<ᵇ>> i,,,,,^ d a j + t͡ʃ a m <ᵇ> i $,default
+iskonahua-149_soilearth-1,,iskonahua,149_soilearth,maj,maj,m a j,,,,,^ m a j $,default
+iskonahua-150_tapir-1,,iskonahua,150_tapir,awa,awa,a w a,,,,,^ a w a $,default
+iskonahua-151_agouti-1,,iskonahua,151_agouti,βaɾi,βaɾi,β a ɾ i,,,,,^ β a ɾ i $,default
+iskonahua-152_lowlandpaca-1,,iskonahua,152_lowlandpaca,mẽkũ,mẽkũ,m ẽ k ũ,,,,,^ m ẽ k ũ $,default
+iskonahua-153_whitelippedpeccary-1,,iskonahua,153_whitelippedpeccary,jawaʔ,jawaʔ,j a w a ʔ,,,,,^ j a w a ʔ $,default
+iskonahua-154_capybara-1,,iskonahua,154_capybara,amẽ,amẽ,a m ẽ,,,,,^ a m ẽ $,default
+iskonahua-155_jaguar-1,,iskonahua,155_jaguar,inuʔ,inuʔ,i n u ʔ,,,,,^ i n u ʔ $,default
+iskonahua-156_spidermonkey-1,,iskonahua,156_spidermonkey,isoʔ,isoʔ,i s o ʔ,,,,,^ i s o ʔ $,default
+iskonahua-157_redhowleraullador-1,,iskonahua,157_redhowleraullador,ɾu,ɾu,ɾ u,,,,,^ ɾ u $,default
+iskonahua-159_southamericancoati-1,,iskonahua,159_southamericancoati,ʃiʃi,ʃiʃi,ʃ i ʃ i,,,,,^ ʃ i ʃ i $,default
+iskonahua-160_nancymasnightmonkey-1,,iskonahua,160_nancymasnightmonkey,diɾʊ,diɾʊ,d i ɾ ʊ,,,,,^ d i ɾ ʊ $,default
+iskonahua-161_squirrelmonkeyfrailecillo-1,,iskonahua,161_squirrelmonkeyfrailecillo,nãj̃,nãj̃,n ã j̃,,,,,^ n ã j̃ $,default
+iskonahua-163_amazonriverdolphin-1,,iskonahua,163_amazonriverdolphin,kuʃiʃka,kuʃiʃka,k u ʃ i ʃ k a,,,,,^ k u ʃ i ʃ k a $,default
+iskonahua-165_armadillo-1,,iskonahua,165_armadillo,jawiʃ,jawiʃ,j a w i ʃ,,,,,^ j a w i ʃ $,default
+iskonahua-166_anteater-1,,iskonahua,166_anteater,haɨ,haɨ,h a ɨ,,,,,^ h a ɨ $,default
+iskonahua-168_woollymonkey-1,,iskonahua,168_woollymonkey,naj bakɨβo,naj bakɨβo,n a j + b a k ɨ β o,,,,,^ n a j + b a k ɨ β o $,default
+iskonahua-170_fabric-1,,iskonahua,170_fabric,βatʃi,βatʃi,β a tʃ i,,,,,^ β a tʃ i $,default
+iskonahua-172_pitcher-1,,iskonahua,172_pitcher,tʃumᵇa,tʃumᵇa,tʃ u m <<ᵇ>> a,,,,,^ tʃ u m <ᵇ> a $,default
+iskonahua-173_dye-1,,iskonahua,173_dye,t͡sit͡sa,t͡sit͡sa,ts i ts a,,,,,^ t͡s i t͡s a $,default
+iskonahua-175_house-1,,iskonahua,175_house,kahɨ,kahɨ,k a h ɨ,,,,,^ k a h ɨ $,default
+iskonahua-177_drum-1,,iskonahua,177_drum,aku,aku,a k u,,,,,^ a k u $,default
+iskonahua-179_one-1,,iskonahua,179_one,wistɨwã,wistɨwã,w i s t ɨ w ã,,,,,^ w i s t ɨ w ã $,default
+iskonahua-180_two-1,,iskonahua,180_two,naɾaβɨ,naɾaβɨ,n a ɾ a β ɨ,,,,,^ n a ɾ a β ɨ $,default
+iskonahua-185_several-1,,iskonahua,185_several,hɨtʃumamᵇa,hɨtʃumamᵇa,h ɨ tʃ u m a m <<ᵇ>> a,,,,,^ h ɨ tʃ u m a m <ᵇ> a $,default
+iskonahua-185_several-2,,iskonahua,185_several,hɨtʃumᵇa,hɨtʃumᵇa,h ɨ tʃ u m <<ᵇ>> a,,,,,^ h ɨ tʃ u m <ᵇ> a $,default
+iskonahua-186_countryfellow-1,,iskonahua,186_countryfellow,kajabu,kajabu,k a j a b u,,,,,^ k a j a b u $,default
+iskonahua-187_foreign-1,,iskonahua,187_foreign,nawa,nawa,n a w a,,,,,^ n a w a $,default
+iskonahua-188_language-1,,iskonahua,188_language,βanᵈa,βanᵈa,β a n <<ᵈ>> a,,,,,^ β a n <ᵈ> a $,default
+iskonahua-189_man-1,,iskonahua,189_man,iɾaβo,iɾaβo,i ɾ a β o,,,,,^ i ɾ a β o $,default
+iskonahua-190_woman-1,,iskonahua,190_woman,ãj̃nβo,ãj̃nβo,ã j̃ n β o,,,,,^ ã j̃ n β o $,default
+iskonahua-191_i-1,,iskonahua,191_i,ɨwa,ɨwa,ɨ w a,,,,,^ ɨ w a $,default
+iskonahua-192_you2sg-1,,iskonahua,192_you2sg,mi,mi,m i,,,,,^ m i $,default
+iskonahua-193_heshe-1,,iskonahua,193_heshe,ua,ua,u a,,,,,^ u a $,default
+iskonahua-194_weallincl-1,,iskonahua,194_weallincl,nʊ:bʊ,nʊːbʊ,n ʊː b ʊ,,,,,^ n ʊː b ʊ $,default
+iskonahua-195_weallexcl-1,,iskonahua,195_weallexcl,aβo,aβo,a β o,,,,,^ a β o $,default
+iskonahua-196_you2pl-1,,iskonahua,196_you2pl,miβo,miβo,m i β o,,,,,^ m i β o $,default
+iskonahua-202_few-1,,iskonahua,202_few,naɾana,naɾana,n a ɾ a n a,,,,,^ n a ɾ a n a $,default
+iskonahua-208_southernamericanbushmaster-1,,iskonahua,208_southernamericanbushmaster,kamuh,kamuh,k a m u h,,,,,^ k a m u h $,default
+iskonahua-209_lizard-1,,iskonahua,209_lizard,umaʃi,umaʃi,u m a ʃ i,,,,,^ u m a ʃ i $,default
+iskonahua-210_yellowfootedtortoise-1,,iskonahua,210_yellowfootedtortoise,hawɨ,hawɨ,h a w ɨ,,,,,^ h a w ɨ $,default
+iskonahua-212_amazonriverturtle-1,,iskonahua,212_amazonriverturtle,tʃaɾapa,tʃaɾapa,tʃ a ɾ a p a,,,,,^ tʃ a ɾ a p a $,default
+iskonahua-213_anacondas-1,,iskonahua,213_anacondas,hɨa mitsa,hɨa mitsa,h ɨ a + m i ts a,,,,,^ h ɨ a + m i ts a $,default
+iskonahua-213_anacondas-2,,iskonahua,213_anacondas,mũã hitsa,mũã hitsa,m ũ ã + h i ts a,,,,,^ m ũ ã + h i ts a $,default
+iskonahua-214_commonlancehead-1,,iskonahua,214_commonlancehead,nasaβãj̃n,nasaβãj̃n,n a s a β ã j̃ n,,,,,^ n a s a β ã j̃ n $,default
+iskonahua-216_iguana-1,,iskonahua,216_iguana,hɨkɨ,hɨkɨ,h ɨ k ɨ,,,,,^ h ɨ k ɨ $,default
+iskonahua-218_here-1,,iskonahua,218_here,nino,nino,n i n o,,,,,^ n i n o $,default
+iskonahua-219_there-1,,iskonahua,219_there,ũã,ũã,ũ ã,,,,,^ ũ ã $,default
+iskonahua-219_there-2,,iskonahua,219_there,anũhũ,anũhũ,a n ũ h ũ,,,,,^ a n ũ h ũ $,default
+iskonahua-223_machete-1,,iskonahua,223_machete,nami,nami,n a m i,,,,,^ n a m i $,default
+iskonahua-224_hammock-1,,iskonahua,224_hammock,ɾakati,ɾakati,ɾ a k a t i,,,,,^ ɾ a k a t i $,default
+iskonahua-225_pipe-1,,iskonahua,225_pipe,ʃinitãpũ,ʃinitãpũ,ʃ i n i t ã p ũ,,,,,^ ʃ i n i t ã p ũ $,default
+iskonahua-226_canoe-1,,iskonahua,226_canoe,monti,monti,m o n t i,,,,,^ m o n t i $,default
+iskonahua-227_rowing-1,,iskonahua,227_rowing,winti,winti,w i n t i,,,,,^ w i n t i $,default
+iskonahua-228_basket-1,,iskonahua,228_basket,kaŋkã,kaŋkã,k a ŋ k ã,,,,,^ k a ŋ k ã $,default
+iskonahua-229_rope-1,,iskonahua,229_rope,niʃi,niʃi,n i ʃ i,,,,,^ n i ʃ i $,default
+iskonahua-230_plate-1,,iskonahua,230_plate,sapa,sapa,s a p a,,,,,^ s a p a $,default
+iskonahua-231_table-1,,iskonahua,231_table,misaʔ,misaʔ,m i s a ʔ,,,,,^ m i s a ʔ $,default
+iskonahua-232_bed-1,,iskonahua,232_bed,sintoɾo,sintoɾo,s i n t o ɾ o,,,,,^ s i n t o ɾ o $,default
+iskonahua-233_strainer-1,,iskonahua,233_strainer,tuati,tuati,t u a t i,,,,,^ t u a t i $,default
+iskonahua-234_fan-1,,iskonahua,234_fan,pajatɪ,pajatɪ,p a j a t ɪ,,,,,^ p a j a t ɪ $,default
+iskonahua-235_walk-1,,iskonahua,235_walk,βaj,βaj,β a j,,,,,^ β a j $,default
+iskonahua-238_dance-1,,iskonahua,238_dance,ɾansaj,ɾansaj,ɾ a n s a j,,,,,^ ɾ a n s a j $,default
+iskonahua-239_sing-1,,iskonahua,239_sing,ɾɨwi,ɾɨwi,ɾ ɨ w i,,,,,^ ɾ ɨ w i $,default
+iskonahua-240_tellstories-1,,iskonahua,240_tellstories,juwi,juwi,j u w i,,,,,^ j u w i $,default
+iskonahua-243_urinate-1,,iskonahua,243_urinate,isũj̃n,isũj̃n,i s ũ j̃ n,,,,,^ i s ũ j̃ n $,default
+iskonahua-244_defecate-1,,iskonahua,244_defecate,puj,puj,p u j,,,,,^ p u j $,default
+iskonahua-247_work-1,,iskonahua,247_work,tɨɨti,tɨɨti,t ɨ ɨ t i,,,,,^ t ɨ ɨ t i $,default
 kakataibosinchiroca-1_agriculturalfield-1,,kakataibosinchiroca,1_agriculturalfield,naɨ,naɨ,n a ɨ,,,,,^ n a ɨ $,default
 kakataibosinchiroca-2_abandonedagriculturalfield-1,,kakataibosinchiroca,2_abandonedagriculturalfield,maɨ,maɨ,m a ɨ,,,,,^ m a ɨ $,default
 kakataibosinchiroca-3_russetbackedoropendola-1,,kakataibosinchiroca,3_russetbackedoropendola,tɾana,tɾana,t ɾ a n a,,,,,^ t ɾ a n a $,default
