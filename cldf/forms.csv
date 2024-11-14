@@ -1556,7 +1556,7 @@ madijaculina-218_here-1,,madijaculina,218_here,ahidza,ahidza,a h i dz a,,,,,^ a 
 madijaculina-219_there-1,,madijaculina,219_there,ahakʰadza,ahakʰadza,a h a kʰ a dz a,,,,,^ a h a kʰ a dz a $,default
 madijaculina-220_before-1,,madijaculina,220_before,tajde,tajde,t a j d e,,,,,^ t a j d e $,default
 madijaculina-221_after-1,,madijaculina,221_after,dzotode,dzotode,dz o t o d e,,,,,^ dz o t o d e $,default
-madijaculina-222_now-1,,madijaculina,222_now,hidapaʰna,hidapaʰna,h i d a p aʰ n a,,,,,^ h i d a p aʰ n a $,default
+madijaculina-222_now-1,,madijaculina,222_now,hidapaʰna,hidapaʰna,h i d a p a h n a,,,,,^ h i d a p aʰ n a $,default
 madijaculina-223_machete-1,,madijaculina,223_machete,matsʰito,matsʰito,m a tsʰ i t o,,,,,^ m a tsʰ i t o $,default
 madijaculina-224_hammock-1,,madijaculina,224_hammock,pʰoβi,pʰoβi,pʰ o β i,,,,,^ pʰ o β i $,default
 madijaculina-225_pipe-1,,madijaculina,225_pipe,kadzibo,kadzibo,k a dz i b o,,,,,^ k a dz i b o $,default
@@ -2479,7 +2479,7 @@ sharanahua-204_half-1,,sharanahua,204_half,ʂatɨɾaɸɨ,ʂatɨɾaɸɨ,ʂ a t ɨ
 sharanahua-205_bunch-1,,sharanahua,205_bunch,itʃapaβɨsta,itʃapaβɨsta,i tʃ a p a β ɨ s t a,,,,,^ i tʃ a p a β ɨ s t a $,default
 sharanahua-206_pair-1,,sharanahua,206_pair,ɾaɸɨ,ɾaɸɨ,ɾ a ɸ ɨ,,,,,^ ɾ a ɸ ɨ $,default
 sharanahua-207_both-1,,sharanahua,207_both,ɾaɸʷɨ,ɾaɸʷɨ,ɾ a ɸʷ ɨ,,,,,^ ɾ a ɸʷ ɨ $,default
-sharanahua-208_southernamericanbushmaster-1,,sharanahua,208_southernamericanbushmaster,kambuʃɨˀɨ,kambuʃɨˀɨ,k a m b u ʃ ɨ ˀ ɨ,,,,,^ k a m b u ʃ ɨ ˀ ɨ $,default
+sharanahua-208_southernamericanbushmaster-1,,sharanahua,208_southernamericanbushmaster,kambuʃɨˀɨ,kambuʃɨˀɨ,k a m b u ʃ ɨ ʔ ɨ,,,,,^ k a m b u ʃ ɨ ˀ ɨ $,default
 sharanahua-209_lizard-1,,sharanahua,209_lizard,ɸamba,ɸamba,ɸ a m b a,,,,,^ ɸ a m b a $,default
 sharanahua-210_yellowfootedtortoise-1,,sharanahua,210_yellowfootedtortoise,ʂaβʷɨ,ʂaβʷɨ,ʂ a βʷ ɨ,,,,,^ ʂ a βʷ ɨ $,default
 sharanahua-211_yellowspottedamazonriverturtle-1,,sharanahua,211_yellowspottedamazonriverturtle,dɨʂo,dɨʂo,d ɨ ʂ o,,,,,^ d ɨ ʂ o $,default
@@ -3067,7 +3067,7 @@ shipibokonibo-60_catfishzungarozungaro-1,,shipibokonibo,60_catfishzungarozungaro
 shipibokonibo-61_cichlidsfish-1,,shipibokonibo,61_cichlidsfish,kɨʃu,kɨʃu,k ɨ ʃ u,,,,,^ k ɨ ʃ u $,default
 shipibokonibo-62_wildbanana-1,,shipibokonibo,62_wildbanana,manipʷɨj,manipʷɨj,m a n i pʷ ɨ j,,,,,^ m a n i pʷ ɨ j $,default
 shipibokonibo-63_wildgarlic-1,,shipibokonibo,63_wildgarlic,βuajns,βuajns,β u a j n s,,,,,^ β u a j n s $,default
-shipibokonibo-64_cushcushyam-1,,shipibokonibo,64_cushcushyam,pwaʰ,pwaʰ,p w aʰ,,,,,^ p w aʰ $,default
+shipibokonibo-64_cushcushyam-1,,shipibokonibo,64_cushcushyam,pwaʰ,pwaʰ,p w a h,,,,,^ p w aʰ $,default
 shipibokonibo-65_sachainchi-1,,shipibokonibo,65_sachainchi,inka bontama,inka bontama,i n k a + b o n t a m a,,,,,^ i n k a + b o n t a m a $,default
 shipibokonibo-66_peanut-1,,shipibokonibo,66_peanut,tama,tama,t a m a,,,,,^ t a m a $,default
 shipibokonibo-67_manioc-1,,shipibokonibo,67_manioc,atsa,atsa,a ts a,,,,,^ a ts a $,default
@@ -3701,6 +3701,224 @@ wampis-244_defecate-1,,wampis,244_defecate,i:hjatmamo,iːhjatmamo,iː h j a t m 
 wampis-245_boil-1,,wampis,245_boil,iɲaɾɨamʊ,iɲaɾɨamʊ,i ɲ a ɾ ɨ a m ʊ,,,,,^ i ɲ a ɾ ɨ a m ʊ $,default
 wampis-246_breathe-1,,wampis,246_breathe,majatɪamʊ,majatɪamʊ,m a j a t ɪ a m ʊ,,,,,^ m a j a t ɪ a m ʊ $,default
 wampis-247_work-1,,wampis,247_work,takamu,takamu,t a k a m u,,,,,^ t a k a m u $,default
+yaneshaamuesha-1_agriculturalfield-1,,yaneshaamuesha,1_agriculturalfield,tʃetsoˀ,tʃetsoˀ,tʃ e ts o ʔ,,,,,^ tʃ e ts o ˀ $,default
+yaneshaamuesha-2_abandonedagriculturalfield-1,,yaneshaamuesha,2_abandonedagriculturalfield,tʃetsneɲets,tʃetsneɲets,tʃ e ts n e ɲ e ts,,,,,^ tʃ e ts n e ɲ e ts $,default
+yaneshaamuesha-3_russetbackedoropendola-1,,yaneshaamuesha,3_russetbackedoropendola,tseʐotʃʲ,tseʐotʃʲ,ts e ʐ o tʃʲ,,,,,^ ts e ʐ o tʃʲ $,default
+yaneshaamuesha-4_scarletmacaw-1,,yaneshaamuesha,4_scarletmacaw,kɨˀ,kɨˀ,k ɨ ʔ,,,,,^ k ɨ ˀ $,default
+yaneshaamuesha-5_whitethroatedtoucan-1,,yaneshaamuesha,5_whitethroatedtoucan,tʃaŋkoʂ,tʃaŋkoʂ,tʃ a ŋ k o ʂ,,,,,^ tʃ a ŋ k o ʂ $,default
+yaneshaamuesha-6_spixsguan-1,,yaneshaamuesha,6_spixsguan,ɯepo,ɯepo,ɯ e p o,,,,,^ ɯ e p o $,default
+yaneshaamuesha-7_yellowcrownedparrot-1,,yaneshaamuesha,7_yellowcrownedparrot,pojaʎ,pojaʎ,p o j a ʎ,,,,,^ p o j a ʎ $,default
+yaneshaamuesha-8_bluewingedparrotlet-1,,yaneshaamuesha,8_bluewingedparrotlet,ʃabiʎokeˀ,ʃabiʎokeˀ,ʃ a b i ʎ o k e ʔ,,,,,^ ʃ a b i ʎ o k e ˀ $,default
+yaneshaamuesha-9_ringedkingfisher-1,,yaneshaamuesha,9_ringedkingfisher,taɾataɾ,taɾataɾ,t a ɾ a t a ɾ,,,,,^ t a ɾ a t a ɾ $,default
+yaneshaamuesha-11_head-1,,yaneshaamuesha,11_head,oŋets,oŋets,o ŋ e ts,,,,,^ o ŋ e ts $,default
+yaneshaamuesha-12_tooth-1,,yaneshaamuesha,12_tooth,asots,asots,a s o ts,,,,,^ a s o ts $,default
+yaneshaamuesha-13_hand-1,,yaneshaamuesha,13_hand,otats,otats,o t a ts,,,,,^ o t a ts $,default
+yaneshaamuesha-14_face-1,,yaneshaamuesha,14_face,tsaˀpats,tsaˀpats,ts a ʔ p a ts,,,,,^ ts a ˀ p a ts $,default
+yaneshaamuesha-15_eye-1,,yaneshaamuesha,15_eye,keʎojets,keʎojets,k e ʎ o j e ts,,,,,^ k e ʎ o j e ts $,default
+yaneshaamuesha-16_nose-1,,yaneshaamuesha,16_nose,maʎant,maʎant,m a ʎ a n t,,,,,^ m a ʎ a n t $,default
+yaneshaamuesha-17_mouth-1,,yaneshaamuesha,17_mouth,naːmats,naːmats,n aː m a ts,,,,,^ n aː m a ts $,default
+yaneshaamuesha-18_foot-1,,yaneshaamuesha,18_foot,tekats,tekats,t e k a ts,,,,,^ t e k a ts $,default
+yaneshaamuesha-19_neck-1,,yaneshaamuesha,19_neck,tʂenopets,tʂenopets,t ʂ e n o p e ts,,,,,^ t ʂ e n o p e ts $,default
+yaneshaamuesha-20_ear-1,,yaneshaamuesha,20_ear,etats,etats,e t a ts,,,,,^ e t a ts $,default
+yaneshaamuesha-21_shoulder-1,,yaneshaamuesha,21_shoulder,ʐoːtats,ʐoːtats,ʐ oː t a ts,,,,,^ ʐ oː t a ts $,default
+yaneshaamuesha-22_arm-1,,yaneshaamuesha,22_arm,kets,kets,k e ts,,,,,^ k e ts $,default
+yaneshaamuesha-23_chest-1,,yaneshaamuesha,23_chest,soːmaʰpʰ,soːmaʰpʰ,s oː m a h pʰ,,,,,^ s oː m aʰ pʰ $,default
+yaneshaamuesha-24_belly-1,,yaneshaamuesha,24_belly,kotmats,kotmats,k o t m a ts,,,,,^ k o t m a ts $,default
+yaneshaamuesha-25_leg-1,,yaneshaamuesha,25_leg,taːpatʃʲ,taːpatʃʲ,t aː p a tʃʲ,,,,,^ t aː p a tʃʲ $,default
+yaneshaamuesha-26_penis-1,,yaneshaamuesha,26_penis,poˀjoɾets,poˀjoɾets,p o ʔ j o ɾ e ts,,,,,^ p o ˀ j o ɾ e ts $,default
+yaneshaamuesha-27_vagina-1,,yaneshaamuesha,27_vagina,ʃakʎapets,ʃakʎapets,ʃ a k ʎ a p e ts,,,,,^ ʃ a k ʎ a p e ts $,default
+yaneshaamuesha-28_buttock-1,,yaneshaamuesha,28_buttock,keˀnaɾets,keˀnaɾets,k e ʔ n a ɾ e ts,,,,,^ k e ˀ n a ɾ e ts $,default
+yaneshaamuesha-29_hair-1,,yaneshaamuesha,29_hair,eːtʃets,eːtʃets,eː tʃ e ts,,,,,^ eː tʃ e ts $,default
+yaneshaamuesha-30_finger-1,,yaneshaamuesha,30_finger,otaʎmets,otaʎmets,o t a ʎ m e ts,,,,,^ o t a ʎ m e ts $,default
+yaneshaamuesha-31_toe-1,,yaneshaamuesha,31_toe,tekaʎmets,tekaʎmets,t e k a ʎ m e ts,,,,,^ t e k a ʎ m e ts $,default
+yaneshaamuesha-32_back-1,,yaneshaamuesha,32_back,tʃaɲapʰ,tʃaɲapʰ,tʃ a ɲ a pʰ,,,,,^ tʃ a ɲ a pʰ $,default
+yaneshaamuesha-33_knee-1,,yaneshaamuesha,33_knee,ʎokmets,ʎokmets,ʎ o k m e ts,,,,,^ ʎ o k m e ts $,default
+yaneshaamuesha-34_eyebrow-1,,yaneshaamuesha,34_eyebrow,tʃekaːtats,tʃekaːtats,tʃ e k aː t a ts,,,,,^ tʃ e k aː t a ts $,default
+yaneshaamuesha-35_breast-1,,yaneshaamuesha,35_breast,momoɾets,momoɾets,m o m o ɾ e ts,,,,,^ m o m o ɾ e ts $,default
+yaneshaamuesha-36_heart-1,,yaneshaamuesha,36_heart,jotʂaɾetʃʲ,jotʂaɾetʃʲ,j o t ʂ a ɾ e tʃʲ,,,,,^ j o t ʂ a ɾ e tʃʲ $,default
+yaneshaamuesha-37_liver-1,,yaneshaamuesha,37_liver,opanats,opanats,o p a n a ts,,,,,^ o p a n a ts $,default
+yaneshaamuesha-38_intestines-1,,yaneshaamuesha,38_intestines,paˀtʃoɾetʂ,paˀtʃoɾetʂ,p a ʔ tʃ o ɾ e t ʂ,,,,,^ p a ˀ tʃ o ɾ e t ʂ $,default
+yaneshaamuesha-39_tongue-1,,yaneshaamuesha,39_tongue,ɲenets,ɲenets,ɲ e n e ts,,,,,^ ɲ e n e ts $,default
+yaneshaamuesha-40_urine-1,,yaneshaamuesha,40_urine,otspaɲets,otspaɲets,o ts p a ɲ e ts,,,,,^ o ts p a ɲ e ts $,default
+yaneshaamuesha-41_excrement-1,,yaneshaamuesha,41_excrement,tʃomweɲets,tʃomweɲets,tʃ o m w e ɲ e ts,,,,,^ tʃ o m w e ɲ e ts $,default
+yaneshaamuesha-42_blood-1,,yaneshaamuesha,42_blood,ʐasats,ʐasats,ʐ a s a ts,,,,,^ ʐ a s a ts $,default
+yaneshaamuesha-43_nail-1,,yaneshaamuesha,43_nail,ʃetʃeːpats,ʃetʃeːpats,ʃ e tʃ eː p a ts,,,,,^ ʃ e tʃ eː p a ts $,default
+yaneshaamuesha-44_bellybutton-1,,yaneshaamuesha,44_bellybutton,moːkets,moːkets,m oː k e ts,,,,,^ m oː k e ts $,default
+yaneshaamuesha-45_saliva-1,,yaneshaamuesha,45_saliva,nesnam,nesnam,n e s n a m,,,,,^ n e s n a m $,default
+yaneshaamuesha-46_ankle-1,,yaneshaamuesha,46_ankle,ʎokmets,ʎokmets,ʎ o k m e ts,,,,,^ ʎ o k m e ts $,default
+yaneshaamuesha-48_feathercrown-1,,yaneshaamuesha,48_feathercrown,tʃojoˀmetʰ,tʃojoˀmetʰ,tʃ o j o ʔ m e tʰ,,,,,^ tʃ o j o ˀ m e tʰ $,default
+yaneshaamuesha-49_menstraditionalrobe-1,,yaneshaamuesha,49_menstraditionalrobe,ʃetamwets,ʃetamwets,ʃ e t a m w e ts,,,,,^ ʃ e t a m w e ts $,default
+yaneshaamuesha-50_necklace-1,,yaneshaamuesha,50_necklace,tseːɾetʃʲ,tseːɾetʃʲ,ts eː ɾ e tʃʲ,,,,,^ ts eː ɾ e tʃʲ $,default
+yaneshaamuesha-51_armoredcatfish-1,,yaneshaamuesha,51_armoredcatfish,meʃetʰ,meʃetʰ,m e ʃ e tʰ,,,,,^ m e ʃ e tʰ $,default
+yaneshaamuesha-52_electriceel-1,,yaneshaamuesha,52_electriceel,tʃeːβeˀ,tʃeːβeˀ,tʃ eː β e ʔ,,,,,^ tʃ eː β e ˀ $,default
+yaneshaamuesha-53_stingray-1,,yaneshaamuesha,53_stingray,ʃetʃʲom,ʃetʃʲom,ʃ e tʃʲ o m,,,,,^ ʃ e tʃʲ o m $,default
+yaneshaamuesha-55_prochilodontidfish-1,,yaneshaamuesha,55_prochilodontidfish,kak,kak,k a k,,,,,^ k a k $,default
+yaneshaamuesha-58_catfishpseudoplatystomafasciatum-1,,yaneshaamuesha,58_catfishpseudoplatystomafasciatum,waːβeˀ,waːβeˀ,w aː β e ʔ,,,,,^ w aː β e ˀ $,default
+yaneshaamuesha-59_catfishcallichthyscallichthys-1,,yaneshaamuesha,59_catfishcallichthyscallichthys,ʃeːkoɾ,ʃeːkoɾ,ʃ eː k o ɾ,,,,,^ ʃ eː k o ɾ $,default
+yaneshaamuesha-60_catfishzungarozungaro-1,,yaneshaamuesha,60_catfishzungarozungaro,omaɲeˀ,omaɲeˀ,o m a ɲ e ʔ,,,,,^ o m a ɲ e ˀ $,default
+yaneshaamuesha-61_cichlidsfish-1,,yaneshaamuesha,61_cichlidsfish,meɾoˀ,meɾoˀ,m e ɾ o ʔ,,,,,^ m e ɾ o ˀ $,default
+yaneshaamuesha-62_wildbanana-1,,yaneshaamuesha,62_wildbanana,pohtaʎeˀpan,pohtaʎeˀpan,p o h t a ʎ e ʔ p a n,,,,,^ p o h t a ʎ e ˀ p a n $,default
+yaneshaamuesha-63_wildgarlic-1,,yaneshaamuesha,63_wildgarlic,ʐejapʰ,ʐejapʰ,ʐ e j a pʰ,,,,,^ ʐ e j a pʰ $,default
+yaneshaamuesha-64_cushcushyam-1,,yaneshaamuesha,64_cushcushyam,tʂoʰ,tʂoʰ,t ʂ o h,,,,,^ t ʂ oʰ $,default
+yaneshaamuesha-65_sachainchi-1,,yaneshaamuesha,65_sachainchi,oʎoɾmetsʎomʲ,oʎoɾmetsʎomʲ,o ʎ o ɾ m e ts ʎ o mʲ,,,,,^ o ʎ o ɾ m e ts ʎ o mʲ $,default
+yaneshaamuesha-66_peanut-1,,yaneshaamuesha,66_peanut,tʃetʃ,tʃetʃ,tʃ e tʃ,,,,,^ tʃ e tʃ $,default
+yaneshaamuesha-67_manioc-1,,yaneshaamuesha,67_manioc,mam,mam,m a m,,,,,^ m a m $,default
+yaneshaamuesha-68_piripiri-1,,yaneshaamuesha,68_piripiri,epeˀ,epeˀ,e p e ʔ,,,,,^ e p e ˀ $,default
+yaneshaamuesha-69_cacaotree-1,,yaneshaamuesha,69_cacaotree,tʃaːɾem,tʃaːɾem,tʃ aː ɾ e m,,,,,^ tʃ aː ɾ e m $,default
+yaneshaamuesha-72_cashew-1,,yaneshaamuesha,72_cashew,kaːʃoˀ,kaːʃoˀ,k aː ʃ o ʔ,,,,,^ k aː ʃ o ˀ $,default
+yaneshaamuesha-73_culantro-1,,yaneshaamuesha,73_culantro,weʎmeʃ,weʎmeʃ,w e ʎ m e ʃ,,,,,^ w e ʎ m e ʃ $,default
+yaneshaamuesha-74_tobacco-1,,yaneshaamuesha,74_tobacco,jemats,jemats,j e m a ts,,,,,^ j e m a ts $,default
+yaneshaamuesha-75_peachpalm-1,,yaneshaamuesha,75_peachpalm,poʰpoʂ,poʰpoʂ,p o h p o ʂ,,,,,^ p oʰ p o ʂ $,default
+yaneshaamuesha-76_aguaje-1,,yaneshaamuesha,76_aguaje,teɲeɾohtʃemʲ,teɲeɾohtʃemʲ,t e ɲ e ɾ o h tʃ e mʲ,,,,,^ t e ɲ e ɾ o h tʃ e mʲ $,default
+yaneshaamuesha-77_patawa-1,,yaneshaamuesha,77_patawa,ʃekem,ʃekem,ʃ e k e m,,,,,^ ʃ e k e m $,default
+yaneshaamuesha-78_coconut-1,,yaneshaamuesha,78_coconut,koːkoˀ,koːkoˀ,k oː k o ʔ,,,,,^ k oː k o ˀ $,default
+yaneshaamuesha-79_cocona-1,,yaneshaamuesha,79_cocona,kokonaˀ,kokonaˀ,k o k o n a ʔ,,,,,^ k o k o n a ˀ $,default
+yaneshaamuesha-80_taro-1,,yaneshaamuesha,80_taro,peːtokʰ,peːtokʰ,p eː t o kʰ,,,,,^ p eː t o kʰ $,default
+yaneshaamuesha-81_stranglerfig-1,,yaneshaamuesha,81_stranglerfig,ʃeʎatʃʲeʎmatʃʲeʎ,ʃeʎatʃʲeʎmatʃʲeʎ,ʃ e ʎ a tʃʲ e ʎ m a tʃʲ e ʎ,,,,,^ ʃ e ʎ a tʃʲ e ʎ m a tʃʲ e ʎ $,default
+yaneshaamuesha-83_giantceibatree-1,,yaneshaamuesha,83_giantceibatree,ʃenaʰtʃ,ʃenaʰtʃ,ʃ e n a h tʃ,,,,,^ ʃ e n aʰ tʃ $,default
+yaneshaamuesha-84_cedar-1,,yaneshaamuesha,84_cedar,woɾapaʰtʃʲ,woɾapaʰtʃʲ,w o ɾ a p a h tʃʲ,,,,,^ w o ɾ a p aʰ tʃʲ $,default
+yaneshaamuesha-86_annatto-1,,yaneshaamuesha,86_annatto,jeˀsopʰ,jeˀsopʰ,j e ʔ s o pʰ,,,,,^ j e ˀ s o pʰ $,default
+yaneshaamuesha-87_huito-1,,yaneshaamuesha,87_huito,jeɲ,jeɲ,j e ɲ,,,,,^ j e ɲ $,default
+yaneshaamuesha-89_soapapple-1,,yaneshaamuesha,89_soapapple,ʃejomaʰtʃem,ʃejomaʰtʃem,ʃ e j o m a h tʃ e m,,,,,^ ʃ e j o m aʰ tʃ e m $,default
+yaneshaamuesha-91_hotpepper-1,,yaneshaamuesha,91_hotpepper,tʃots,tʃots,tʃ o ts,,,,,^ tʃ o ts $,default
+yaneshaamuesha-92_wayruru-1,,yaneshaamuesha,92_wayruru,mweɾeʎ,mweɾeʎ,m w e ɾ e ʎ,,,,,^ m w e ɾ e ʎ $,default
+yaneshaamuesha-93_maniocdrink-1,,yaneshaamuesha,93_maniocdrink,koˀnes,koˀnes,k o ʔ n e s,,,,,^ k o ˀ n e s $,default
+yaneshaamuesha-94_plantaindrink-1,,yaneshaamuesha,94_plantaindrink,poɾantaʰtʃʲ,poɾantaʰtʃʲ,p o ɾ a n t a h tʃʲ,,,,,^ p o ɾ a n t aʰ tʃʲ $,default
+yaneshaamuesha-95_fishbasedfood-1,,yaneshaamuesha,95_fishbasedfood,oːtaɾetʃʲ,oːtaɾetʃʲ,oː t a ɾ e tʃʲ,,,,,^ oː t a ɾ e tʃʲ $,default
+yaneshaamuesha-96_arrow-1,,yaneshaamuesha,96_arrow,tʃoʰpapets,tʃoʰpapets,tʃ o h p a p e ts,,,,,^ tʃ oʰ p a p e ts $,default
+yaneshaamuesha-97_bow-1,,yaneshaamuesha,97_bow,kaːˀnotʃʲ,kaːˀnotʃʲ,k aː ʔ n o tʃʲ,,,,,^ k aː ˀ n o tʃʲ $,default
+yaneshaamuesha-100_spear-1,,yaneshaamuesha,100_spear,panmet,panmet,p a n m e t,,,,,^ p a n m e t $,default
+yaneshaamuesha-101_temporaryshelter-1,,yaneshaamuesha,101_temporaryshelter,kaɾpaʰtʃet,kaɾpaʰtʃet,k a ɾ p a h tʃ e t,,,,,^ k a ɾ p aʰ tʃ e t $,default
+yaneshaamuesha-103_shotgun-1,,yaneshaamuesha,103_shotgun,eʎapʰ,eʎapʰ,e ʎ a pʰ,,,,,^ e ʎ a pʰ $,default
+yaneshaamuesha-104_fishinghook-1,,yaneshaamuesha,104_fishinghook,goʂ,goʂ,g o ʂ,,,,,^ g o ʂ $,default
+yaneshaamuesha-105_fishpoisonvine-1,,yaneshaamuesha,105_fishpoisonvine,koɲapeˀ,koɲapeˀ,k o ɲ a p e ʔ,,,,,^ k o ɲ a p e ˀ $,default
+yaneshaamuesha-106_fishpoisonshrub-1,,yaneshaamuesha,106_fishpoisonshrub,waːkoˀ,waːkoˀ,w aː k o ʔ,,,,,^ w aː k o ˀ $,default
+yaneshaamuesha-107_chaman-1,,yaneshaamuesha,107_chaman,amaʰseˀɲetʃʲ,amaʰseˀɲetʃʲ,a m a h s e ʔ ɲ e tʃʲ,,,,,^ a m aʰ s e ˀ ɲ e tʃʲ $,default
+yaneshaamuesha-108_healer-1,,yaneshaamuesha,108_healer,apaɾtaiɲ,apaɾtaiɲ,a p a ɾ t a i ɲ,,,,,^ a p a ɾ t a i ɲ $,default
+yaneshaamuesha-109_song-1,,yaneshaamuesha,109_song,moʐeɲets,moʐeɲets,m o ʐ e ɲ e ts,,,,,^ m o ʐ e ɲ e ts $,default
+yaneshaamuesha-110_design-1,,yaneshaamuesha,110_design,ajnaʰteɲets,ajnaʰteɲets,a j n a h t e ɲ e ts,,,,,^ a j n aʰ t e ɲ e ts $,default
+yaneshaamuesha-111_perforation-1,,yaneshaamuesha,111_perforation,oɾeʰteɲets,oɾeʰteɲets,o ɾ e h t e ɲ e ts,,,,,^ o ɾ eʰ t e ɲ e ts $,default
+yaneshaamuesha-111_perforation-2,,yaneshaamuesha,111_perforation,oɾeʰɲets,oɾeʰɲets,o ɾ e h ɲ e ts,,,,,^ o ɾ eʰ ɲ e ts $,default
+yaneshaamuesha-113_angelstears-1,,yaneshaamuesha,113_angelstears,toweˀ,toweˀ,t o w e ʔ,,,,,^ t o w e ˀ $,default
+yaneshaamuesha-115_berrybugs-1,,yaneshaamuesha,115_berrybugs,tʃoˀnepʲ,tʃoˀnepʲ,tʃ o ʔ n e p <<ʲ>>,,,,,^ tʃ o ˀ n e p <ʲ> $,default
+yaneshaamuesha-116_southamericanpalmweevillarva-1,,yaneshaamuesha,116_southamericanpalmweevillarva,ompaʰ,ompaʰ,o m p a h,,,,,^ o m p aʰ $,default
+yaneshaamuesha-117_louse-1,,yaneshaamuesha,117_louse,uʎoɾ,uʎoɾ,u ʎ o ɾ,,,,,^ u ʎ o ɾ $,default
+yaneshaamuesha-118_wasp-1,,yaneshaamuesha,118_wasp,tseːtsoʂ,tseːtsoʂ,ts eː ts o ʂ,,,,,^ ts eː ts o ʂ $,default
+yaneshaamuesha-119_bulletant-1,,yaneshaamuesha,119_bulletant,poːnaʰ,poːnaʰ,p oː n a h,,,,,^ p oː n aʰ $,default
+yaneshaamuesha-120_dragonfly-1,,yaneshaamuesha,120_dragonfly,tʃeɾakʰ,tʃeɾakʰ,tʃ e ɾ a kʰ,,,,,^ tʃ e ɾ a kʰ $,default
+yaneshaamuesha-121_butterfly-1,,yaneshaamuesha,121_butterfly,tʃeʎpotʃʲ,tʃeʎpotʃʲ,tʃ e ʎ p o tʃʲ,,,,,^ tʃ e ʎ p o tʃʲ $,default
+yaneshaamuesha-122_mosquito-1,,yaneshaamuesha,122_mosquito,ʐaŋk,ʐaŋk,ʐ a ŋ k,,,,,^ ʐ a ŋ k $,default
+yaneshaamuesha-123_leafcutterant-1,,yaneshaamuesha,123_leafcutterant,poˀtʃ,poˀtʃ,p o ʔ tʃ,,,,,^ p o ˀ tʃ $,default
+yaneshaamuesha-124_spider-1,,yaneshaamuesha,124_spider,aɾaŋkom,aɾaŋkom,a ɾ a ŋ k o m,,,,,^ a ɾ a ŋ k o m $,default
+yaneshaamuesha-125_father-1,,yaneshaamuesha,125_father,apaʰ,apaʰ,a p a h,,,,,^ a p aʰ $,default
+yaneshaamuesha-126_mother-1,,yaneshaamuesha,126_mother,aːtʃ,aːtʃ,aː tʃ,,,,,^ aː tʃ $,default
+yaneshaamuesha-127_brotherofman-1,,yaneshaamuesha,127_brotherofman,pomaʃiɲ,pomaʃiɲ,p o m a ʃ i ɲ,,,,,^ p o m a ʃ i ɲ $,default
+yaneshaamuesha-128_manssister-1,,yaneshaamuesha,128_manssister,poʰtʂ,poʰtʂ,p o h t ʂ,,,,,^ p oʰ t ʂ $,default
+yaneshaamuesha-129_womansbrother-1,,yaneshaamuesha,129_womansbrother,poˀseˀ,poˀseˀ,p o ʔ s e ʔ,,,,,^ p o ˀ s e ˀ $,default
+yaneshaamuesha-130_womanssister-1,,yaneshaamuesha,130_womanssister,pamoneʂ,pamoneʂ,p a m o n e ʂ,,,,,^ p a m o n e ʂ $,default
+yaneshaamuesha-131_sonofman-1,,yaneshaamuesha,131_sonofman,pwetʃemer,pwetʃemer,p w e tʃ e m e r,,,,,^ p w e tʃ e m e r $,default
+yaneshaamuesha-132_sonofwoman-1,,yaneshaamuesha,132_sonofwoman,pwetʃemer,pwetʃemer,p w e tʃ e m e r,,,,,^ p w e tʃ e m e r $,default
+yaneshaamuesha-133_daughterofman-1,,yaneshaamuesha,133_daughterofman,poˀseɲ,poˀseɲ,p o ʔ s e ɲ,,,,,^ p o ˀ s e ɲ $,default
+yaneshaamuesha-134_daughterofwoman-1,,yaneshaamuesha,134_daughterofwoman,poˀseɲ,poˀseɲ,p o ʔ s e ɲ,,,,,^ p o ˀ s e ɲ $,default
+yaneshaamuesha-135_river-1,,yaneshaamuesha,135_river,ontaʰpoˀ,ontaʰpoˀ,o n t a h p o ʔ,,,,,^ o n t aʰ p o ˀ $,default
+yaneshaamuesha-136_lagoon-1,,yaneshaamuesha,136_lagoon,saˀpʰ,saˀpʰ,s a ʔ pʰ,,,,,^ s a ˀ pʰ $,default
+yaneshaamuesha-137_sun-1,,yaneshaamuesha,137_sun,atsneˀ,atsneˀ,a ts n e ʔ,,,,,^ a ts n e ˀ $,default
+yaneshaamuesha-138_moon-1,,yaneshaamuesha,138_moon,aʰʐoʂ,aʰʐoʂ,a h ʐ o ʂ,,,,,^ aʰ ʐ o ʂ $,default
+yaneshaamuesha-139_rain-1,,yaneshaamuesha,139_rain,oˀ,oˀ,o ʔ,,,,,^ o ˀ $,default
+yaneshaamuesha-140_cloud-1,,yaneshaamuesha,140_cloud,oʰs,oʰs,o h s,,,,,^ oʰ s $,default
+yaneshaamuesha-141_mountain-1,,yaneshaamuesha,141_mountain,aspenetʃʲ,aspenetʃʲ,a s p e n e tʃʲ,,,,,^ a s p e n e tʃʲ $,default
+yaneshaamuesha-142_lightning-1,,yaneshaamuesha,142_lightning,tatsteˀ,tatsteˀ,t a ts t e ʔ,,,,,^ t a ts t e ˀ $,default
+yaneshaamuesha-143_thunder-1,,yaneshaamuesha,143_thunder,tʃʲeʰkoɾeˀ,tʃʲeʰkoɾeˀ,tʃʲ e h k o ɾ e ʔ,,,,,^ tʃʲ eʰ k o ɾ e ˀ $,default
+yaneshaamuesha-144_rock-1,,yaneshaamuesha,144_rock,maʰpwet,maʰpwet,m a h p w e t,,,,,^ m aʰ p w e t $,default
+yaneshaamuesha-145_leaf-1,,yaneshaamuesha,145_leaf,aspan,aspan,a s p a n,,,,,^ a s p a n $,default
+yaneshaamuesha-146_fire-1,,yaneshaamuesha,146_fire,tsoˀ,tsoˀ,ts o ʔ,,,,,^ ts o ˀ $,default
+yaneshaamuesha-147_water-1,,yaneshaamuesha,147_water,oɲ,oɲ,o ɲ,,,,,^ o ɲ $,default
+yaneshaamuesha-148_star-1,,yaneshaamuesha,148_star,ɾantoʰ,ɾantoʰ,ɾ a n t o h,,,,,^ ɾ a n t oʰ $,default
+yaneshaamuesha-149_soilearth-1,,yaneshaamuesha,149_soilearth,pats,pats,p a ts,,,,,^ p a ts $,default
+yaneshaamuesha-150_tapir-1,,yaneshaamuesha,150_tapir,atoˀ,atoˀ,a t o ʔ,,,,,^ a t o ˀ $,default
+yaneshaamuesha-151_agouti-1,,yaneshaamuesha,151_agouti,ɾoːkɨpʰ,ɾoːkɨpʰ,ɾ oː k ɨ pʰ,,,,,^ ɾ oː k ɨ pʰ $,default
+yaneshaamuesha-152_lowlandpaca-1,,yaneshaamuesha,152_lowlandpaca,jaʰpʰ,jaʰpʰ,j a h pʰ,,,,,^ j aʰ pʰ $,default
+yaneshaamuesha-153_whitelippedpeccary-1,,yaneshaamuesha,153_whitelippedpeccary,ojuwaʰ,ojuwaʰ,o j u w a h,,,,,^ o j u w aʰ $,default
+yaneshaamuesha-154_capybara-1,,yaneshaamuesha,154_capybara,aːmoʰ,aːmoʰ,aː m o h,,,,,^ aː m oʰ $,default
+yaneshaamuesha-155_jaguar-1,,yaneshaamuesha,155_jaguar,maːjaʂ,maːjaʂ,m aː j a ʂ,,,,,^ m aː j a ʂ $,default
+yaneshaamuesha-156_spidermonkey-1,,yaneshaamuesha,156_spidermonkey,pwetʃʲeˀtʰ,pwetʃʲeˀtʰ,p w e tʃʲ e ʔ tʰ,,,,,^ p w e tʃʲ e ˀ tʰ $,default
+yaneshaamuesha-158_redhowlercotomono-1,,yaneshaamuesha,158_redhowlercotomono,jaːɲeʎ,jaːɲeʎ,j aː ɲ e ʎ,,,,,^ j aː ɲ e ʎ $,default
+yaneshaamuesha-159_southamericancoati-1,,yaneshaamuesha,159_southamericancoati,tʃompʰ,tʃompʰ,tʃ o m pʰ,,,,,^ tʃ o m pʰ $,default
+yaneshaamuesha-160_nancymasnightmonkey-1,,yaneshaamuesha,160_nancymasnightmonkey,oɾmemʲ,oɾmemʲ,o ɾ m e mʲ,,,,,^ o ɾ m e mʲ $,default
+yaneshaamuesha-162_squirrelmonkeymartin-1,,yaneshaamuesha,162_squirrelmonkeymartin,toːtʃ,toːtʃ,t oː tʃ,,,,,^ t oː tʃ $,default
+yaneshaamuesha-163_amazonriverdolphin-1,,yaneshaamuesha,163_amazonriverdolphin,aˀkoʃeɲ,aˀkoʃeɲ,a ʔ k o ʃ e ɲ,,,,,^ a ˀ k o ʃ e ɲ $,default
+yaneshaamuesha-164_sloth-1,,yaneshaamuesha,164_sloth,ɾeːmoʃ,ɾeːmoʃ,ɾ eː m o ʃ,,,,,^ ɾ eː m o ʃ $,default
+yaneshaamuesha-165_armadillo-1,,yaneshaamuesha,165_armadillo,aʃoˀʃ,aʃoˀʃ,a ʃ o ʔ ʃ,,,,,^ a ʃ o ˀ ʃ $,default
+yaneshaamuesha-166_anteater-1,,yaneshaamuesha,166_anteater,wantan,wantan,w a n t a n,,,,,^ w a n t a n $,default
+yaneshaamuesha-167_tamanduaanteater-1,,yaneshaamuesha,167_tamanduaanteater,ʊmakoˀ,ʊmakoˀ,ʊ m a k o ʔ,,,,,^ ʊ m a k o ˀ $,default
+yaneshaamuesha-168_woollymonkey-1,,yaneshaamuesha,168_woollymonkey,koˀtʃ,koˀtʃ,k o ʔ tʃ,,,,,^ k o ˀ tʃ $,default
+yaneshaamuesha-170_fabric-1,,yaneshaamuesha,170_fabric,paˀʃtamwets,paˀʃtamwets,p a ʔ ʃ t a m w e ts,,,,,^ p a ˀ ʃ t a m w e ts $,default
+yaneshaamuesha-172_pitcher-1,,yaneshaamuesha,172_pitcher,kojem,kojem,k o j e m,,,,,^ k o j e m $,default
+yaneshaamuesha-173_dye-1,,yaneshaamuesha,173_dye,jaʂ,jaʂ,j a ʂ,,,,,^ j a ʂ $,default
+yaneshaamuesha-174_tattoo-1,,yaneshaamuesha,174_tattoo,temanteɲets,temanteɲets,t e m a n t e ɲ e ts,,,,,^ t e m a n t e ɲ e ts $,default
+yaneshaamuesha-175_house-1,,yaneshaamuesha,175_house,pokoʎ,pokoʎ,p o k o ʎ,,,,,^ p o k o ʎ $,default
+yaneshaamuesha-176_quena-1,,yaneshaamuesha,176_quena,kenkon,kenkon,k e n k o n,,,,,^ k e n k o n $,default
+yaneshaamuesha-177_drum-1,,yaneshaamuesha,177_drum,kon,kon,k o n,,,,,^ k o n $,default
+yaneshaamuesha-179_one-1,,yaneshaamuesha,179_one,paʰtʃʲeʂ,paʰtʃʲeʂ,p a h tʃʲ e ʂ,,,,,^ p aʰ tʃʲ e ʂ $,default
+yaneshaamuesha-180_two-1,,yaneshaamuesha,180_two,eʰpa,eʰpa,e h p a,,,,,^ eʰ p a $,default
+yaneshaamuesha-181_three-1,,yaneshaamuesha,181_three,maːpaʰ,maːpaʰ,m aː p a h,,,,,^ m aː p aʰ $,default
+yaneshaamuesha-182_four-1,,yaneshaamuesha,182_four,paˀtats,paˀtats,p a ʔ t a ts,,,,,^ p a ˀ t a ts $,default
+yaneshaamuesha-183_five-1,,yaneshaamuesha,183_five,amnar,amnar,a m n a r,,,,,^ a m n a r $,default
+yaneshaamuesha-185_several-1,,yaneshaamuesha,185_several,paːˀnamen,paːˀnamen,p aː ʔ n a m e n,,,,,^ p aː ˀ n a m e n $,default
+yaneshaamuesha-186_countryfellow-1,,yaneshaamuesha,186_countryfellow,jaːmots,jaːmots,j aː m o ts,,,,,^ j aː m o ts $,default
+yaneshaamuesha-187_foreign-1,,yaneshaamuesha,187_foreign,okʰ,okʰ,o kʰ,,,,,^ o kʰ $,default
+yaneshaamuesha-188_language-1,,yaneshaamuesha,188_language,ɲoɲets,ɲoɲets,ɲ o ɲ e ts,,,,,^ ɲ o ɲ e ts $,default
+yaneshaamuesha-189_man-1,,yaneshaamuesha,189_man,aʰʃeɲoʂ,aʰʃeɲoʂ,a h ʃ e ɲ o ʂ,,,,,^ aʰ ʃ e ɲ o ʂ $,default
+yaneshaamuesha-190_woman-1,,yaneshaamuesha,190_woman,kojaneʃaˀ,kojaneʃaˀ,k o j a n e ʃ a ʔ,,,,,^ k o j a n e ʃ a ˀ $,default
+yaneshaamuesha-191_i-1,,yaneshaamuesha,191_i,naʰ,naʰ,n a h,,,,,^ n aʰ $,default
+yaneshaamuesha-192_you2sg-1,,yaneshaamuesha,192_you2sg,pʲaʰ,pʲaʰ,p <<ʲ>> a h,,,,,^ p <ʲ> aʰ $,default
+yaneshaamuesha-193_heshe-1,,yaneshaamuesha,193_heshe,ɲa,ɲa,ɲ a,,,,,^ ɲ a $,default
+yaneshaamuesha-194_weallincl-1,,yaneshaamuesha,194_weallincl,jaʰ,jaʰ,j a h,,,,,^ j aʰ $,default
+yaneshaamuesha-196_you2pl-1,,yaneshaamuesha,196_you2pl,soːkopʰ,soːkopʰ,s oː k o pʰ,,,,,^ s oː k o pʰ $,default
+yaneshaamuesha-197_they-1,,yaneshaamuesha,197_they,ɲetʰ,ɲetʰ,ɲ e tʰ,,,,,^ ɲ e tʰ $,default
+yaneshaamuesha-198_some-1,,yaneshaamuesha,198_some,mameʰʃaˀ,mameʰʃaˀ,m a m e h ʃ a ʔ,,,,,^ m a m eʰ ʃ a ˀ $,default
+yaneshaamuesha-200_many-1,,yaneshaamuesha,200_many,ʃonteˀ,ʃonteˀ,ʃ o n t e ʔ,,,,,^ ʃ o n t e ˀ $,default
+yaneshaamuesha-201_none-1,,yaneshaamuesha,201_none,ama eseʃajeˀ,ama eseʃajeˀ,a m a + e s e ʃ a j e ʔ,,,,,^ a m a + e s e ʃ a j e ˀ $,default
+yaneshaamuesha-202_few-1,,yaneshaamuesha,202_few,koɲeˀtʃʲ,koɲeˀtʃʲ,k o ɲ e ʔ tʃʲ,,,,,^ k o ɲ e ˀ tʃʲ $,default
+yaneshaamuesha-203_all-1,,yaneshaamuesha,203_all,aʎoʰwen,aʎoʰwen,a ʎ o h w e n,,,,,^ a ʎ oʰ w e n $,default
+yaneshaamuesha-204_half-1,,yaneshaamuesha,204_half,ʐoːtʂ,ʐoːtʂ,ʐ oː t ʂ,,,,,^ ʐ oː t ʂ $,default
+yaneshaamuesha-205_bunch-1,,yaneshaamuesha,205_bunch,koɲetʃʲ,koɲetʃʲ,k o ɲ e tʃʲ,,,,,^ k o ɲ e tʃʲ $,default
+yaneshaamuesha-208_southernamericanbushmaster-1,,yaneshaamuesha,208_southernamericanbushmaster,moʐaːtopʰ,moʐaːtopʰ,m o ʐ aː t o pʰ,,,,,^ m o ʐ aː t o pʰ $,default
+yaneshaamuesha-209_lizard-1,,yaneshaamuesha,209_lizard,saɲeɾeˀ,saɲeɾeˀ,s a ɲ e ɾ e ʔ,,,,,^ s a ɲ e ɾ e ˀ $,default
+yaneshaamuesha-210_yellowfootedtortoise-1,,yaneshaamuesha,210_yellowfootedtortoise,kaxoɾeˀ,kaxoɾeˀ,k a x o ɾ e ʔ,,,,,^ k a x o ɾ e ˀ $,default
+yaneshaamuesha-212_amazonriverturtle-1,,yaneshaamuesha,212_amazonriverturtle,ʃemper,ʃemper,ʃ e m p e r,,,,,^ ʃ e m p e r $,default
+yaneshaamuesha-213_anacondas-1,,yaneshaamuesha,213_anacondas,poːjaʎoʰpʰ,poːjaʎoʰpʰ,p oː j a ʎ o h pʰ,,,,,^ p oː j a ʎ oʰ pʰ $,default
+yaneshaamuesha-214_commonlancehead-1,,yaneshaamuesha,214_commonlancehead,tsesmaˀpʰ,tsesmaˀpʰ,ts e s m a ʔ pʰ,,,,,^ ts e s m a ˀ pʰ $,default
+yaneshaamuesha-215_frog-1,,yaneshaamuesha,215_frog,kaɾawaˀ,kaɾawaˀ,k a ɾ a w a ʔ,,,,,^ k a ɾ a w a ˀ $,default
+yaneshaamuesha-216_iguana-1,,yaneshaamuesha,216_iguana,maːkotʰ,maːkotʰ,m aː k o tʰ,,,,,^ m aː k o tʰ $,default
+yaneshaamuesha-218_here-1,,yaneshaamuesha,218_here,aʂ,aʂ,a ʂ,,,,,^ a ʂ $,default
+yaneshaamuesha-219_there-1,,yaneshaamuesha,219_there,ajlʲ,ajlʲ,a j l <<ʲ>>,,,,,^ a j l <ʲ> $,default
+yaneshaamuesha-220_before-1,,yaneshaamuesha,220_before,awaʰtʃʲ,awaʰtʃʲ,a w a h tʃʲ,,,,,^ a w aʰ tʃʲ $,default
+yaneshaamuesha-221_after-1,,yaneshaamuesha,221_after,tʃeʐaˀtʃ,tʃeʐaˀtʃ,tʃ e ʐ a ʔ tʃ,,,,,^ tʃ e ʐ a ˀ tʃ $,default
+yaneshaamuesha-222_now-1,,yaneshaamuesha,222_now,tʃʲeˀ,tʃʲeˀ,tʃʲ e ʔ,,,,,^ tʃʲ e ˀ $,default
+yaneshaamuesha-223_machete-1,,yaneshaamuesha,223_machete,matʃetʰ,matʃetʰ,m a tʃ e tʰ,,,,,^ m a tʃ e tʰ $,default
+yaneshaamuesha-224_hammock-1,,yaneshaamuesha,224_hammock,maːkoˀ,maːkoˀ,m aː k o ʔ,,,,,^ m aː k o ˀ $,default
+yaneshaamuesha-226_canoe-1,,yaneshaamuesha,226_canoe,noɲtʃʲ,noɲtʃʲ,n o ɲ tʃʲ,,,,,^ n o ɲ tʃʲ $,default
+yaneshaamuesha-227_rowing-1,,yaneshaamuesha,227_rowing,benaʰtʃʲ,benaʰtʃʲ,b e n a h tʃʲ,,,,,^ b e n aʰ tʃʲ $,default
+yaneshaamuesha-228_basket-1,,yaneshaamuesha,228_basket,kantʃʲeɾ,kantʃʲeɾ,k a n tʃʲ e ɾ,,,,,^ k a n tʃʲ e ɾ $,default
+yaneshaamuesha-229_rope-1,,yaneshaamuesha,229_rope,apeʎaɾetʂ,apeʎaɾetʂ,a p e ʎ a ɾ e t ʂ,,,,,^ a p e ʎ a ɾ e t ʂ $,default
+yaneshaamuesha-230_plate-1,,yaneshaamuesha,230_plate,tseˀɾet,tseˀɾet,ts e ʔ ɾ e t,,,,,^ ts e ˀ ɾ e t $,default
+yaneshaamuesha-232_bed-1,,yaneshaamuesha,232_bed,maːjoˀ,maːjoˀ,m aː j o ʔ,,,,,^ m aː j o ˀ $,default
+yaneshaamuesha-233_strainer-1,,yaneshaamuesha,233_strainer,ʃoʃnaːtets,ʃoʃnaːtets,ʃ o ʃ n aː t e ts,,,,,^ ʃ o ʃ n aː t e ts $,default
+yaneshaamuesha-234_fan-1,,yaneshaamuesha,234_fan,paːjatʃʲ,paːjatʃʲ,p aː j a tʃʲ,,,,,^ p aː j a tʃʲ $,default
+yaneshaamuesha-235_walk-1,,yaneshaamuesha,235_walk,tʃopeˀtʃeɲets,tʃopeˀtʃeɲets,tʃ o p e ʔ tʃ e ɲ e ts,,,,,^ tʃ o p e ˀ tʃ e ɲ e ts $,default
+yaneshaamuesha-236_cook-1,,yaneshaamuesha,236_cook,potaɾeteɲets,potaɾeteɲets,p o t a ɾ e t e ɲ e ts,,,,,^ p o t a ɾ e t e ɲ e ts $,default
+yaneshaamuesha-237_fish-1,,yaneshaamuesha,237_fish,wasˀoteɲets,wasˀoteɲets,w a s ʔ o t e ɲ e ts,,,,,^ w a s ˀ o t e ɲ e ts $,default
+yaneshaamuesha-238_dance-1,,yaneshaamuesha,238_dance,koʃaːmmʲats,koʃaːmmʲats,k o ʃ aː m mʲ a ts,,,,,^ k o ʃ aː m mʲ a ts $,default
+yaneshaamuesha-239_sing-1,,yaneshaamuesha,239_sing,moʐeɲets,moʐeɲets,m o ʐ e ɲ e ts,,,,,^ m o ʐ e ɲ e ts $,default
+yaneshaamuesha-240_tellstories-1,,yaneshaamuesha,240_tellstories,seʐpaɾɲats,seʐpaɾɲats,s e ʐ p a ɾ ɲ a ts,,,,,^ s e ʐ p a ɾ ɲ a ts $,default
+yaneshaamuesha-241_eat-1,,yaneshaamuesha,241_eat,ʐeɲets,ʐeɲets,ʐ e ɲ e ts,,,,,^ ʐ e ɲ e ts $,default
+yaneshaamuesha-242_drink-1,,yaneshaamuesha,242_drink,oʐeɲets,oʐeɲets,o ʐ e ɲ e ts,,,,,^ o ʐ e ɲ e ts $,default
+yaneshaamuesha-243_urinate-1,,yaneshaamuesha,243_urinate,notspaˀ,notspaˀ,n o ts p a ʔ,,,,,^ n o ts p a ˀ $,default
+yaneshaamuesha-244_defecate-1,,yaneshaamuesha,244_defecate,netʃmaˀ,netʃmaˀ,n e tʃ m a ʔ,,,,,^ n e tʃ m a ˀ $,default
+yaneshaamuesha-245_boil-1,,yaneshaamuesha,245_boil,japʲahtaˀ,japʲahtaˀ,j a p <<ʲ>> a h t a ʔ,,,,,^ j a p <ʲ> a h t a ˀ $,default
+yaneshaamuesha-246_breathe-1,,yaneshaamuesha,246_breathe,oʐeʐɲats,oʐeʐɲats,o ʐ e ʐ ɲ a ts,,,,,^ o ʐ e ʐ ɲ a ts $,default
+yaneshaamuesha-247_work-1,,yaneshaamuesha,247_work,taɾwaseɲets,taɾwaseɲets,t a ɾ w a s e ɲ e ts,,,,,^ t a ɾ w a s e ɲ e ts $,default
 yinepiro-1_agriculturalfield-1,,yinepiro,1_agriculturalfield,sana,sana,s a n a,,,,,^ s a n a $,default
 yinepiro-2_abandonedagriculturalfield-1,,yinepiro,2_abandonedagriculturalfield,ɾɨtacina djagənə,ɾɨtacina djagənə,ɾ ɨ t a c i n a + d j a g ə n ə,,,,,^ ɾ ɨ t a c i n a + d j a g ə n ə $,default
 yinepiro-3_russetbackedoropendola-1,,yinepiro,3_russetbackedoropendola,jopɾi,jopɾi,j o p ɾ i,,,,,^ j o p ɾ i $,default
