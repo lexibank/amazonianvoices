@@ -12,19 +12,19 @@
         {
             "rdf:about": "https://github.com/lexibank/amazonianvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "a5cdd2e",
+            "dc:created": "4cfc12f",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2.1-33-g97db479d46",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.4.0-1-gf5f8627a",
+            "dc:created": "v3.4.0-62-g339dff57",
             "dc:title": "Concepticon"
         },
         {
@@ -54,7 +54,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 4157,
+            "dc:extent": 6206,
             "tableSchema": {
                 "columns": [
                     {
@@ -157,7 +157,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 18,
+            "dc:extent": 27,
             "tableSchema": {
                 "columns": [
                     {
@@ -271,7 +271,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 12234,
+            "dc:extent": 18381,
             "tableSchema": {
                 "columns": [
                     {

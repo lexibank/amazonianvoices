@@ -13,13 +13,33 @@
             "name": "Alonso V\u00e1squez"
         },
         {
+            "name": "Mariana Poblete"
+        },
+        {
             "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Raquel Cabrera"
+        },
+        {
+            "name": "Minerva Cerna"
+        },
+        {
+            "name": "Jorge P\u00e9rez Silva"
+        },
+        {
+            "name": "Robert Forkel"
         },
         {
             "name": "Russell Gray"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
