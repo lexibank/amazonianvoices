@@ -1,6 +1,6 @@
 param_id,form,audio
-1_agriculturalfield,wa:iʔ,amahuaca_1_agriculturalfield__1
-2_abandonedagriculturalfield,ma:ɨʔ,amahuaca_2_abandonedagriculturalfield__1
+1_agriculturalfield,waːiʔ,amahuaca_1_agriculturalfield__1
+2_abandonedagriculturalfield,maːɨʔ,amahuaca_2_abandonedagriculturalfield__1
 3_russetbackedoropendola,iskoʔ,amahuaca_3_russetbackedoropendola__1
 3_russetbackedoropendola,tʃandaʔ,amahuaca_3_russetbackedoropendola__2
 4_scarletmacaw,çãː,amahuaca_4_scarletmacaw__1
@@ -178,9 +178,9 @@ param_id,form,audio
 188_language,hʊβiʔ,amahuaca_188_language__1
 189_man,hʊndiʔ,amahuaca_189_man__1
 190_woman,çando,amahuaca_190_woman__1
-191_i,i:ja,amahuaca_191_i__1
-192_you2sg,mi:ja,amahuaca_192_you2sg__1
-193_heshe,ha:,amahuaca_193_heshe__1
+191_i,iːja,amahuaca_191_i__1
+192_you2sg,miːja,amahuaca_192_you2sg__1
+193_heshe,haː,amahuaca_193_heshe__1
 194_weallincl,nukʰɨ,amahuaca_194_weallincl__1
 196_you2pl,matʊ,amahuaca_196_you2pl__1
 197_they,hatʊβʊ,amahuaca_197_they__1

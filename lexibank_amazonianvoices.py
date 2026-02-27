@@ -27,6 +27,10 @@ class CustomConcept(pylexibank.Concept):
     Concepticon_SemanticField = attr.ib(default=None)
 
 
+def fix_transcription(s):
+    return s.replace('ɡ', 'g').replace(':', 'ː')
+
+
 def norm(x):
     if x is None:
         return None
@@ -221,8 +225,9 @@ class Dataset(pylexibank.Dataset):
                     log.warning(f'Audio ID but no audio for {lg_id} {cid} {word}')
             else:
                 log.warning(f'No audio for {lg_id} {cid} {word}')
-            yield OrderedDict(
-                zip(['param_id', 'form', 'audio'], [new_params_id_map[cid], word, audio_name]))
+            yield OrderedDict(zip(
+                ['param_id', 'form', 'audio'],
+                [new_params_id_map[cid], fix_transcription(word), audio_name]))
 
     def _handle_audio(self, audio_path, lg_id, cid, word, new_params_id_map, log) -> str:
         ap = self.raw_dir / 'csv' / lg_id / 'audio'

@@ -18,8 +18,8 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 83%](https://img.shields.io/badge/BIPA-83%25-yellowgreen.svg "BIPA: 83%")
-![CLTS SoundClass: 83%](https://img.shields.io/badge/CLTS%20SoundClass-83%25-yellowgreen.svg "CLTS SoundClass: 83%")
+![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
+![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
 
 - **Varieties:** 27 (linked to 26 different Glottocodes)
 - **Concepts:** 260 (linked to 161 different Concepticon concept sets)
@@ -27,9 +27,9 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 - **Sources:** 0
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 35,795
-- **Segments:** 165 (28 BIPA errors, 28 CLTS sound class errors, 137 CLTS modified)
-- **Inventory size (avg):** 49.19
+- **Tokens:** 35,710
+- **Segments:** 177 (22 BIPA errors, 22 CLTS sound class errors, 155 CLTS modified)
+- **Inventory size (avg):** 49.56
 
 ## Possible Improvements:
 
