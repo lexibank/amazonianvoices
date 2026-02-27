@@ -1,0 +1,234 @@
+param_id,form,audio
+1_agriculturalfield,inɛ,yagua_1_agriculturalfield__1
+2_abandonedagriculturalfield,iɾipʰõ,yagua_2_abandonedagriculturalfield__1
+3_russetbackedoropendola,tapɘnɛ,yagua_3_russetbackedoropendola__1
+4_scarletmacaw,hapã,yagua_4_scarletmacaw__1
+5_whitethroatedtoucan,nʊwa,yagua_5_whitethroatedtoucan__1
+6_spixsguan,pʊ̃ʊ̃waɛ̯,yagua_6_spixsguan__1
+7_yellowcrownedparrot,kɾɪatʲo,yagua_7_yellowcrownedparrot__1
+8_bluewingedparrotlet,kæsejtʲo,yagua_8_bluewingedparrotlet__1
+9_ringedkingfisher,itɪnã,yagua_9_ringedkingfisher__1
+10_greatkiskadee,tᵊpʷəɲã,yagua_10_greatkiskadee__1
+11_head,rino,yagua_11_head__1
+12_tooth,hãnã,yagua_12_tooth__1
+13_hand,nẽhãbãtõ,yagua_13_hand__1
+14_face,ʐeno,yagua_14_face__1
+15_eye,raɲĩsɪ,yagua_15_eye__1
+16_nose,ranũ,yagua_16_nose__1
+17_mouth,ʐɪto,yagua_17_mouth__1
+18_foot,animʊtʊ,yagua_18_foot__1
+19_neck,r̥etᵊno,yagua_19_neck__1
+20_ear,ratiwã,yagua_20_ear__1
+21_shoulder,r̥enetõʰõ,yagua_21_shoulder__1
+22_arm,ʐehasɛ,yagua_22_arm__1
+23_chest,rɛhɛsjɛ,yagua_23_chest__1
+24_belly,ðepenɛ,yagua_24_belly__1
+25_leg,r̥ɛbɛnaɛ̯,yagua_25_leg__1
+26_penis,rãpw̃ɛ̃,yagua_26_penis__1
+27_vagina,naŋkaçi,yagua_27_vagina__1
+28_buttock,atɪ̃nɪ̃,yagua_28_buttock__1
+29_hair,rinohasɛ̃,yagua_29_hair__1
+30_finger,rana,yagua_30_finger__1
+31_toe,rana,yagua_31_toe__1
+32_back,ɾatɨ̯asa,yagua_32_back__1
+33_knee,r̥ar̥õsɛ̃,yagua_33_knee__1
+34_eyebrow,ẽnõhãsi,yagua_34_eyebrow__1
+35_breast,r̥itãː,yagua_35_breast__1
+36_heart,sahɛ̃tɨ̃ãbẽ,yagua_36_heart__1
+37_liver,tsʊwato,yagua_37_liver__1
+38_intestines,ðaskɨɾɪ,yagua_38_intestines__1
+39_tongue,ɾãnẽtʃi,yagua_39_tongue__1
+40_urine,kaʃʲĩwã,yagua_40_urine__1
+41_excrement,ɾakʲinãː,yagua_41_excrement__1
+42_blood,sandã,yagua_42_blood__1
+43_nail,rãsmãnã,yagua_43_nail__1
+44_bellybutton,sɪtʃmɔ̃,yagua_44_bellybutton__1
+45_saliva,jãʊ̃tõcj̃ɛ̃,yagua_45_saliva__1
+46_ankle,r̥ar̥osɪ,yagua_46_ankle__1
+47_earring,tʊwãçje,yagua_47_earring__1
+48_feathercrown,pɾenʊ,yagua_48_feathercrown__1
+49_menstraditionalrobe,deso,yagua_49_menstraditionalrobe__1
+50_necklace,mãɾtʃjõ,yagua_50_necklace__1
+51_armoredcatfish,wãja,yagua_51_armoredcatfish__1
+52_electriceel,natɪ,yagua_52_electriceel__1
+53_stingray,r̥atʊ,yagua_53_stingray__1
+54_pirarucu,ʃamʊ̃,yagua_54_pirarucu__1
+55_prochilodontidfish,kəɾimata,yagua_55_prochilodontidfish__1
+56_silvermylossoma,nɪmjʊtʊ,yagua_56_silvermylossoma__1
+57_piranha,mɪtʲotʊ,yagua_57_piranha__1
+58_catfishpseudoplatystomafasciatum,çuɾɪ,yagua_58_catfishpseudoplatystomafasciatum__1
+59_catfishcallichthyscallichthys,kantjunʃi,yagua_59_catfishcallichthyscallichthys__1
+60_catfishzungarozungaro,nəbɪsuɾi,yagua_60_catfishzungarozungaro__1
+61_cichlidsfish,kanɛː,yagua_61_cichlidsfish__1
+62_wildbanana,nawɪ̃,yagua_62_wildbanana__1
+63_wildgarlic,dʊ̃ɾɪ̃wɪ̃,yagua_63_wildgarlic__1
+64_cushcushyam,mə̃sã,yagua_64_cushcushyam__1
+65_sachainchi,pãtʲõ,yagua_65_sachainchi__1
+66_peanut,mãɲẽse,yagua_66_peanut__1
+67_manioc,asuʃʲjɛ,yagua_67_manioc__1
+71_chestnut,pʰãtʲoho,yagua_71_chestnut__1
+72_cashew,kaʃʰoː,yagua_72_cashew__1
+73_culantro,kũnantɾəwɛ,yagua_73_culantro__1
+74_tobacco,tsənɨɛ,yagua_74_tobacco__1
+75_peachpalm,pʊr̥ɛ,yagua_75_peachpalm__1
+76_aguaje,nese,yagua_76_aguaje__1
+77_patawa,tsinʊ̃sɛ̃,yagua_77_patawa__1
+78_coconut,aruãtatətʃi,yagua_78_coconut__1
+79_cocona,bʊwã,yagua_79_cocona__1
+80_taro,samɨnõə,yagua_80_taro__1
+81_stranglerfig,wɨ̃tʊ̃,yagua_81_stranglerfig__1
+83_giantceibatree,ãmãɾanẽnõ,yagua_83_giantceibatree__1
+84_cedar,məɾtʃaː,yagua_84_cedar__1
+85_mahogany,nɨno,yagua_85_mahogany__1
+86_annatto,kikã,yagua_86_annatto__1
+87_huito,mʊpɪho,yagua_87_huito__1
+88_lepidocaryumtenue,konae̯wɛ,yagua_88_lepidocaryumtenue__1
+89_soapapple,sibʊkɪtʊ,yagua_89_soapapple__1
+91_hotpepper,nɪ̃sɪ̃,yagua_91_hotpepper__1
+92_wayruru,ananse,yagua_92_wayruru__1
+93_maniocdrink,bojã,yagua_93_maniocdrink__1
+94_plantaindrink,suduhjabuja,yagua_94_plantaindrink__1
+95_fishbasedfood,anubae̯,yagua_95_fishbasedfood__1
+96_arrow,ajçtjaː,yagua_96_arrow__1
+97_bow,tahnũŋ,yagua_97_bow__1
+98_harpoon,hajhtʲaː,yagua_98_harpoon__1
+99_fishtrap,ʐikɪ̃hũ,yagua_99_fishtrap__1
+100_spear,aɾᵊpunse,yagua_100_spear__1
+101_temporaryshelter,sʊ̃tã,yagua_101_temporaryshelter__1
+102_blowgun,ʐunãsɪ̃,yagua_102_blowgun__1
+103_shotgun,dũnʊ̃,yagua_103_shotgun__1
+104_fishinghook,toja,yagua_104_fishinghook__1
+105_fishpoisonvine,tatjʊ̃ŋ,yagua_105_fishpoisonvine__1
+105_fishpoisonvine,baɾbaskʊhʊ̃ŋ,yagua_105_fishpoisonvine__2
+106_fishpoisonshrub,rawẽ,yagua_106_fishpoisonshrub__1
+106_fishpoisonshrub,wakawẽ,yagua_106_fishpoisonshrub__2
+107_chaman,nemər̥a,yagua_107_chaman__1
+108_healer,sapəna,yagua_108_healer__1
+109_song,jamər̥a,yagua_109_song__1
+110_design,waʰtəɾa iwiʃaː,yagua_110_design__1
+111_perforation,ɾatɪwã,yagua_111_perforation__1
+112_ayahuasca,ajawæskɐ,yagua_112_ayahuasca__1
+113_angelstears,bãntãː,yagua_113_angelstears__1
+114_kambo,sɪkitʊ,yagua_114_kambo__1
+115_berrybugs,bakujasɛ̃,yagua_115_berrybugs__1
+116_southamericanpalmweevillarva,dʊ̃nʊ̃,yagua_116_southamericanpalmweevillarva__1
+117_louse,r̥unɛ̃,yagua_117_louse__1
+118_wasp,nahʊ,yagua_118_wasp__1
+119_bulletant,nʊ̃ɲʊ,yagua_119_bulletant__1
+120_dragonfly,sɪɾj̃ẽtʲo,yagua_120_dragonfly__1
+121_butterfly,kʰũjotʰə,yagua_121_butterfly__1
+122_mosquito,ɲænõ,yagua_122_mosquito__1
+123_leafcutterant,hatɪ̃,yagua_123_leafcutterant__1
+124_spider,ɨɾoto,yagua_124_spider__1
+125_father,rahɛ̃,yagua_125_father__1
+126_mother,rinõnã,yagua_126_mother__1
+127_brotherofman,hatɛɾɛ,yagua_127_brotherofman__1
+128_manssister,ʐitamʊtʊ,yagua_128_manssister__1
+129_womansbrother,hatɛɾɛ,yagua_129_womansbrother__1
+130_womanssister,ʐitamʊtʊ,yagua_130_womanssister__1
+131_sonofman,ʃʲanɛnʊ,yagua_131_sonofman__1
+132_sonofwoman,tsənətu,yagua_132_sonofwoman__1
+133_daughterofman,watəɾa,yagua_133_daughterofman__1
+134_daughterofwoman,watəɾa,yagua_134_daughterofwoman__1
+135_river,hãː,yagua_135_river__1
+136_lagoon,mẽtã,yagua_136_lagoon__1
+137_sun,nĩː,yagua_137_sun__1
+138_moon,arimãnãe,yagua_138_moon__1
+139_rain,lʊ̃mʊɾa,yagua_139_rain__1
+140_cloud,wãnda,yagua_140_cloud__1
+141_mountain,toa,yagua_141_mountain__1
+141_mountain,mosẽ,yagua_141_mountain__2
+142_lightning,ruwataɪ̯,yagua_142_lightning__1
+143_thunder,aɾiɾuwataɪ̯,yagua_143_thunder__1
+144_rock,ɾãwɪ̃tʃʊ̃,yagua_144_rock__1
+145_leaf,nawẽ,yagua_145_leaf__1
+146_fire,nəkeʐa,yagua_146_fire__1
+147_water,hãː,yagua_147_water__1
+148_star,aɾbẽnẽ,yagua_148_star__1
+149_soilearth,mãkãnɘ̃,yagua_149_soilearth__1
+150_tapir,nɨtʃæʰ,yagua_150_tapir__1
+151_agouti,mʊtʊ,yagua_151_agouti__1
+152_lowlandpaca,wæ̃ɲʊ̃,yagua_152_lowlandpaca__1
+153_whitelippedpeccary,haũ,yagua_153_whitelippedpeccary__1
+154_capybara,kapɪ̃wɛ̃ɾã,yagua_154_capybara__1
+155_jaguar,ãmãŋnɪbi,yagua_155_jaguar__1
+156_spidermonkey,kawɔta,yagua_156_spidermonkey__1
+158_redhowlercotomono,kanãh,yagua_158_redhowlercotomono__1
+159_southamericancoati,hamɨ,yagua_159_southamericancoati__1
+162_squirrelmonkeymartin,watæ̃,yagua_162_squirrelmonkeymartin__1
+163_amazonriverdolphin,hãnto,yagua_163_amazonriverdolphin__1
+164_sloth,hatɛ,yagua_164_sloth__1
+165_armadillo,mʊ̃natʊ̃,yagua_165_armadillo__1
+166_anteater,ʃutʲʊ,yagua_166_anteater__1
+167_tamanduaanteater,aɾə̃pwə̃ʰ,yagua_167_tamanduaanteater__1
+168_woollymonkey,kadʒũnʊ̃,yagua_168_woollymonkey__1
+170_fabric,tsahaʰ,yagua_170_fabric__1
+172_pitcher,hapatʲʊ,yagua_172_pitcher__1
+173_dye,kateɾanũdʒɛ̃ː,yagua_173_dye__1
+174_tattoo,nũmɪ̃ʃər̥a,yagua_174_tattoo__1
+175_house,r̥oɾwɪ,yagua_175_house__1
+176_quena,nʊ̃nʊ̃,yagua_176_quena__1
+177_drum,tʃɪɾʊ̃wũ,yagua_177_drum__1
+179_one,təɾakɨ̯ɛ,yagua_179_one__1
+180_two,aɾahõ,yagua_180_two__1
+181_three,momər̥ae̯,yagua_181_three__1
+182_four,naɾjahũjo,yagua_182_four__1
+183_five,tənahɪo,yagua_183_five__1
+185_several,ɾahuwəɾa,yagua_185_several__1
+186_countryfellow,ratjewae̯ʰ,yagua_186_countryfellow__1
+187_foreign,mãmẽ,yagua_187_foreign__1
+188_language,ʐanəkẽ,yagua_188_language__1
+189_man,wano,yagua_189_man__1
+190_woman,watəɾaʰ,yagua_190_woman__1
+191_i,rãhɪ̃tã,yagua_191_i__1
+192_you2sg,hiː,yagua_192_you2sg__1
+192_you2sg,ihita,yagua_192_you2sg__2
+198_some,nɪɾaho,yagua_198_some__1
+200_many,ɾahuwəɾa,yagua_200_many__1
+201_none,nɪ̃tinãe̯,yagua_201_none__1
+202_few,nəɾahuɾəɾa,yagua_202_few__1
+203_all,ɾahʊwəɾa,yagua_203_all__1
+204_half,satʊnã,yagua_204_half__1
+205_bunch,dɪ̃nũsɪ̃,yagua_205_bunch__1
+206_pair,anũɸũj̃n,yagua_206_pair__1
+207_both,anũvũj̃n,yagua_207_both__1
+208_southernamericanbushmaster,iɾjõnõ,yagua_208_southernamericanbushmaster__1
+209_lizard,nərtʊ,yagua_209_lizard__1
+210_yellowfootedtortoise,nɪtʲo,yagua_210_yellowfootedtortoise__1
+211_yellowspottedamazonriverturtle,tanakijɛ,yagua_211_yellowspottedamazonriverturtle__1
+212_amazonriverturtle,puka,yagua_212_amazonriverturtle__1
+213_anacondas,koɾɪ,yagua_213_anacondas__1
+214_commonlancehead,ãjanʊ,yagua_214_commonlancehead__1
+215_frog,tsəkɪto,yagua_215_frog__1
+216_iguana,namɨeʰ,yagua_216_iguana__1
+218_here,juɾa,yagua_218_here__1
+219_there,mʊ̃jaça,yagua_219_there__1
+219_there,muɲi,yagua_219_there__2
+220_before,tãɾɪ,yagua_220_before__1
+221_after,ɡewãhã,yagua_221_after__1
+222_now,wanẽɾa,yagua_222_now__1
+223_machete,mɨ̃tãː,yagua_223_machete__1
+224_hammock,nẽ,yagua_224_hammock__1
+225_pipe,tsɪnaʃjɛ,yagua_225_pipe__1
+226_canoe,mʊɲõ,yagua_226_canoe__1
+227_rowing,tsatjã,yagua_227_rowing__1
+228_basket,hĩtjʊ,yagua_228_basket__1
+229_rope,beʰɾũ,yagua_229_rope__1
+230_plate,tsinəpɪ,yagua_230_plate__1
+231_table,mãsãõ,yagua_231_table__1
+232_bed,mãhɛ,yagua_232_bed__1
+233_strainer,bujawahʲɔ,yagua_233_strainer__1
+234_fan,pãpẽtjʊ,yagua_234_fan__1
+235_walk,ɾaɾəpwi,yagua_235_walk__1
+236_cook,ʐabəpʰie,yagua_236_cook__1
+237_fish,ɾãpɾiõw̃ɛ̃,yagua_237_fish__1
+238_dance,aɾeja,yagua_238_dance__1
+239_sing,ɾamaʐa,yagua_239_sing__1
+240_tellstories,rãtũtʃĩwã,yagua_240_tellstories__1
+241_eat,ʐamɪ,yagua_241_eat__1
+242_drink,ʐahatʊ,yagua_242_drink__1
+243_urinate,rænsiwãː,yagua_243_urinate__1
+244_defecate,rakɨnaː,yagua_244_defecate__1
+245_boil,samupie,yagua_245_boil__1
+246_breathe,nõɾe̯aɾawiʃaː,yagua_246_breathe__1
+247_work,ʐãwã,yagua_247_work__1

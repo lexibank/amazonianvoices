@@ -1,0 +1,265 @@
+param_id,form,audio
+1_agriculturalfield,mɘŋmin,shiwilu_1_agriculturalfield__1
+2_abandonedagriculturalfield,lusʊ,shiwilu_2_abandonedagriculturalfield__1
+3_russetbackedoropendola,kamasutɘk̚,shiwilu_3_russetbackedoropendola__1
+3_russetbackedoropendola,kukʊʔ,shiwilu_3_russetbackedoropendola__2
+3_russetbackedoropendola,sɘʎʊʔ,shiwilu_3_russetbackedoropendola__3
+4_scarletmacaw,aitək̚,shiwilu_4_scarletmacaw__1
+5x1_bigwhitethroatedtoucan,ð̞uwiŋ,shiwilu_5x1_bigwhitethroatedtoucan__1
+5x2_littlewhitethroatedtoucan,nɘɾkandək̚,shiwilu_5x2_littlewhitethroatedtoucan__1
+6_spixsguan,tʃunsɘɾ,shiwilu_6_spixsguan__1
+7_yellowcrownedparrot,tʃindʒen,shiwilu_7_yellowcrownedparrot__1
+8_bluewingedparrotlet,ʃupi,shiwilu_8_bluewingedparrotlet__1
+9_ringedkingfisher,sasaʔ,shiwilu_9_ringedkingfisher__1
+10_greatkiskadee,ʃimbiʎikɘɾ,shiwilu_10_greatkiskadee__1
+10_greatkiskadee,tʃiʔtʃiʔ,shiwilu_10_greatkiskadee__2
+11_head,mʊtoʔ,shiwilu_11_head__1
+12_tooth,latɘk̚,shiwilu_12_tooth__1
+13_hand,itɘkla,shiwilu_13_hand__1
+14_face,lað̞a,shiwilu_14_face__1
+15_eye,lað̞a,shiwilu_15_eye__1
+16_nose,nɘtʃɘk,shiwilu_16_nose__1
+17_mouth,laʔlaʔ,shiwilu_17_mouth__1
+18_foot,landɘk̚,shiwilu_18_foot__1
+19_neck,uŋɡɘɾᵊ,shiwilu_19_neck__1
+20_ear,wiʔuk̚,shiwilu_20_ear__1
+21_shoulder,pipeɾ,shiwilu_21_shoulder__1
+22_arm,tambaʔ,shiwilu_22_arm__1
+23_chest,tʃiʔtɘk̚,shiwilu_23_chest__1
+24_belly,mɘɾˀpi,shiwilu_24_belly__1
+24_belly,ð̞uʔ,shiwilu_24_belly__2
+25_leg,tula,shiwilu_25_leg__1
+26_penis,mutuʔla,shiwilu_26_penis__1
+27_vagina,ʃiʔʃiʔla,shiwilu_27_vagina__1
+28_buttock,tɘkʎiʔ,shiwilu_28_buttock__1
+29_hair,ɘndʒɘk̚,shiwilu_29_hair__1
+30_finger,ðamɘʎa itɘkla,shiwilu_30_finger__1
+31_toe,ðamɘʎa landək̚,shiwilu_31_toe__1
+32_back,pitɘk̚,shiwilu_32_back__1
+33_knee,tuʔtuʔpi,shiwilu_33_knee__1
+34_eyebrow,wasɘɾ,shiwilu_34_eyebrow__1
+35_breast,muðin,shiwilu_35_breast__1
+36_heart,ð̞inlupi,shiwilu_36_heart__1
+37_liver,kaŋɡaŋ,shiwilu_37_liver__1
+38_intestines,ð̞uʎin,shiwilu_38_intestines__1
+39_tongue,ɲinɘkla,shiwilu_39_tongue__1
+40_urine,ĩjaʔðɘk̚,shiwilu_40_urine__1
+41_excrement,tʃitʃi,shiwilu_41_excrement__1
+42_blood,uklaðək̚,shiwilu_42_blood__1
+43_nail,tuʔtək̚la,shiwilu_43_nail__1
+44_bellybutton,mʊʔmʊʔ,shiwilu_44_bellybutton__1
+45_saliva,ðinluʔð̞ɘk̚,shiwilu_45_saliva__1
+46_ankle,kiʔjupila,shiwilu_46_ankle__1
+47_earring,asuŋuk̚,shiwilu_47_earring__1
+49_menstraditionalrobe,kalandək,shiwilu_49_menstraditionalrobe__1
+50_necklace,miːðu,shiwilu_50_necklace__1
+51_armoredcatfish,walatɘk,shiwilu_51_armoredcatfish__1
+52_electriceel,matukuɲɪ,shiwilu_52_electriceel__1
+52_electriceel,kuɲilu,shiwilu_52_electriceel__2
+53_stingray,miðukɘɾᵊ,shiwilu_53_stingray__1
+54_pirarucu,uŋmaʔ,shiwilu_54_pirarucu__1
+55_prochilodontidfish,waŋɡetʃɘk,shiwilu_55_prochilodontidfish__1
+56_silvermylossoma,tᵊɾɘk,shiwilu_56_silvermylossoma__1
+57_piranha,ðunaŋ,shiwilu_57_piranha__1
+58_catfishpseudoplatystomafasciatum,ðaʔwansɘɾᵊ,shiwilu_58_catfishpseudoplatystomafasciatum__1
+59_catfishcallichthyscallichthys,kuʔkuʔtɘk̚,shiwilu_59_catfishcallichthyscallichthys__1
+59_catfishcallichthyscallichthys,ikɘɾʎala,shiwilu_59_catfishcallichthyscallichthys__2
+60_catfishzungarozungaro,ðawansɘɾ,shiwilu_60_catfishzungarozungaro__1
+61_cichlidsfish,aðu,shiwilu_61_cichlidsfish__1
+62_wildbanana,ijunamɘk̚,shiwilu_62_wildbanana__1
+63_wildgarlic,sawamba,shiwilu_63_wildgarlic__1
+64_cushcushyam,mamaʔ,shiwilu_64_cushcushyam__1
+65_sachainchi,mituʔlɘmbi,shiwilu_65_sachainchi__1
+66_peanut,lɘmbipɘŋ,shiwilu_66_peanut__1
+67_manioc,kɘɾˀ,shiwilu_67_manioc__1
+68_piripiri,muʔsanaʔ,shiwilu_68_piripiri__1
+69_cacaotree,lawapi,shiwilu_69_cacaotree__1
+70_mocambotree,makɘɾᵊ,shiwilu_70_mocambotree__1
+71_chestnut,tambaʔpi,shiwilu_71_chestnut__1
+72_cashew,pawa,shiwilu_72_cashew__1
+73_culantro,supuʔpəkka,shiwilu_73_culantro__1
+74_tobacco,pindeɾ,shiwilu_74_tobacco__1
+75_peachpalm,uʔðapi,shiwilu_75_peachpalm__1
+76_aguaje,tʃipɘɾᵊ,shiwilu_76_aguaje__1
+77_patawa,sɘɲala,shiwilu_77_patawa__1
+78_coconut,kukupi,shiwilu_78_coconut__1
+78_coconut,paʎikʰəmbi,shiwilu_78_coconut__2
+79_cocona,kaðuʔluʔpi,shiwilu_79_cocona__1
+80_taro,tambin,shiwilu_80_taro__1
+81_stranglerfig,ɘʎʎa,shiwilu_81_stranglerfig__1
+83_giantceibatree,ʎinaŋ,shiwilu_83_giantceibatree__1
+84_cedar,nũŋnala,shiwilu_84_cedar__1
+86_annatto,luŋwan,shiwilu_86_annatto__1
+87_huito,ɘksa,shiwilu_87_huito__1
+88_lepidocaryumtenue,pambək̚,shiwilu_88_lepidocaryumtenue__1
+89_soapapple,takuŋ,shiwilu_89_soapapple__1
+91_hotpepper,nukaʔ,shiwilu_91_hotpepper__1
+92_wayruru,kamaʎila,shiwilu_92_wayruru__1
+93_maniocdrink,ukluluʔ,shiwilu_93_maniocdrink__1
+94_plantaindrink,sɘkmuʔluʔ,shiwilu_94_plantaindrink__1
+95_fishbasedfood,akipi,shiwilu_95_fishbasedfood__1
+96_arrow,waʔnaluʔ,shiwilu_96_arrow__1
+97_bow,pɘkteɲɲaŋ,shiwilu_97_bow__1
+98_harpoon,waʔnaluʔ,shiwilu_98_harpoon__1
+99_fishtrap,aʎisək,shiwilu_99_fishtrap__1
+100_spear,waʔna,shiwilu_100_spear__1
+101_temporaryshelter,tambuʔ,shiwilu_101_temporaryshelter__1
+102_blowgun,pɘktuna,shiwilu_102_blowgun__1
+103_shotgun,iʎapa,shiwilu_103_shotgun__1
+104_fishinghook,utɘk̚kuna,shiwilu_104_fishinghook__1
+105_fishpoisonvine,puɲaɲin,shiwilu_105_fishpoisonvine__1
+106_fishpoisonshrub,akawa,shiwilu_106_fishpoisonshrub__1
+107_chaman,lulɘndutɘk̚,shiwilu_107_chaman__1
+108_healer,lulɘndutɘk̚,shiwilu_108_healer__1
+109_song,tulunɘɾ,shiwilu_109_song__1
+110_design,ʎĩnsɘɾlusaʔ,shiwilu_110_design__1
+111_perforation,iwaʔluʔlusaʔ,shiwilu_111_perforation__1
+112_ayahuasca,tʃimipiluʎin,shiwilu_112_ayahuasca__1
+113_angelstears,toe,shiwilu_113_angelstears__1
+115_berrybugs,tusɘn,shiwilu_115_berrybugs__1
+116_southamericanpalmweevillarva,suleɾ,shiwilu_116_southamericanpalmweevillarva__1
+117_louse,tʃimɘŋ,shiwilu_117_louse__1
+118_wasp,kaŋgaŋ,shiwilu_118_wasp__1
+119_bulletant,dɘksula,shiwilu_119_bulletant__1
+120_dragonfly,kanʃu,shiwilu_120_dragonfly__1
+121_butterfly,ʃumitək̚,shiwilu_121_butterfly__1
+122_mosquito,tawɘʎa,shiwilu_122_mosquito__1
+122_mosquito,ijun,shiwilu_122_mosquito__2
+123_leafcutterant,wilək̚,shiwilu_123_leafcutterant__1
+124_spider,uwiʔ,shiwilu_124_spider__1
+125_father,tata,shiwilu_125_father__1
+126_mother,awa,shiwilu_126_mother__1
+127_brotherofman,iin,shiwilu_127_brotherofman__1
+127_brotherofman,jaʎiʔʃa,shiwilu_127_brotherofman__2
+127_brotherofman,jaʎiʔwa,shiwilu_127_brotherofman__3
+128_manssister,utᵊɾin,shiwilu_128_manssister__1
+129_womansbrother,ð̞uð̞ɘŋ,shiwilu_129_womansbrother__1
+130_womanssister,kaikʃa,shiwilu_130_womanssister__1
+130_womanssister,kaikwa,shiwilu_130_womanssister__2
+131_sonofman,eɾˀkuŋ,shiwilu_131_sonofman__1
+132_sonofwoman,wila,shiwilu_132_sonofwoman__1
+133_daughterofman,tɘklapin,shiwilu_133_daughterofman__1
+134_daughterofwoman,kuʔtin,shiwilu_134_daughterofwoman__1
+135_river,kupið̞əkʃað̞ək,shiwilu_135_river__1
+136_lagoon,sɘŋnaŋ,shiwilu_136_lagoon__1
+137_sun,kɘkki,shiwilu_137_sun__1
+138_moon,ð̞ukɘɾᵊ,shiwilu_138_moon__1
+139_rain,uʔlan,shiwilu_139_rain__1
+140_cloud,kɘkkiluktɘk,shiwilu_140_cloud__1
+141_mountain,mutupi,shiwilu_141_mountain__1
+142_lightning,uʔkuʎi,shiwilu_142_lightning__1
+143_thunder,ukʲila,shiwilu_143_thunder__1
+143_thunder,tʃiʎilɘn,shiwilu_143_thunder__2
+144_rock,laʔpi,shiwilu_144_rock__1
+145_leaf,lalumɘk̚,shiwilu_145_leaf__1
+146_fire,pɘŋ,shiwilu_146_fire__1
+147_water,ðɘk̚,shiwilu_147_water__1
+148_star,tanð̞ula,shiwilu_148_star__1
+149_soilearth,luʔpaʔ,shiwilu_149_soilearth__1
+150_tapir,pãŋwala,shiwilu_150_tapir__1
+151_agouti,ɘttʃɘk,shiwilu_151_agouti__1
+152_lowlandpaca,dɘkkanan,shiwilu_152_lowlandpaca__1
+153_whitelippedpeccary,lamaŋ,shiwilu_153_whitelippedpeccary__1
+154_capybara,tukusʊʔ,shiwilu_154_capybara__1
+155_jaguar,amanaʔ,shiwilu_155_jaguar__1
+156_spidermonkey,tuða,shiwilu_156_spidermonkey__1
+158_redhowlercotomono,luʔluʔ,shiwilu_158_redhowlercotomono__1
+159_southamericancoati,ilɘk̚,shiwilu_159_southamericancoati__1
+160_nancymasnightmonkey,kuðɘk̚,shiwilu_160_nancymasnightmonkey__1
+161_squirrelmonkeyfrailecillo,ʃaʔwɘŋ,shiwilu_161_squirrelmonkeyfrailecillo__1
+162_squirrelmonkeymartin,ɘttʃu,shiwilu_162_squirrelmonkeymartin__1
+163_amazonriverdolphin,sapanaʔ,shiwilu_163_amazonriverdolphin__1
+164_sloth,tʃilu,shiwilu_164_sloth__1
+165_armadillo,tʃiʔlɘk,shiwilu_165_armadillo__1
+166_anteater,seɾˀku,shiwilu_166_anteater__1
+167_tamanduaanteater,sulundɘk̚,shiwilu_167_tamanduaanteater__1
+168_woollymonkey,sulʊʔ,shiwilu_168_woollymonkey__1
+169_whitefacedcapuchin,awinan,shiwilu_169_whitefacedcapuchin__1
+170_fabric,kapi,shiwilu_170_fabric__1
+172_pitcher,pwiɲʊ,shiwilu_172_pitcher__1
+173_dye,taʔna,shiwilu_173_dye__1
+174_tattoo,ʎinsɘɾᵊ,shiwilu_174_tattoo__1
+175_house,pið̞ɘk,shiwilu_175_house__1
+176_quena,pileɲan,shiwilu_176_quena__1
+177_drum,tundun,shiwilu_177_drum__1
+179_one,alaʔsaʔ,shiwilu_179_one__1
+180_two,katuʔtaʔ,shiwilu_180_two__1
+181_three,kala,shiwilu_181_three__1
+182_four,iŋgatuʔ,shiwilu_182_four__1
+183_five,alejtəklun,shiwilu_183_five__1
+185_several,nuʔundaʔlusaʔ,shiwilu_185_several__1
+185_several,uʔðun,shiwilu_185_several__2
+186_countryfellow,kwapuʔaʔsuʔ,shiwilu_186_countryfellow__1
+187_foreign,waʔð̞an,shiwilu_187_foreign__1
+187x2_foreignmestizo,nɘɾmuð̞a,shiwilu_187x2_foreignmestizo__1
+188_language,laʔlaʔ,shiwilu_188_language__1
+189_man,əŋmuʔpinɘŋ,shiwilu_189_man__1
+190_woman,kuʔapɘɾᵊ,shiwilu_190_woman__1
+191_i,kwa,shiwilu_191_i__1
+192_you2sg,kɘŋma,shiwilu_192_you2sg__1
+193_heshe,nana,shiwilu_193_heshe__1
+194_weallincl,kɘŋmʊʔwaʔ,shiwilu_194_weallincl__1
+194_weallincl,kɘŋmuʔ,shiwilu_194_weallincl__2
+195_weallexcl,kuð̞a,shiwilu_195_weallexcl__1
+196_you2pl,kɘŋmamaʔ,shiwilu_196_you2pl__1
+197_they,nawaʔ,shiwilu_197_they__1
+198_some,nuʔundaʔ,shiwilu_198_some__1
+200_many,uʔðunlusaʔ,shiwilu_200_many__1
+200_many,mujndʒi,shiwilu_200_many__2
+201_none,ɲjeŋgasuʔ,shiwilu_201_none__1
+201_none,ɲalaʔsaʔ,shiwilu_201_none__2
+202_few,uʔɲiʃa,shiwilu_202_few__1
+203_all,iɲeɾ ðapɘɾᵊ,shiwilu_203_all__1
+204_half,iɲeɾ,shiwilu_204_half__1
+205_bunch,tunduŋ,shiwilu_205_bunch__1
+206_pair,insilaŋ,shiwilu_206_pair__1
+208_southernamericanbushmaster,natɘɾᵊ,shiwilu_208_southernamericanbushmaster__1
+209_lizard,tað̝a,shiwilu_209_lizard__1
+210_yellowfootedtortoise,maðu,shiwilu_210_yellowfootedtortoise__1
+211_yellowspottedamazonriverturtle,ð̞ameɾˀita,shiwilu_211_yellowspottedamazonriverturtle__1
+212_amazonriverturtle,pukaʔ,shiwilu_212_amazonriverturtle__1
+213_anacondas,kupiwaŋ,shiwilu_213_anacondas__1
+214_commonlancehead,tanð̝ɘŋwa,shiwilu_214_commonlancehead__1
+215_frog,uwaŋ,shiwilu_215_frog__1
+215_frog,ɘmbʊ,shiwilu_215_frog__2
+216_iguana,pəkkwala,shiwilu_216_iguana__1
+218_here,asɘk̚,shiwilu_218_here__1
+219_there,nanək,shiwilu_219_there__1
+220_before,ð̞asuʔ,shiwilu_220_before__1
+220_before,supinak,shiwilu_220_before__2
+220_before,napiʔ,shiwilu_220_before__3
+220_before,jaʔ,shiwilu_220_before__4
+221_after,nuʔsik,shiwilu_221_after__1
+222_now,ipaʔla,shiwilu_222_now__1
+223_machete,saweʎi,shiwilu_223_machete__1
+224_hammock,tala,shiwilu_224_hammock__1
+226_canoe,nuŋ,shiwilu_226_canoe__1
+227_rowing,neɾkuʔtək̚,shiwilu_227_rowing__1
+228_basket,landɘkpi,shiwilu_228_basket__1
+229_rope,luʎin,shiwilu_229_rope__1
+229_rope,suðutək,shiwilu_229_rope__2
+230_plate,sinan,shiwilu_230_plate__1
+231_table,misaʔ,shiwilu_231_table__1
+232_bed,pɘksaʔ,shiwilu_232_bed__1
+233_strainer,sulatuna,shiwilu_233_strainer__1
+233_strainer,ukʎin,shiwilu_233_strainer__2
+234_fan,unduna,shiwilu_234_fan__1
+235_walk,dɘkkundapaʎi,shiwilu_235_walk__1
+236_cook,kaluʔtapaʎi,shiwilu_236_cook__1
+236_cook,akusutapaʎi,shiwilu_236_cook__2
+236_cook,pisapaʎi,shiwilu_236_cook__3
+237_fish,dɘksamɘɾapaʎi,shiwilu_237_fish__1
+237_fish,dɘksamɘɾᵊ,shiwilu_237_fish__2
+237_fish,pwɘɾˀtʃapaʎi,shiwilu_237_fish__3
+238_dance,lansaʔpaʎi,shiwilu_238_dance__1
+239_sing,tulundeɾapaʎi,shiwilu_239_sing__1
+240_tellstories,windapaʎi,shiwilu_240_tellstories__1
+240_tellstories,lumbaʎi,shiwilu_240_tellstories__2
+241_eat,weɾambaʎi,shiwilu_241_eat__1
+241_eat,kaʔapaʎi,shiwilu_241_eat__2
+242_drink,uwapaʎi,shiwilu_242_drink__1
+243_urinate,ĩj̃aʔpaʎi,shiwilu_243_urinate__1
+244_defecate,tʃitʃapaʎi,shiwilu_244_defecate__1
+245_boil,aʔuklukaʔpaʎi,shiwilu_245_boil__1
+246_breathe,neɾjapaʎi,shiwilu_246_breathe__1
+247_work,sakaʔtapaʎi,shiwilu_247_work__1
