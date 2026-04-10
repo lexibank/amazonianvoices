@@ -16,20 +16,20 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
+![Concepticon: 74%](https://img.shields.io/badge/Concepticon-74%25-yellow.svg "Concepticon: 74%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
-![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
+![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
+![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
 
 - **Varieties:** 27 (linked to 26 different Glottocodes)
-- **Concepts:** 260 (linked to 161 different Concepticon concept sets)
+- **Concepts:** 260 (linked to 181 different Concepticon concept sets)
 - **Lexemes:** 6,206
 - **Sources:** 0
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 35,710
-- **Segments:** 177 (22 BIPA errors, 22 CLTS sound class errors, 155 CLTS modified)
-- **Inventory size (avg):** 49.56
+- **Tokens:** 35,532
+- **Segments:** 204 (2 BIPA errors, 2 CLTS sound class errors, 202 CLTS modified)
+- **Inventory size (avg):** 50.11
 
 ## Possible Improvements:
 
@@ -45,6 +45,7 @@ Roberto Zariquiey  |             | Author                                       
 Alonso Vásquez  |             | Author                                                          | Author
 Mariana Poblete  |             | Author                                                          | Author
 Hans-Jörg Bibiko |             | Programmer and maintainer of the data repository until 2024     | Author
+Frederic Blum | @FredericBlum | Author                                                          | Author
 Raquel Cabrera  |             | Author                                                          | Author
 Minerva Cerna   |             | Author                                                          | Author
 Jorge Pérez Silva  |             | Author                                                          | Author

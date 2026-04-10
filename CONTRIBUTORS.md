@@ -6,6 +6,7 @@ Roberto Zariquiey  |             | Author                                       
 Alonso Vásquez  |             | Author                                                          | Author
 Mariana Poblete  |             | Author                                                          | Author
 Hans-Jörg Bibiko |             | Programmer and maintainer of the data repository until 2024     | Author
+Frederic Blum | @FredericBlum | Author                                                          | Author
 Raquel Cabrera  |             | Author                                                          | Author
 Minerva Cerna   |             | Author                                                          | Author
 Jorge Pérez Silva  |             | Author                                                          | Author

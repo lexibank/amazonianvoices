@@ -2,16 +2,16 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 1_agriculturalfield,1,agricultural field,212,FIELD,chacra,,Agriculture and vegetation
 2_abandonedagriculturalfield,2,abandoned agricultural field,,,purma,,Agriculture and vegetation
 3_russetbackedoropendola,3,russet-backed oropendola,,,paucar,Psarocolius angustifrons.,Animals
-4_scarletmacaw,4,scarlet macaw,,,guacamayo,Ara macao,Animals
-4x1_redscarletmacaw,4_1,red scarlet macaw,,,guacamayo (rojo),Ara macao,Animals
-4x2_blueyellowscarletmacaw,4_2,blue-yellow scarlet macaw,,,guacamayo (azul-amarillo),Ara macao,Animals
-5_whitethroatedtoucan,5,white throated toucan,,,tucán,Ramphastos tucanus,Animals
+4_scarletmacaw,4,scarlet macaw,1630,MACAW,guacamayo,Ara macao,Animals
+4x1_redscarletmacaw,4_1,red scarlet macaw,3938,RED-AND-GREEN MACAW,guacamayo (rojo),Ara macao,Animals
+4x2_blueyellowscarletmacaw,4_2,blue-yellow scarlet macaw,3927,BLUE-AND-YELLOW MACAW,guacamayo (azul-amarillo),Ara macao,Animals
+5_whitethroatedtoucan,5,white throated toucan,308,TOUCAN,tucán,Ramphastos tucanus,Animals
 5x1_bigwhitethroatedtoucan,5_1,big white throated toucan,,,tucán grande,Ramphastos tucanus,Animals
 5x2_littlewhitethroatedtoucan,5_2,little white throated toucan,,,tucán pequeño,Ramphastos tucanus,Animals
 6_spixsguan,6,Spix's guan,,,pucacunga,Penelope jacquacu,Animals
 7_yellowcrownedparrot,7,yellow crowned parrot,,,aurora,Amazona ochrocephala,Animals
 8_bluewingedparrotlet,8,bluewinged parrotlet,,,pihuicho,Forpus xanthopterygius,Animals
-9_ringedkingfisher,9,ringed kingfisher,,,martín pescador,Megaceryle torquata,Animals
+9_ringedkingfisher,9,ringed kingfisher,2444,KINGFISHER,martín pescador,Megaceryle torquata,Animals
 10_greatkiskadee,10,Great kiskadee,,,víctor díaz,Pitangus sulphuratus,Animals
 11_head,11,head,1256,HEAD,cabeza,,The body
 12_tooth,12,tooth,1380,TOOTH,diente,,The body
@@ -81,18 +81,18 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 73_culantro,73,culantro,,,sachaculantro,Eryngium foetidum,Agriculture and vegetation
 74_tobacco,74,tobacco,974,TOBACCO,tabaco,Nicotiana tabacum,Agriculture and vegetation
 75_peachpalm,75,peach palm,3919,PEACH PALM,pijuayo,Bactris gasipaes,Agriculture and vegetation
-76_aguaje,76,aguaje,,,aguaje,Mauritia flexuosa,Agriculture and vegetation
+76_aguaje,76,aguaje,3811,MIRITI PALM,aguaje,Mauritia flexuosa,Agriculture and vegetation
 77_patawa,77,patawa,,,ungurahui,Oenucarpus bataua,Agriculture and vegetation
 78_coconut,78,coconut,970,COCONUT,coco,Cocos nucifera,Agriculture and vegetation
 79_cocona,79,cocona,,,cocona,Solanum sessiliflorum,Agriculture and vegetation
 80_taro,80,taro,351,TARO,pituca,Colocasia esculenta schott,Agriculture and vegetation
 81_stranglerfig,81,strangler fig,,,renaco,Picus schultesi,Agriculture and vegetation
 82_camucamu,82,camu-camu,,,camu camu,Myrciaria dubia,Agriculture and vegetation
-83_giantceibatree,83,giant ceiba tree,,,lupuna,Ceiba pentandra,Agriculture and vegetation
+83_giantceibatree,83,giant ceiba tree,2499,KAPOK TREE,lupuna,Ceiba pentandra,Agriculture and vegetation
 84_cedar,84,cedar,3929,BRAZILIAN CEDAR,cedro,Cedrus sp,Agriculture and vegetation
-85_mahogany,85,mahogany,,,caoba,Cedrelinga catenaeformis Ducke,Agriculture and vegetation
-86_annatto,86,annatto,,,achiote,Bixa orellana L.,Agriculture and vegetation
-87_huito,87,huito,,,huito,Genipa americana,Agriculture and vegetation
+85_mahogany,85,mahogany,455,MAHOGANY TREE,caoba,Cedrelinga catenaeformis Ducke,Agriculture and vegetation
+86_annatto,86,annatto,349,ACHIOTE,achiote,Bixa orellana L.,Agriculture and vegetation
+87_huito,87,huito,3920,GENIPA,huito,Genipa americana,Agriculture and vegetation
 88_lepidocaryumtenue,88,Lepidocaryum tenue,,,irapay,Lepidocaryum tenue,Agriculture and vegetation
 89_soapapple,89,soapapple,,,zapote,Pouteria sapota,Agriculture and vegetation
 90_ajospiro,90,ajospiro,,,ajospiro,,Agriculture and vegetation
@@ -110,9 +110,9 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 102_blowgun,102,blowgun,432,BLOWGUN,cerbatana/pucuna,,Warfare and hunting
 103_shotgun,103,shotgun,3948,SHOTGUN,escopeta,,Warfare and hunting
 104_fishinghook,104,fishing hook,1074,FISHHOOK,anzuelo,,Warfare and hunting
-105_fishpoisonvine,105,fish poison vine,,,barbasco,Deguelia lonchocarpus,Warfare and hunting
+105_fishpoisonvine,105,fish poison vine,348,FISH POISON,barbasco,Deguelia lonchocarpus,Warfare and hunting
 106_fishpoisonshrub,106,fish poison shrub,,,huaca,Clibadium sp,Warfare and hunting
-107_chaman,107,chaman,,,chamán,,Religion and belief
+107_chaman,107,chaman,394,SHAMAN (FOLK HEALER),chamán,,Religion and belief
 108_healer,108,healer,394,SHAMAN (FOLK HEALER),curandero,,Religion and belief
 109_song,109,song,1096,SONG,canto,,Religion and belief
 110_design,110,design,,,diseño,,Religion and belief
@@ -128,7 +128,7 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 116_southamericanpalmweevillarva,116,South American palm weevil larva,,,suri,Rhynchophorus palmarum,Animals
 117_louse,117,louse,1392,LOUSE,piojo,Phthiraptera sp,Animals
 118_wasp,118,wasp,1517,WASP,avispa,Apocrita sp,Animals
-119_bulletant,119,bullet ant,,,isula,Paraponera clavata,Animals
+119_bulletant,119,bullet ant,3935,LARGE-BULLET-ANT (subfamily Paraponerinae),isula,Paraponera clavata,Animals
 120_dragonfly,120,dragonfly,2352,DRAGONFLY,libélula/chinchilejo,Anisoptera sp,Animals
 121_butterfly,121,butterfly,1791,BUTTERFLY,mariposa,Lepidoptera sp,Animals
 122_mosquito,122,mosquito,1509,MOSQUITO,mosquito (zancudo),Culicidae sp.,Animals
@@ -137,9 +137,9 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 125_father,125,father,1217,FATHER,padre,,Kinship
 126_mother,126,mother,1216,MOTHER,madre,,Kinship
 127_brotherofman,127,brother of man,559,BROTHER (OF MAN),hermano de hombre (son del mismo género),,Kinship
-128_manssister,128,man's sister,,,hermana de hombre,,Kinship
-129_womansbrother,129,woman's brother,,,hermano de mujer,,Kinship
-130_womanssister,130,woman's sister,,,hermana de mujer (son del mismo género),,Kinship
+128_manssister,128,man's sister,561,SISTER (OF MAN),hermana de hombre,,Kinship
+129_womansbrother,129,woman's brother,560,BROTHER (OF WOMAN),hermano de mujer,,Kinship
+130_womanssister,130,woman's sister,562,SISTER (OF WOMAN),hermana de mujer (son del mismo género),,Kinship
 131_sonofman,131,son of man,3779,SON (OF MALE EGO),hijo de hombre,,Kinship
 131x1_son,131_1,son,1620,SON,hijo,,Kinship
 132_sonofwoman,132,son of woman,,,hijo de mujer,,Kinship
@@ -162,14 +162,14 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 149_soilearth,149,"soil, earth",1228,EARTH (SOIL),tierra,,The physical world
 150_tapir,150,tapir,312,TAPIR,sachavaca,Tapirus sp,Animals
 151_agouti,151,agouti,313,AGOUTI,añuje,Dasyprocta punctata,Animals
-152_lowlandpaca,152,lowland paca,,,majas,Cuniculus paca,Animals
+152_lowlandpaca,152,lowland paca,316,PACA,majas,Cuniculus paca,Animals
 153_whitelippedpeccary,153,white-lipped peccary,436,WHITE-LIPPED PECCARY,huangana,Tayassu pecari,Animals
 154_capybara,154,capybara,314,CAPYBARA,ronsoco,Hydrochoerus hydrochaeris,Animals
 155_jaguar,155,jaguar,1250,JAGUAR,jaguar,Panthera onca,Animals
 156_spidermonkey,156,spider monkey,434,SPIDER MONKEY,maquisapa,Ateles belzebuth,Animals
-157_redhowleraullador,157,red howler (aullador),,,aullador,Alouatta seniculus,Animals
+157_redhowleraullador,157,red howler (aullador),433,HOWLER MONKEY,aullador,Alouatta seniculus,Animals
 158_redhowlercotomono,158,red howler (cotomono),,,cotomono,Alouatta seniculus,Animals
-159_southamericancoati,159,South American coati,,,achuni (coatí),Nasua nasua,Animals
+159_southamericancoati,159,South American coati,2389,COATI (COATIMUNDI),achuni (coatí),Nasua nasua,Animals
 160_nancymasnightmonkey,160,Nancy Ma's night monkey,,,musmuqui,Aotus nancymaae,Animals
 161_squirrelmonkeyfrailecillo,161,squirrel monkey (frailecillo),,,frailecillo,Saimiri sciureus,Animals
 162_squirrelmonkeymartin,162,squirrel monkey (martín),,,martín,Saimiri sciureus,Animals
@@ -196,7 +196,7 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 182_four,182,four,1500,FOUR,cuatro,,Quantity
 183_five,183,five,493,FIVE,cinco,,Quantity
 184_few,184,few,1242,FEW,pocos,,Quantity
-185_several,185,several,1241,SOME,varios,,Quantity
+185_several,185,several,,,varios,,Quantity
 186_countryfellow,186,country fellow,,,paisano,,Social and political relations
 187_foreign,187,foreign,109,FOREIGN,extranjero,,Social and political relations
 187x2_foreignmestizo,187_2,foreign (mestizo),,,extranjero (mestizo),,Social and political relations
@@ -229,7 +229,7 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 210_yellowfootedtortoise,210,yellow-footed tortoise,,,motelo,Chelonoidis denticulata,Animals
 211_yellowspottedamazonriverturtle,211,yellow-spotted Amazon river turtle,,,taricaya,Podocnemis unifilis,Animals
 212_amazonriverturtle,212,Amazon river turtle,,,charapa,Podocnemis sp.,Animals
-213_anacondas,213,Anacondas,,,anaconda,Eunectes sp.,Animals
+213_anacondas,213,Anacondas,896,ANACONDA (WATER BOA),anaconda,Eunectes sp.,Animals
 214_commonlancehead,214,common lancehead,,,jergón,Bothrops atrox,Animals
 215_frog,215,frog,503,FROG,rana (que se come),Rana sp.,Animals
 216_iguana,216,iguana,1578,IGUANA,iguana,Iguana sp.,Animals
@@ -244,7 +244,7 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 224_hammock,224,hammock,2019,HAMMOCK,hamaca,,The house
 225_pipe,225,pipe,1124,PIPE,pipa,,Basic actions and technology
 226_canoe,226,canoe,1970,CANOE,canoa,,Motion
-227_rowing,227,rowing,,,remo,,Basic actions and technology
+227_rowing,227,rowing,234,PADDLE,remo,,Basic actions and technology
 228_basket,228,basket,1539,BASKET,canasta,,Basic actions and technology
 229_rope,229,rope,1218,ROPE,cuerda/soga,,Basic actions and technology
 230_plate,230,plate,480,PLATE,plato,,Basic actions and technology
