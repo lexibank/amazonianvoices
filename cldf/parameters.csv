@@ -200,13 +200,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Local_ID,Spanish_Gloss,Scientific_Name,
 189_man,man,1554,MAN,189,hombre,,Kinship
 190_woman,woman,962,WOMAN,190,mujer,,Kinship
 191_i,I,1209,I,191,1sg,,Kinship
-192_you2sg,you 2sg,1213,YOU,192,2sg,,Kinship
+192_you2sg,you 2sg,1215,THOU,192,2sg,,Kinship
 193_heshe,he/she,2642,HE OR SHE,193,3sg,,Kinship
 193x1_he,he,1211,HE,193_1,3sg masc,,Kinship
 193x2_she,she,1834,SHE,193_2,3sg fem,,Kinship
 194_weallincl,"we (all, INcl.)",1131,WE (INCLUSIVE),194,1incl,,Kinship
 195_weallexcl,"we (all, EXcl.)",1130,WE (EXCLUSIVE),195,1excl,,Kinship
-196_you2pl,you 2pl,1215,THOU,196,2pl,,Kinship
+196_you2pl,you 2pl,1213,YOU,196,2pl,,Kinship
 197_they,they,817,THEY,197,3pl,,Kinship
 197x1_theymasc,they (masc.),,,197_1,3pl masc,,Kinship
 197x2_theyfem,they (fem.),,,197_2,3pl fem,,Kinship
