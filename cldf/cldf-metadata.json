@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/lexibank/amazonianvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "2c42c41",
+            "dc:created": "777a5f5",
             "dc:title": "Repository"
         },
         {
@@ -41,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.14.4"
         },
         {
             "dc:title": "python-packages",

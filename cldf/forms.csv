@@ -15,7 +15,7 @@ amahuaca-13_hand-1,,amahuaca,13_hand,mɨkɨ̃n,mɨkɨ̃n,m ɨ k ɨ̃ n,,,,,^ m �
 amahuaca-14_face-1,,amahuaca,14_face,wɨmanaʔ,wɨmanaʔ,w ɨ m a n a ʔ,,,,,^ w ɨ m a n a ʔ $,default
 amahuaca-15_eye-1,,amahuaca,15_eye,wɨːɾʊ,wɨːɾʊ,w ɨː ɾ ʊ,,,,,^ w ɨː ɾ ʊ $,default
 amahuaca-16_nose-1,,amahuaca,16_nose,ɾɨkĩː,ɾɨkĩː,ɾ ɨ k ĩː,,,,,^ ɾ ɨ k ĩː $,default
-amahuaca-17_mouth-1,,amahuaca,17_mouth,kʰɨça̼ː,kʰɨça̼ː,kʰ ɨ ç a̼ː,,,,,^ kʰ ɨ ç a̼ː $,default
+amahuaca-17_mouth-1,,amahuaca,17_mouth,kʰɨça̰ː,kʰɨça̰ː,kʰ ɨ ç a̰ː,,,,,^ kʰ ɨ ç a̰ː $,default
 amahuaca-18_foot-1,,amahuaca,18_foot,taʔɨ,taʔɨ,t a ʔ ɨ,,,,,^ t a ʔ ɨ $,default
 amahuaca-19_neck-1,,amahuaca,19_neck,tɨço,tɨço,t ɨ ç o,,,,,^ t ɨ ç o $,default
 amahuaca-20_ear-1,,amahuaca,20_ear,pawĩnki,pawĩnki,p a w ĩ n k i,,,,,^ p a w ĩ n k i $,default
@@ -211,7 +211,7 @@ amahuaca-224_hammock-1,,amahuaca,224_hammock,ɾisiʔ,ɾisiʔ,ɾ i s i ʔ,,,,,^ �
 amahuaca-225_pipe-1,,amahuaca,225_pipe,ɾumbɨmʊntɪ,ɾumbɨmʊntɪ,ɾ u m b ɨ m ʊ n t ɪ,,,,,^ ɾ u m b ɨ m ʊ n t ɪ $,default
 amahuaca-226_canoe-1,,amahuaca,226_canoe,hɨnʊntɪʔ,hɨnʊntɪʔ,h ɨ n ʊ n t ɪ ʔ,,,,,^ h ɨ n ʊ n t ɪ ʔ $,default
 amahuaca-227_rowing-1,,amahuaca,227_rowing,wĩntɪʔ,wĩntɪʔ,w ĩ n t ɪ ʔ,,,,,^ w ĩ n t ɪ ʔ $,default
-amahuaca-228_basket-1,,amahuaca,228_basket,kakãⁿ,kakãⁿ,k a k ã,,,,,^ k a k ãⁿ $,default
+amahuaca-228_basket-1,,amahuaca,228_basket,kakãⁿ,kakãⁿ,k a k ã n,,,,,^ k a k ãⁿ $,default
 amahuaca-228_basket-2,,amahuaca,228_basket,tas̺aʔ,tas̺aʔ,t a s̺ a ʔ,,,,,^ t a s̺ a ʔ $,default
 amahuaca-229_rope-1,,amahuaca,229_rope,miʃkitɪ,miʃkitɪ,m i ʃ k i t ɪ,,,,,^ m i ʃ k i t ɪ $,default
 amahuaca-230_plate-1,,amahuaca,230_plate,ratʊʔ,ratʊʔ,r a t ʊ ʔ,,,,,^ r a t ʊ ʔ $,default
@@ -5459,7 +5459,7 @@ yagua-163_amazonriverdolphin-1,,yagua,163_amazonriverdolphin,hãnto,hãnto,h �
 yagua-164_sloth-1,,yagua,164_sloth,hatɛ,hatɛ,h a t ɛ,,,,,^ h a t ɛ $,default
 yagua-165_armadillo-1,,yagua,165_armadillo,mʊ̃natʊ̃,mʊ̃natʊ̃,m ʊ̃ n a t ʊ̃,,,,,^ m ʊ̃ n a t ʊ̃ $,default
 yagua-166_anteater-1,,yagua,166_anteater,ʃutʲʊ,ʃutʲʊ,ʃ u tʲ ʊ,,,,,^ ʃ u tʲ ʊ $,default
-yagua-167_tamanduaanteater-1,,yagua,167_tamanduaanteater,aɾə̃pwə̃ʰ,aɾə̃pwə̃ʰ,a ɾ ə̃ p w ə̤̃,,,,,^ a ɾ ə̃ p w ə̃ʰ $,default
+yagua-167_tamanduaanteater-1,,yagua,167_tamanduaanteater,aɾə̃pʷə̃ʰ,aɾə̃pʷə̃ʰ,a ɾ ə̃ pʷ ə̤̃,,,,,^ a ɾ ə̃ pʷ ə̃ʰ $,default
 yagua-168_woollymonkey-1,,yagua,168_woollymonkey,kadʒũnʊ̃,kadʒũnʊ̃,k a dʒ ũ n ʊ̃,,,,,^ k a dʒ ũ n ʊ̃ $,default
 yagua-170_fabric-1,,yagua,170_fabric,tsahaʰ,tsahaʰ,ts a h a h,,,,,^ ts a h aʰ $,default
 yagua-172_pitcher-1,,yagua,172_pitcher,hapatʲʊ,hapatʲʊ,h a p a tʲ ʊ,,,,,^ h a p a tʲ ʊ $,default
@@ -6169,7 +6169,7 @@ yinepiro-205_bunch-1,,yinepiro,205_bunch,tsotsotaçi,tsotsotaçi,ts o ts o t a �
 yinepiro-206_pair-1,,yinepiro,206_pair,lɨptʃaɫɨ,lɨptʃaɫɨ,l ɨ p tʃ a ɫ ɨ,,,,,^ l ɨ p tʃ a ɫ ɨ $,default
 yinepiro-209_lizard-1,,yinepiro,209_lizard,kʃijoçiɾɨ,kʃijoçiɾɨ,k ʃ i j o ç i ɾ ɨ,,,,,^ k ʃ i j o ç i ɾ ɨ $,default
 yinepiro-210_yellowfootedtortoise-1,,yinepiro,210_yellowfootedtortoise,knoja,knoja,k n o j a,,,,,^ k n o j a $,default
-yinepiro-211_yellowspottedamazonriverturtle-1,,yinepiro,211_yellowspottedamazonriverturtle,sɨpᶤɾɨ,sɨpᶤɾɨ,s ɨ pᶤ ɾ ɨ,,,,,^ s ɨ pᶤ ɾ ɨ $,default
+yinepiro-211_yellowspottedamazonriverturtle-1,,yinepiro,211_yellowspottedamazonriverturtle,sɨpᶤɾɨ,sɨpᶤɾɨ,s ɨ pᵊ ɾ ɨ,,,,,^ s ɨ pᶤ ɾ ɨ $,default
 yinepiro-213_anacondas-1,,yinepiro,213_anacondas,maptʃiɾi,maptʃiɾi,m a p tʃ i ɾ i,,,,,^ m a p tʃ i ɾ i $,default
 yinepiro-214_commonlancehead-1,,yinepiro,214_commonlancehead,miamʷɨtihwe,miamʷɨtihwe,m i a mʷ ɨ t i h w e,,,,,^ m i a mʷ ɨ t i h w e $,default
 yinepiro-215_frog-1,,yinepiro,215_frog,mkoli,mkoli,m k o l i,,,,,^ m k o l i $,default

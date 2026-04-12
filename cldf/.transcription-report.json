@@ -1,10 +1,8 @@
 {
     "by_language": {
         "amahuaca": {
-            "bipa_errors": [
-                "a\u033c\u02d0"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -613,16 +611,13 @@
                     "\u207fd"
                 ]
             },
-            "sclass_errors": [
-                "a\u033c\u02d0"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 8,
                 "a": 154,
                 "a\u02d0": 15,
                 "a\u0330": 6,
-                "a\u0330\u02d0": 2,
-                "a\u033c\u02d0": 1,
+                "a\u0330\u02d0": 3,
                 "b": 17,
                 "d": 27,
                 "h": 22,
@@ -634,7 +629,7 @@
                 "k\u02b0": 2,
                 "l": 1,
                 "m": 46,
-                "n": 88,
+                "n": 89,
                 "o": 27,
                 "o\u02d0": 2,
                 "o\u0330": 6,
@@ -15913,9 +15908,9 @@
                 "n": 108,
                 "o": 34,
                 "o\u02d0": 1,
-                "p": 21,
+                "p": 20,
                 "p\u02b0": 3,
-                "p\u02b7": 1,
+                "p\u02b7": 2,
                 "r": 22,
                 "r\u0325": 16,
                 "s": 41,
@@ -15927,7 +15922,7 @@
                 "t\u1d4a": 2,
                 "u": 25,
                 "v": 1,
-                "w": 48,
+                "w": 47,
                 "w\u0303": 2,
                 "\u00e3": 67,
                 "\u00e3\u02d0": 7,
@@ -17292,10 +17287,8 @@
             }
         },
         "yinepiro": {
-            "bipa_errors": [
-                "p\u1da4"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -17904,9 +17897,7 @@
                     "\u207fd"
                 ]
             },
-            "sclass_errors": [
-                "p\u1da4"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 15,
                 "a": 203,
@@ -17931,8 +17922,7 @@
                 "o": 89,
                 "p": 63,
                 "p\u02b0": 1,
-                "p\u1d4a": 2,
-                "p\u1da4": 1,
+                "p\u1d4a": 3,
                 "r": 1,
                 "s": 32,
                 "t": 48,
@@ -17968,31 +17958,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "amahuaca-17_mouth-1",
-                "amahuaca",
-                "17_mouth",
-                "k\u02b0\u0268\u00e7a\u033c\u02d0",
-                "k\u02b0 \u0268 \u00e7 <s> a\u033c\u02d0 </s>"
-            ],
-            [
-                "yinepiro-211_yellowspottedamazonriverturtle-1",
-                "yinepiro",
-                "211_yellowspottedamazonriverturtle",
-                "s\u0268p\u1da4\u027e\u0268",
-                "s \u0268 <s> p\u1da4 </s> \u027e \u0268"
-            ]
-        ],
-        "bad_words_count": 2,
-        "bipa_errors": [
-            "a\u033c\u02d0",
-            "p\u1da4"
-        ],
-        "general_errors": 2,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 50.111111111111114,
+        "inventory_size": 50.03703703703704,
         "replacements": {
             "+": [
                 "+"
@@ -18601,10 +18573,7 @@
                 "\u207fd"
             ]
         },
-        "sclass_errors": [
-            "a\u033c\u02d0",
-            "p\u1da4"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 273,
             "a": 5212,
@@ -18612,8 +18581,7 @@
             "a\u0324": 2,
             "a\u0324\u02d0": 1,
             "a\u0330": 17,
-            "a\u0330\u02d0": 2,
-            "a\u033c\u02d0": 1,
+            "a\u0330\u02d0": 3,
             "b": 493,
             "b\u02b7": 2,
             "c": 8,
@@ -18657,7 +18625,7 @@
             "m\u02b2": 9,
             "m\u02b7": 7,
             "m\u0329": 1,
-            "n": 2042,
+            "n": 2043,
             "n\u02d0": 1,
             "o": 1518,
             "o\u02d0": 70,
@@ -18666,14 +18634,13 @@
             "o\u031e\u02d0": 1,
             "o\u032f": 2,
             "o\u0330": 8,
-            "p": 1276,
+            "p": 1275,
             "p\u02b0": 41,
             "p\u02b2": 8,
-            "p\u02b7": 9,
+            "p\u02b7": 10,
             "p\u031a": 8,
             "p\u032c": 26,
-            "p\u1d4a": 2,
-            "p\u1da4": 1,
+            "p\u1d4a": 3,
             "q": 1,
             "r": 58,
             "r\u0325": 16,
@@ -18697,7 +18664,7 @@
             "u\u031e": 2,
             "u\u032f": 2,
             "v": 2,
-            "w": 777,
+            "w": 776,
             "w\u0303": 24,
             "x": 60,
             "y": 1,
