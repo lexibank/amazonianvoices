@@ -90,14 +90,13 @@ def get_audio_filename_via_slug(p, w):
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "amazonianvoices"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     concept_class = CustomConcept
 
     form_spec = pylexibank.FormSpec(
         missing_data=['-', '--', '- -'],
-        replacements=[
-            (':', 'ː'),
-        ],
+        replacements=[(':', 'ː')],
         normalize_unicode='NFC',
     )
 

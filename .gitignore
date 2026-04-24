@@ -171,3 +171,4 @@ __MACOSX
 .idea
 raw/csv/*/audio
 
+*.sqlite3
