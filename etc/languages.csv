@@ -1,28 +1,28 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-amahuaca,Amahuaca,amah1246,Amahuaca,amc,South America,-10.20, -72.32,Pano-Tacanan
-ashaninka,Asháninka,asha1243,Asháninka,cni,South America,-11.93,-73.91,Arawakan
+amahuaca,Amawaka,amah1246,Amahuaca,amc,South America,-10.20, -72.32,Pano-Tacana
+ashaninka,Asháninka,asha1243,Asháninka,cni,South America,-11.93,-73.91,Arawak
 awajun,Awajún,agua1253,Aguaruna,agr,South America,-5.30,-77.92,Chicham
-bora,Bora,bora1263,Bora,boa,South America,-2.00,-72.26,Boran
-cashinahuahunikuin,Cashinahua,cash1254,Cashinahua,cbs,South America,-9.72,-71.17,Pano-Tacanan
-chaninawa,Chaninawa,chan1321,Chandinahua,,South America,-9.88,-71.6,Pano-Tacanan
-iskonahua,Iskonahua,isco1239,Isconahua,isc,South America,-7.75,-74.52,Pano-Tacanan
-kakataibosinchiroca,Kakataibo Sinchi Roca,caca1248,Cacataibo de Sinchi Roca,,South America,-8.7,-75.42,Pano-Tacanan
-madijaculina,Madija (Culina),culi1244,Culina,cul,South America,-8.55,-70.66,Arawan
-marinawa,Marinawa,mari1443,Marinahua,,South America,-11.37,-72.04,Pano-Tacanan
-mastanawa,Mastanawa,mast1238,Mastanahua,,South America,-9.88,-71.6,Pano-Tacanan
-matses,Matses,mats1244,Matsés,mcf,South America,-5.74,-72.63,Pano-Tacanan
-matsigenka,Matsigenka,mach1267,Machiguenga,mcb,South America,-12.13,-72.5,Arawakan
-murui,Murui,muru1274,Murui Huitoto,huu,South America,-1.14,-73.83,Huitotoan
-ocaina,Ocaina,ocai1244,Ocaina,oca,South America,-2.16,-72.14,Huitotoan
-pastazakichwa,Pastaza Kichwa,sout2990,Pastaza Quechua,,South America,-2.60653,-76.28295,Quechuan
-sharanahua,Sharanahua,shar1245,Sharanahua,mcd,South America,-9.86,-71.12,Pano-Tacanan
-shawandawa,Shawandawá,shaw1250,Arara-Shawanawa,,South America,-7.97456,-71.56151,Pano-Tacanan
-shawi,Shawi,chay1248,Shawi,cbt,South America,-5.64,-76.83,Cahuapanan
-shipibokonibo,Shipibo-Konibo,ship1254,Shipibo-Conibo,shp,South America,-7.17,-74.82,Pano-Tacanan
-shiwilu,Shiwilu,jebe1250,Jebero,jeb,South America,-5.40,-76.41,Cahuapanan
+bora,Bora,bora1263,Bora,boa,South America,-2.00,-72.26,Bora
+cashinahuahunikuin,Huni-Kuin,cash1254,Cashinahua,cbs,South America,-9.72,-71.17,Pano-Tacana
+chaninawa,Chaninawa,chan1321,Chandinahua,,South America,-9.88,-71.6,Pano-Tacana
+iskonahua,Iskonawa,isco1239,Isconahua,isc,South America,-7.75,-74.52,Pano-Tacana
+kakataibosinchiroca,Kakataibo Sinchi Roca,caca1248,Cacataibo de Sinchi Roca,,South America,-8.7,-75.42,Pano-Tacana
+madijaculina,Madija (Culina),culi1244,Culina,cul,South America,-8.55,-70.66,Arawa
+marinawa,Marinawa,mari1443,Marinahua,,South America,-11.37,-72.04,Pano-Tacana
+mastanawa,Mastanawa,mast1238,Mastanahua,,South America,-9.88,-71.6,Pano-Tacana
+matses,Matses,mats1244,Matsés,mcf,South America,-5.74,-72.63,Pano-Tacana
+matsigenka,Matsigenka,mach1267,Machiguenga,mcb,South America,-12.13,-72.5,Arawak
+murui,Murui,muru1274,Murui Huitoto,huu,South America,-1.14,-73.83,Huitoto
+ocaina,Ocaina,ocai1244,Ocaina,oca,South America,-2.16,-72.14,Huitoto
+pastazakichwa,Pastaza Kichwa,sout2990,Pastaza Quechua,,South America,-2.60653,-76.28295,Quechua
+sharanahua,Sharanawa,shar1245,Sharanahua,mcd,South America,-9.86,-71.12,Pano-Tacana
+shawandawa,Shawandawá,shaw1250,Arara-Shawanawa,,South America,-7.97456,-71.56151,Pano-Tacana
+shawi,Shawi,chay1248,Shawi,cbt,South America,-5.64,-76.83,Kawapana
+shipibokonibo,Shipibo-Konibo,ship1254,Shipibo-Conibo,shp,South America,-7.17,-74.82,Pano-Tacana
+shiwilu,Shiwilu,jebe1250,Jebero,jeb,South America,-5.40,-76.41,Kawapana
 ticuna,Ticuna,ticu1245,Ticuna,tca,South America,-3.66,-69.87,Ticuna-Yuri
 wampis,Wampis,huam1247,Huambisa,hub,South America,-3.99,-77.98,Chicham
 yagua,Yagua,yagu1244,Yagua,yad,South America,-3.43,-72.22,Peba-Yagua
-yanesha,Yanesha,yane1238,Yanesha',ame,South America,-10.55,-75.31,Arawakan
-yaneshaamuesha,Yanesha (Amuesha),yane1238,Yanesha',ame,South America,-10.55,-75.31,Arawakan
-yinepiro,Yine (Piro),yine1238,Yine,pib,South America,-11.11,-73.31,Arawakan
+yanesha,Yanesha,yane1238,Yanesha',ame,South America,-10.55,-75.31,Arawak
+yaneshaamuesha,Yanesha (Amuesha),yane1238,Yanesha',ame,South America,-10.55,-75.31,Arawak
+yinepiro,Yine,yine1238,Yine,pib,South America,-11.11,-73.31,Arawak

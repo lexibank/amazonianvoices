@@ -215,7 +215,6 @@ ID,Local_ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish_Gloss,Scientific_Name,
 197x1_theymasc,197_1,they (masc.),,,3pl masc,,Kinship
 197x2_theyfem,197_2,they (fem.),,,3pl fem,,Kinship
 198_some,198,some,1241,SOME,algunos,,Quantity
-199_several,199,several,1241,SOME,varios,,Quantity
 200_many,200,many,1198,MANY,muchos,,Quantity
 201_none,201,none,,,ninguno,,Quantity
 202_few,202,few,1242,FEW,pocos,,Quantity
