@@ -7,7 +7,8 @@
   - `audio/`
 - run `upload.py` to upload audio to CDSTAR, updating `raw/catalog.json`.
 
-Then it should be possible to run 
+Then it should be possible to run
+
 ```shell
 cldfbench lexibank.makecldf lexibank_amazonianvoices.py --glottolog ../../glottolog/glottolog
 ```

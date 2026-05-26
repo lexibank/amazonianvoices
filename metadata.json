@@ -1,8 +1,8 @@
 {
     "id": "amazonianvoices",
     "title": "Amazonian Voices",
-    "description": "Amazonian Voices presents phonetically-transcribed primary recordings.",
+    "description": "Amazonian Voices 1.0: A community-friendly CLDF dataset capturing the phonetic diversity of Amazonian languages",
     "license": "CC-BY-NC-4.0",
     "url": null,
-    "citation": null
+    "citation": "Vásquez-Aguilar, Alonso and Poblete, Mariana and Cerna, Minerva and Cabrera, Raquel, and Bibiko, Hans-Jörg, and Pérez Silva, Jorge and Sato, Jorge and Blum, Frederic and Forkel, Robert and Gray, Russell D. and Zariquiey, Roberto. 2026. Amazonian Voices 1.0: A community-friendly CLDF dataset capturing the phonetic diversity of Amazonian languages"
 }
